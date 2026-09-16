@@ -12,7 +12,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -27,7 +27,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -42,7 +42,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. Nadkarni",
@@ -84,7 +84,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss Sheela Singh",
@@ -99,7 +99,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Vyankatesh Madgulkar",
@@ -111,12 +111,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Vyankatesh Madgulkar is a pioneer of the new short story, specialising in rural sketches.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a pioneer of the new short story, specialising in rural sketches",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. D. Deshmukh",
@@ -128,12 +128,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "S. D. Deshmukh has translated Bangarwadi, Vyankatesh Madgulkar's novel about a schoolmaster's experience of a shepherd community.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has translated Bangarwadi, Vyankatesh Madgulkar's novel about a schoolmaster's experience of a shepherd community",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Anil",
@@ -150,7 +150,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Kusumagraj",
@@ -167,7 +167,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. S. Rege",
@@ -202,7 +202,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Arun Kolatkar",
@@ -216,12 +216,12 @@
       7,
       11
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Arun Kolatkar is a versatile illustrator who also writes poems and stories in both Marathi and English. Some of his poems have been published in QUEST.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a versatile illustrator who also writes poems and stories in both Marathi and English",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Indira",
@@ -238,7 +238,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. G. Deshpande",
@@ -250,12 +250,12 @@
     "toc_indexes": [
       8
     ],
-    "note_verbatim": "Kusumavati Deshpande form a little group of their own. We shall call them humanitarians if for no better reason than because they often refer to the humanity of a writer and judge him in terms of that humanity. What they mean by this term 'humanity' is not qu'ite clear. At times it appears to mean sympathy for and understanding of other human beings. At other times, it means the quality of being human, which is an excellent example of a circular definition. In one of her articles, Mrs. Deshpande says that it is because of our common humanity that a writer can write about other people's lives and a reader can enjoy a work of art. This, too, appears to be a case of being more specific without being less vague.",
-    "note_printed_page": 72,
+    "note_verbatim": "N. G. Deshpande has charted an independent course in the realm of lyric poetry.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has charted an independent course in the realm of lyric poetry",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sanjeevani",
@@ -272,7 +272,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sharatchandra Muktibodh",
@@ -306,7 +306,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Padma",
@@ -323,7 +323,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Vasant Bapat",
@@ -340,7 +340,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. P. Sirkar",
@@ -354,12 +354,12 @@
       14,
       16
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "R. P. Sirkar is an active member of the P.E.N.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is an active member of the P.E.N.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Vinda Karandikar",
@@ -388,12 +388,12 @@
     "toc_indexes": [
       15
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "B. B. Borkar has left his mark on the poetry of a whole generation.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has left his mark on the poetry of a whole generation",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mangesh Padgaonkar",
@@ -410,7 +410,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Kusumavati Deshpande",
@@ -427,7 +427,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "W. L. Kulkarni",
@@ -478,7 +478,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. B. Bhave",
@@ -495,7 +495,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Shantaram",
@@ -512,7 +512,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. B. Mokashi",
@@ -524,12 +524,12 @@
     "toc_indexes": [
       23
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "D. B. Mokashi has been writing short stories for over a decade. His apparent artlessness hides a delicate melancholy and directness of approach.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has been writing short stories for over a decade",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mangesh Padki",
@@ -541,12 +541,12 @@
     "toc_indexes": [
       23
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Mangesh Padki is a leading short story writer of the younger generation.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a leading short story writer of the younger generation",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. B. Joshi",
@@ -563,7 +563,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Anant Kanekar",
@@ -575,12 +575,12 @@
     "toc_indexes": [
       25
     ],
-    "note_verbatim": "ANANT KANEKAR solitary light of th e light essay. playwright and travelogue-writer.",
+    "note_verbatim": "ANANT KANEKAR solitary light of th e light essay. playwright and travelogue-writer. Anant Kanekar has been elected President of the Marathi Sahitya Sammelan to be held at Aurangabad in the last week of April.",
     "note_printed_page": 48,
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ravindra Pinge",
@@ -592,12 +592,12 @@
     "toc_indexes": [
       25
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ravindra Pinge writes pen-portraits and radio-plays.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "writes pen-portraits and radio-plays",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. V. Rajadhyaksha",
@@ -609,12 +609,12 @@
     "toc_indexes": [
       26
     ],
-    "note_verbatim": "pROF. M. V. Rajadhyaksha and Mrs.",
-    "note_printed_page": 72,
+    "note_verbatim": "M. V. Rajadhyaksha is a prominent critic and humorist.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a prominent critic and humorist",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Gangadhar Gadgil",
@@ -626,12 +626,12 @@
     "toc_indexes": [
       27
     ],
-    "note_verbatim": "Gangadhar Gadgil Both of them are keenly aware of the relation between social conditions and artistic creation. They appear to expect that an author should have a deep awareness of the social conditions and problems of his times. One finds traces of Marxist influence in their thought. Yet one would not call them Marxists.",
-    "note_printed_page": 72,
+    "note_verbatim": "Gangadhar Gadgil, short story writer, critic and novelist, has been awarded a Rockefeller Foundation travelling fellowship. His story, The Cage, was published in QUEST (Oct./Nov. '56).",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "short story writer, critic and novelist, has been awarded a Rockefeller Foundation travelling fellowship",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. P. Rege",
@@ -643,12 +643,12 @@
     "toc_indexes": [
       28
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "M. P. Rege has recently come out with a candid critique of the late B. S. Mardhekar's aesthetic theories.",
+    "note_printed_page": 24,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has recently come out with a candid critique of the late B. S. Mardhekar's aesthetic theories",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. K. Bedekar",

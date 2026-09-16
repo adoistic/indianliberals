@@ -14,7 +14,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Advisory Editors: Nirad C. Chaudhuri, Sudhin Datta, D. G. Nadkarni",
@@ -29,7 +29,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -44,7 +44,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Swami Agehananda",
@@ -61,7 +61,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. D. Karve",
@@ -78,7 +78,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ithuriel",
@@ -90,12 +90,12 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ithuriel is the pseudonym of a famous journalist.",
+    "note_printed_page": 48,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is the pseudonym of a famous journalist",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "John Clement",
@@ -112,7 +112,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ranjani Rao",
@@ -129,12 +129,14 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Monika Verma",
     "name_as_in_contributor_note": null,
-    "name_variants": [],
+    "name_variants": [
+      "Monika Varma"
+    ],
     "roles": [
       "author"
     ],
@@ -146,11 +148,11 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "V. Madgulkar",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Vyankatesh Madgulkar",
     "name_variants": [],
     "roles": [
       "author"
@@ -158,12 +160,12 @@
     "toc_indexes": [
       8
     ],
-    "note_verbatim": "Vyankatesh Madgulkar works in All India Radio, Poona. His book of short stories, Kali Aai, was recently awarded a State prize. His novel, Bangarwadi, is being translated into Japanese. lthuriel is the pseudonym of a famous journalist.",
+    "note_verbatim": "Vyankatesh Madgulkar works in All India Radio, Poona. His book of short stories, Kali Aai, was recently awarded a State prize. His novel, Bangarwadi, is being translated into Japanese.",
     "note_printed_page": 48,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "works in All India Radio, Poona",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Translated from the Marathi by S.D. DESHMUKH",
@@ -184,7 +186,7 @@
   },
   {
     "byline_verbatim": "M. Joshi",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Mahadeoshastri Joshi",
     "name_variants": [],
     "roles": [
       "author"
@@ -197,11 +199,11 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Translated from the Marathi by M. D. HATKANANGALEKAR",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "M. D. Hatkanangalekar",
     "name_variants": [],
     "roles": [
       "translator"
@@ -214,7 +216,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. B. Joshi",
@@ -231,7 +233,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. Nadkarni",
@@ -248,7 +250,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Charles Higham",
@@ -265,7 +267,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "L. F.",
@@ -282,7 +284,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. G. P.",
@@ -299,7 +301,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Prabhakar Padhye",
@@ -318,7 +320,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. Natarajan",
@@ -335,7 +337,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. K.",
@@ -352,7 +354,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "V. K. Bawa",
@@ -369,7 +371,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. K. Haldar",
@@ -386,7 +388,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. B. Shah",
@@ -403,7 +405,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. C.",
@@ -420,7 +422,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Lola Chatterji",
@@ -437,7 +439,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mangesh Padki",
@@ -454,7 +456,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "REVIEWS EDITOR: MRS. LAEEQ FUTEHALLY",
@@ -469,7 +471,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "BUSINESS MANAGER: MISS SHEELA SINGH",
@@ -484,6 +486,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

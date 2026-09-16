@@ -10,11 +10,11 @@
       2
     ],
     "note_verbatim": "Bishnu Dey, one of the major poets of Bengal after Tagore, teaches English Literature a t Central College, Calcutta. His publications include half a dozen books of verse, two volumes of essays in literary criticism, two books of translation from Western poets, including one from T. S. Eliot.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "teaches English Literature at Central College, Calcutta",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Daya Krishna",
@@ -27,11 +27,11 @@
       3
     ],
     "note_verbatim": "Day a Krishna teaches Philosophy at the University of Saugor. His articles have appeared in some of the best philosophical and sociological journals of Europe and America. Author of The Nature of Philosophy.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "teaches Philosophy at the University of Saugor",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. de Loyola Furtado",
@@ -44,11 +44,11 @@
       4
     ],
     "note_verbatim": "R. de Loyola Furtado is Lecturer in English Literature at Punjab University. His collection of poems The Centre has been published by Cromlech Press, England; Shelly :Concept of Nature, a book of literary criticism, is now in the press .",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Lecturer in English Literature at Punjab University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Abu Sayeed Ayyub",
@@ -62,11 +62,11 @@
       5
     ],
     "note_verbatim": "Abu Sayeed Ayyub has taught Philosophy at the Universities of Calcutta and Visvabharati. His book The Nature of Intrinsic Value is awaiting publication. He h as e dited two anthologies of contemporary Bengali poetry.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has taught Philosophy at the Universities of Calcutta and Visvabharati",
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Robert Antoine",
@@ -79,11 +79,11 @@
       6
     ],
     "note_verbatim": "Robert Antoine S. J., after completing his philosophical studies at Louvain, came to India in 1939 and has lived in Calcutta since then as teacher of Sanskrit at St. Xavier's; at present he is also a lecturer in the Dept. of Comparative Literature, Jadavpur University. Author of a Sanskrit manual and a monograph on comparative religion.",
-    "note_printed_page": 97,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_printed_page": 95,
+    "nationality_evidence": "after completing his philosophical studies at Louvain, came to India in 1939 and has lived in Calcutta since then",
+    "vocation_evidence": "teacher of Sanskrit at St. Xavier's; at present he is also a lecturer in the Dept. of Comparative Literature, Jadavpur University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. Raghavendra Rao",
@@ -96,11 +96,11 @@
       7
     ],
     "note_verbatim": "Raghavendra Rao is Lecturer in Political Science at the University of Gauhati. His poems have appeared in Poetry, Chicago.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Lecturer in Political Science at the University of Gauhati",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Humayun Kabir",
@@ -113,11 +113,11 @@
       8
     ],
     "note_verbatim": "Humayun Kabir, at present Minister of Culture and Scientific Research in the Government of India, has taught Philosophy at the Universities of Andhra and Calcutta. His publications include Art, Monad and Society; Studies in Kant; Science, Democracy and Islam and other Essays.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "at present Minister of Culture and Scientific Research in the Government of India",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Lila Ray",
@@ -130,11 +130,11 @@
       9
     ],
     "note_verbatim": "Lila Ray has earned reputation by her English translation of Bengali short stories. Her poetry has recently appeared in The Atlantic.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has earned reputation by her English translation of Bengali short stories",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Shyamsvarup Jalota",
@@ -147,11 +147,11 @@
       10
     ],
     "note_verbatim": "Shyamsvarup Jalota is Reader in Philosophy and Psychology at the University of Banaras. Author of Personnel Selection Pmcedure.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Reader in Philosophy and Psychology at the University of Banaras",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Iqbal Ahmad",
@@ -164,11 +164,11 @@
       11
     ],
     "note_verbatim": "Iqbal Ahmad is Lecturer in English Literature, University of Allahabad.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Lecturer in English Literature, University of Allahabad",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Martin S. Dworkin",
@@ -180,12 +180,12 @@
     "toc_indexes": [
       12
     ],
-    "note_verbatim": "Martin S. Dworkin is a wellknown New York fllm-critic.",
-    "note_printed_page": 97,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Martin S. Dworkin is a wellknown New York film-critic.",
+    "note_printed_page": 95,
+    "nationality_evidence": "New York",
+    "vocation_evidence": "is a wellknown New York film-critic",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Emily Polk",
@@ -198,16 +198,18 @@
       13
     ],
     "note_verbatim": "Emily Polk hails from the United States but lives in Calcutta. Her collection of poems The Invisible Queen is shortly to be published in England.",
-    "note_printed_page": 97,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_printed_page": 95,
+    "nationality_evidence": "hails from the United States but lives in Calcutta",
+    "vocation_evidence": "Her collection of poems The Invisible Queen is shortly to be published in England",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A.D.",
     "name_as_in_contributor_note": null,
-    "name_variants": [],
+    "name_variants": [
+      "Amlan Datta"
+    ],
     "roles": [
       "author"
     ],
@@ -219,7 +221,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Amlan Datta",
@@ -229,12 +231,12 @@
       "editor"
     ],
     "toc_indexes": [],
-    "note_verbatim": ".Jyo1Jirmoy Datta is a poet, critic and journalist.",
-    "note_printed_page": 97,
+    "note_verbatim": null,
+    "note_printed_page": null,
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jyotirmoy Datta",
@@ -247,12 +249,12 @@
       15,
       16
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Jyotirmoy Datta is a poet, critic and journalist.",
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a poet, critic and journalist",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ashok Desai",
@@ -264,12 +266,12 @@
     "toc_indexes": [
       17
     ],
-    "note_verbatim": "Ashok Desai, a practising Barrister in the Bombay High Court, is a keen student of political and economic affairs. /",
-    "note_printed_page": 97,
+    "note_verbatim": "Ashok Desai, a practising Barrister in the Bombay High Court, is a keen student of political and economic affairs.",
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "a practising Barrister in the Bombay High Court, is a keen student of political and economic affairs",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Lola Chatterji",
@@ -282,11 +284,11 @@
       18
     ],
     "note_verbatim": "Lola Chatterji teaches English Literature at Loreto College, Calcutta.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "teaches English Literature at Loreto College, Calcutta",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ramakanta Rath",
@@ -299,11 +301,11 @@
       19
     ],
     "note_verbatim": "Ramakanta Rath is a young poet from Orissa, who is at present undergoing training for the Indian Administrative Service.",
-    "note_printed_page": 97,
+    "note_printed_page": 95,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a young poet from Orissa, who is at present undergoing training for the Indian Administrative Service",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ramaswamy R. Iyer",
@@ -320,7 +322,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. C. Chatterji",
@@ -337,7 +339,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -352,7 +354,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudin Datta",
@@ -367,7 +369,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Laxmanshastri Joshi",
@@ -382,7 +384,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss Sheela Singh",
@@ -397,6 +399,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

@@ -14,7 +14,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -29,7 +29,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -44,7 +44,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. Nadkarni",
@@ -59,7 +59,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mrs. Laeeq Futehally",
@@ -74,7 +74,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mrs. Indu P. Saraiya",
@@ -89,7 +89,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sunil Janah",
@@ -101,12 +101,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Sunil Janah (Calcutta) is one of India's greatest living photographers.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is one of India's greatest living photographers.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jean Stein",
@@ -123,7 +123,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. Subbiah",
@@ -135,12 +135,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": "A. SUBBIAH (Madras) is a Vice President of the Academy of Tamil Culture. K. K. SrNHA (Calcutta) edits the Journal of Power and River Valley Development. He is active in India's Radical Humanist Movement and has contributed widely to Indian and foreign periodicals.",
+    "note_verbatim": "A. Subbiah (Madras) is a Vice President of the Academy of Tamil Culture.",
     "note_printed_page": 75,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a Vice President of the Academy of Tamil Culture.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. K. Sinha",
@@ -152,12 +152,12 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "K. K. Sinha (Calcutta) edits the Journal of Power and River Valley Development. He is active in India's Radical Humanist Movement and has contributed widely to Indian and foreign periodicals.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "edits the Journal of Power and River Valley Development. He is active in India's Radical Humanist Movement.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Rita Rudra",
@@ -169,12 +169,12 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": "RITA RUDRA (Allahabad) Author: The Second Creature, photographs of Indian womanhood. is a Lecturer in Philosophy at Ewing Christian College. Visited the Naga Hills in 1953 at the invitation of her Naga friends, who were students at the Allahabad University. G. P. PRADIIAN",
+    "note_verbatim": "Rita Rudra (Allahabad) Author: The Second Creature, photographs of Indian womanhood. is a Lecturer in Philosophy at Ewing Christian College. Visited the Naga Hills in 1953 at the invitation of her Naga friends, who were students at the Allahabad University.",
     "note_printed_page": 75,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Author: The Second Creature, photographs of Indian womanhood. is a Lecturer in Philosophy at Ewing Christian College.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sadhan Kumar Ghosh",
@@ -186,12 +186,12 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": "SADHAN KuMAR, GHOSH (Calcutta) is professor of English Literature at Asutosh College. His article entitled The Cold Class War appeared in QUEST, Volume 1, Number 2. (OctoberNovember 1955,) RENE TAVERNIER is our accredited correspondent in France. He was editor of C:onfluences, a journal of literature and art, from 1941 to 1947. Asms BuRMAN (Calcutta) edits the Bengali literary quarterly, Sahitya Patra. He has written literary and film criticism and is at present engaged on his first noveL He was Assistant Director of the nowDoM MoRAES (Bombay) is 18 and will go up to Oxford in famous film, Pather Panchali. October. His poems have appeared in Botteghe Oswre (Rome), Nimbus (London) and Poems 1956, ' a P.E.N. anthology. A poem of his was published in QUEST volume 1, Number 1. (August-September 1955.)",
+    "note_verbatim": "Sadhan Kumar Ghosh (Calcutta) is professor of English Literature at Asutosh College. His article entitled The Cold Class War appeared in QUEST, Volume 1, Number 2. (October-November 1955.)",
     "note_printed_page": 75,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is professor of English Literature at Asutosh College.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. K. Bhagwat",
@@ -203,12 +203,12 @@
     "toc_indexes": [
       7
     ],
-    "note_verbatim": "and A. K. BHAGWAT are Professors of English at the Fergusson College, Poona, and the Willingdon College, Sangli, respectively. These institutions are run by the Deccan Education Society of which Tilak and Agarkar were the founders . -:.-- . .... ... .... .... . . Announcing ... The Release of SPECIAL STUDENT EDITIONS ~ s Q n FORUM BOOii.S hailed as a landmtu•k in the publishing world * BASIC SELECTIONS-Emerson *THE GOD THAT FAILED. * EDUCATION AND LIBERTY-Conant * THE RED PONY-John Steinbeck .8 annas only * LIFE ON THE MISSISSIPPI-Twain BUY YOUR COPY NOW * SELECT WRITINGS-Thoreau ON SALE AT ALL BOOKSELLERS-WRITE NOW FOR COMPLETE LISTS Sole Distributors: I 'N D I A 249, Hornby Rd. BOMBAY BOOK F Block, Connaught Place, NEW DELHI ... ... DOUSE ... . Mount Rd. MADRAS Lindsay St. CALCUTTA D D 8 B ... ~•••••••••••••••••••••••••••••••••••••••••••••a•••••••••••••••••••••••••••••••u••••••••••••••••••~",
+    "note_verbatim": "G. P. Pradhan and A. K. Bhagwat are Professors of English at the Fergusson College, Poona, and the Willingdon College, Sangli, respectively. These institutions are run by the Deccan Education Society of which Tilak and Agarkar were the founders.",
     "note_printed_page": 75,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "are Professors of English at the Fergusson College, Poona, and the Willingdon College, Sangli, respectively.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "G. P. Pradhan",
@@ -220,12 +220,12 @@
     "toc_indexes": [
       7
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "G. P. Pradhan and A. K. Bhagwat are Professors of English at the Fergusson College, Poona, and the Willingdon College, Sangli, respectively. These institutions are run by the Deccan Education Society of which Tilak and Agarkar were the founders.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "are Professors of English at the Fergusson College, Poona, and the Willingdon College, Sangli, respectively.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. Parthasarathy",
@@ -242,7 +242,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirendranath Chakravarti",
@@ -254,12 +254,12 @@
     "toc_indexes": [
       9
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Nirendranath Chakravarti (Calcutta) is on the editorial staff of the Ananda Bazar Patrika. His poems have appeared widely in Bengali periodicals.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is on the editorial staff of the Ananda Bazar Patrika.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Srinarayan Ray",
@@ -276,7 +276,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Monika Varma",
@@ -288,12 +288,12 @@
     "toc_indexes": [
       10
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Monika Varma (Surajpur, PEPSU) has published her short stories and poems in a number of Indian periodicals.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has published her short stories and poems in a number of Indian periodicals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Arun Kolatkar",
@@ -305,12 +305,12 @@
     "toc_indexes": [
       11
     ],
-    "note_verbatim": "ARUN KoLATKAR is now in Madras. Two of his poems appeared in QUEST Volume 1, Number I. (August-September 1955). He writes both in English and in Marathi. NrnEND!lANATH CHAKRAVARTI (Calcutta) is on the editorial staff of the Ananda Bazar Patrika. His poems have appeared widely in Bengali periodicals. MoNIKA VAru.1A ( Surajpur, PEPSU) has published her short stories and poems in a number of Indian periodicals. SuNIL ]ANAH (Calcutta) is one of India's greatest living photographers.",
+    "note_verbatim": "Arun Kolatkar is now in Madras. Two of his poems appeared in QUEST Volume 1, Number 1. (August-September 1955). He writes both in English and in Marathi.",
     "note_printed_page": 75,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Two of his poems appeared in QUEST Volume 1, Number 1 ... He writes both in English and in Marathi.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Dom Moraes",
@@ -322,12 +322,12 @@
     "toc_indexes": [
       12
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Dom Moraes (Bombay) is 18 and will go up to Oxford in October. His poems have appeared in Botteghe Oscure (Rome), Nimbus (London) and Poems 1956, a P.E.N. anthology. A poem of his was published in QUEST volume 1, Number 1. (August-September 1955.)",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "His poems have appeared in Botteghe Oscure (Rome), Nimbus (London) and Poems 1956, a P.E.N. anthology.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ashis Burman",
@@ -339,12 +339,12 @@
     "toc_indexes": [
       13
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ashis Burman (Calcutta) edits the Bengali literary quarterly, Sahitya Patra. He has written literary and film criticism and is at present engaged on his first novel. He was Assistant Director of the now-famous film, Pather Panchali.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "edits the Bengali literary quarterly, Sahitya Patra ... was Assistant Director of the now-famous film, Pather Panchali.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Rene Tavernier",
@@ -356,12 +356,12 @@
     "toc_indexes": [
       14
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Rene Tavernier is our accredited correspondent in France. He was editor of Confluences, a journal of literature and art, from 1941 to 1947.",
+    "note_printed_page": 69,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is our accredited correspondent in France. He was editor of Confluences, a journal of literature and art, from 1941 to 1947.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. K. S.",
@@ -378,7 +378,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. Choksi",
@@ -395,7 +395,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "G. C. Chatterji",
@@ -412,7 +412,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Foy Nissen",
@@ -429,7 +429,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. P. Masani",
@@ -446,7 +446,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. E.",
@@ -463,7 +463,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "James T. Farrell",
@@ -480,7 +480,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Marie Seton",
@@ -497,7 +497,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Chaturbhai P. Patel",
@@ -512,6 +512,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

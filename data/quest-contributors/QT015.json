@@ -9,12 +9,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": "A. H. Somjee is Reader in Political Science at ~1. S. Vnhc·rsit} nf B.trod:t. He bas fre quent!)' reviewed books in Quest.",
-    "note_printed_page": 42,
+    "note_verbatim": "A. H. Somjee is Reader in Political Science at M. S. University of Baroda. He has frequently reviewed books in Quest.",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Reader in Political Science at M. S. University of Baroda",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "V. P. Raman",
@@ -26,12 +26,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": "V. P. Raman, Advocate, :\\fadras High Court, i~ St>cretar> uf the wct·Htl> fon11ecl Institute of South Indian Affairs.",
-    "note_printed_page": 42,
+    "note_verbatim": "V. P. Raman, Advocate, Madras High Court, is Secretary of the recently formed Institute of South Indian Affairs.",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Advocate, Madras High Court, is Secretary of the recently formed Institute of South Indian Affairs",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Paul Tabori",
@@ -43,12 +43,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": "Paul Tabori is Hungarian by birth. He obtained his Ph.D. al Bctlin Unh \"rsity. He settled in England in 1937. :\\1r. Tabori is tlle author of twenty-C'ighl bool.s, and Ins also written film and tclc\\'ision scripts. He edited tlle two anthologies of Tile Per1 in Exile sponsored by Lhe Intt:roational PEN Club. On Being Neutral is the text of a spceC'h he delivered in Bombay recently at the mceti11g organised by the Indian Committee for Culltmt1 l~rwdom, lltr. Frank ll loracs presiding. V. V. Jolm is Principal of tl1e Government College, Ajnwr. 1k contributed Platu's Indian Republic to Vol. 11 No. 4 (Feb.-March 57) Ramaswamy lyer is now Under Secretary in the \\lini~tr) of J:<'ood :md Agriculture', Cov!'rnment of India. S. Nata1·ajan is fonner editor of the Free Press Journal, Bombay.",
-    "note_printed_page": 42,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Paul Tabori is Hungarian by birth. He obtained his Ph.D. at Berlin University. He settled in England in 1937. Mr. Tabori is the author of twenty-eight books, and has also written film and television scripts. He edited the two anthologies of The Pen in Exile sponsored by the International PEN Club. On Being Neutral is the text of a speech he delivered in Bombay recently at the meeting organised by the Indian Committee for Cultural Freedom, Mr. Frank Moraes presiding.",
+    "note_printed_page": 40,
+    "nationality_evidence": "is Hungarian by birth. He obtained his Ph.D. at Berlin University. He settled in England in 1937.",
+    "vocation_evidence": "Mr. Tabori is the author of twenty-eight books, and has also written film and television scripts",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "V. V. John",
@@ -60,16 +60,16 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "V. V. John is Principal of the Government College, Ajmer. He contributed Plato's Indian Republic to Vol. II No. 4 (Feb.-March 57)",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Principal of the Government College, Ajmer",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ramaswamy R. Iyer",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Ramaswamy Iyer",
     "name_variants": [],
     "roles": [
       "author"
@@ -77,12 +77,12 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ramaswamy Iyer is now Under Secretary in the Ministry of Food and Agriculture, Government of India.",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is now Under Secretary in the Ministry of Food and Agriculture, Government of India",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. Natarajan",
@@ -94,12 +94,12 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "S. Natarajan is former editor of the Free Press Journal, Bombay.",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is former editor of the Free Press Journal, Bombay",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "T. R. Ramanathan",
@@ -111,12 +111,12 @@
     "toc_indexes": [
       7
     ],
-    "note_verbatim": "T. R. Ramanathan, 37, is Ceylonese but has stayed in Jnclla for eight years. He will shortly publish a collection of his short stories entitled !r~dian Summer. At present on the editorial staff of the Times of Ceylon.",
-    "note_printed_page": 42,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "T. R. Ramanathan, 37, is Ceylonese but has stayed in India for eight years. He will shortly publish a collection of his short stories entitled Indian Summer. At present on the editorial staff of the Times of Ceylon.",
+    "note_printed_page": 40,
+    "nationality_evidence": "is Ceylonese but has stayed in India for eight years",
+    "vocation_evidence": "At present on the editorial staff of the Times of Ceylon",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. K. Ramanujan",
@@ -128,16 +128,16 @@
     "toc_indexes": [
       8
     ],
-    "note_verbatim": "A. K. Ramanujan is a lecturer in English literature at Liogarnj Co!Jcgc, Belgaum. of his poems and translations have appeared in previous numbers of Quest. Some",
-    "note_printed_page": 42,
+    "note_verbatim": "A. K. Ramanujan is a lecturer in English literature at Lingaraj College, Belgaum. Some of his poems and translations have appeared in previous numbers of Quest.",
+    "note_printed_page": 40,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a lecturer in English literature at Lingaraj College, Belgaum",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "'Andal'",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Andal",
     "name_variants": [],
     "roles": [
       "author"
@@ -145,12 +145,12 @@
     "toc_indexes": [
       9
     ],
-    "note_verbatim": "Andal is the pen-name of ~Irs. S. Rajee of :.\\Iadras. Her tran~lation of Subramanya Bharati's English Educatiorl appeared io the previous issue of Quest.",
-    "note_printed_page": 42,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Andal is the pen-name of Mrs. S. Rajee of Madras. Her translation of Subramanya Bharati's English Education appeared in the previous issue of Quest.",
+    "note_printed_page": 40,
+    "nationality_evidence": "of Madras",
+    "vocation_evidence": "is the pen-name of Mrs. S. Rajee of Madras",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ashok Desai",
@@ -162,12 +162,12 @@
     "toc_indexes": [
       10
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ashok Desai. Advocate of the Bombay High Court.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Advocate of the Bombay High Court",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. Ookerjee",
@@ -179,12 +179,12 @@
     "toc_indexes": [
       11
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "S. Ookerjee. Professor of Logic and Philosophy at Wilson College, Bombay. Hon. Secretary of the Bombay Philosophical Society.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Professor of Logic and Philosophy at Wilson College, Bombay. Hon. Secretary of the Bombay Philosophical Society",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mahesh Desai",
@@ -196,12 +196,12 @@
     "toc_indexes": [
       12
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Mahesh Desai. Trade Union worker in Bihar.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Trade Union worker in Bihar",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Foy Nissen",
@@ -213,16 +213,16 @@
     "toc_indexes": [
       13
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Foy Nissen. Former student of F.R. Leavis. Free lance critic and reviewer of literature and the lively arts.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Former student of F.R. Leavis. Free lance critic and reviewer of literature and the lively arts",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. N. Gadre",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Prof. R. N. Gadre",
     "name_variants": [],
     "roles": [
       "reviewer"
@@ -230,12 +230,12 @@
     "toc_indexes": [
       14
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Prof. R. N. Gadre. Professor of Sanskrit, S. P. College and Poona University.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Professor of Sanskrit, S. P. College and Poona University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A.H.D.",
@@ -253,7 +253,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Pratap Chatterjee",
@@ -265,12 +265,12 @@
     "toc_indexes": [
       16
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Pratap Chatterjee. Keen student of politics and science. Secretary of the Science Discussion Group, Bombay.",
+    "note_printed_page": 62,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Keen student of politics and science. Secretary of the Science Discussion Group, Bombay",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NISSIM EZEKIEL",
@@ -285,7 +285,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -300,7 +300,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -315,7 +315,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. Nadkarni",
@@ -330,7 +330,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mrs. Laeeq Futehally",
@@ -345,7 +345,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss Sheela Singh",
@@ -360,6 +360,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

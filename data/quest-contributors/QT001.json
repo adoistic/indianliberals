@@ -12,7 +12,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. G. BAILUR",
@@ -24,12 +24,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": "M. G. Bailur was editor till recently of the English daily ]a'i Hind, of Rajkot, Saurashtra. He shares his interest in politics with English Literatun.; and the Philosophy of Science.",
+    "note_verbatim": "M. G. Bailur was editor till recently of the English daily Jai Hind, of Rajkot, Saurashtra. He shares his interest in politics with English Literature and the Philosophy of Science.",
     "note_printed_page": 68,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "of Rajkot, Saurashtra",
+    "vocation_evidence": "was editor till recently of the English daily Jai Hind, of Rajkot, Saurashtra",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NARENDRA MITRA",
@@ -41,12 +41,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": "Narendm Mitra has published sixteen books so far-novels and collections of short stories. Has been in journalism for the last ten years; at present with the Ananda Bazar Patrika.",
+    "note_verbatim": "Narendra Mitra has published sixteen books so far—novels and collections of short stories. Has been in journalism for the last ten years; at present with the Ananda Bazar Patrika.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has published sixteen books so far—novels and collections of short stories. Has been in journalism for the last ten years; at present with the Ananda Bazar Patrika.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Lila Ray",
@@ -58,12 +58,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": "Lila Ray is joint author with A. S. Ray of Bengali Literature. She has translated extensively from Bengali. An anthology of short stories in translation is in press,",
+    "note_verbatim": "Lila Ray is joint author with A. S. Ray of Bengali Literature. She has translated extensively from Bengali. An anthology of short stories in translation is in press.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is joint author with A. S. Ray of Bengali Literature. She has translated extensively from Bengali.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. OOKERJEE",
@@ -78,9 +78,9 @@
     "note_verbatim": "S. Ookerjee lectures in philosophy at Wilson College, Bombay University. He is the Secretary of the Bombay Philosophical Society.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "lectures in philosophy at Wilson College, Bombay University. He is the Secretary of the Bombay Philosophical Society.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. NADKARNI",
@@ -95,9 +95,9 @@
     "note_verbatim": "D. G. Nadkarni writes regularly both in English and in Marathi on theatre, the cinema and literature. He is a lecturer in English Literature at the Bombay College.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "writes regularly both in English and in Marathi on theatre, the cinema and literature. He is a lecturer in English Literature at the Bombay College.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "IGNAZIO SILONE",
@@ -114,7 +114,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "COMOLATA DUTT",
@@ -126,12 +126,12 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": "Comolata Dutt is Supervisor of Western Music, All India Radio, Delhi. She composed the music for Pavlova's Iridian Ballets, Radha Krishna and Hindu Wedding. Is a Fellow of the Trinity College of Music, London.",
+    "note_verbatim": "Comolata Dutt is Supervisor of Western Music, All India Radio, Delhi. She composed the music for Pavlova's Indian Ballets, Radha Krishna and Hindu Wedding. Is a Fellow of the Trinity College of Music, London.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Supervisor of Western Music, All India Radio, Delhi... Is a Fellow of the Trinity College of Music, London.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "JEAN BOURET",
@@ -148,7 +148,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. KRISHNAN",
@@ -162,10 +162,10 @@
     ],
     "note_verbatim": "M. Krishnan is from Mylapore, Madras. He lives exclusively on writing. His interests range from Indian Sculpture and Tamil poetry to wild life and cricket.",
     "note_printed_page": 68,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "is from Mylapore, Madras",
+    "vocation_evidence": "He lives exclusively on writing.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "T. R. RAMIAH",
@@ -180,9 +180,9 @@
     "note_verbatim": "T. R. Ramiah was a brilliant student of the Bombay University before he entered Government service. He is deeply interested in English and American literature.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "before he entered Government service",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MOLLY DANIELS",
@@ -196,10 +196,10 @@
     ],
     "note_verbatim": "Molly Daniels was born in Travancore. Her mother tongue is Malayalam · but she writes only in English. Lives in Bombay.",
     "note_printed_page": 68,
-    "nationality_evidence": null,
+    "nationality_evidence": "was born in Travancore. Her mother tongue is Malayalam but she writes only in English. Lives in Bombay.",
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "DOM MORAES",
@@ -216,7 +216,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. K. SAHA",
@@ -233,7 +233,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ARUN KOLHATKAR",
@@ -246,12 +246,12 @@
       13,
       14
     ],
-    "note_verbatim": "Arun Kolhatkar was born in Kolhapur. in Marathi. He writes verse in English and, Cont·r ibutions are invited and will be 11aid for. A stamped addressed envelope must be enclosed for the return of unaccepted manuscripts",
+    "note_verbatim": "Arun Kolhatkar was born in Kolhapur. He writes verse in English and in Marathi.",
     "note_printed_page": 68,
-    "nationality_evidence": null,
+    "nationality_evidence": "was born in Kolhapur",
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "LAEEQ FUTEHALLY",
@@ -268,7 +268,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "YOGENDRA CHOPRA",
@@ -285,7 +285,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SADHAN KUMAR GHOSH",
@@ -302,7 +302,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ARATI MUKERJI",
@@ -319,7 +319,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. F. HUSAIN",
@@ -334,7 +334,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Laxman Pai",
@@ -349,7 +349,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Richard Lannoy",
@@ -364,6 +364,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

@@ -14,7 +14,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. RAMANI",
@@ -29,9 +29,9 @@
     "note_verbatim": "R. Ramani (Delhi) is a free lance journalist.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a free lance journalist.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "KOBITA SARKAR",
@@ -48,9 +48,9 @@
     "note_verbatim": "Kobita Sarkar (Madras) has contributed extensively to Indian and foreign periodicals.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has contributed extensively to Indian and foreign periodicals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "PUDUMAIPPITHAN",
@@ -62,12 +62,12 @@
     "toc_indexes": [
       8
     ],
-    "note_verbatim": "Pudumaippithan is the nom-de-plume of Mr. S. Vriddachalam, who died a few years ago while still comparatively young. Tamil fiction at the time he began his literary career was almost entirely confined to escapist stories, artificial in the extreme, and almost always dealing with the upper middle classes.",
+    "note_verbatim": "Pudumaippithan is the nom-de-plume of Mr. S. Vriddachalam, who died a few years ago while still comparatively young. Tamil fiction at the time he began his literary career was almost entirely confined to escapist stories, artificial in the extreme, and almost always dealing with the upper middle classes. Pudumaippithan was the first writer to revolt against these conventions.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is the nom-de-plume of Mr. S. Vriddachalam ... Tamil fiction ... Pudumaippithan was the first writer to revolt against these conventions.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "V. S. MANIAM",
@@ -84,7 +84,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "DAYA KRISHNA",
@@ -96,12 +96,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": "Day a Krishna (Delhi) recently published his dissertation on The Nature of Philosophy for which the University of Delhi awarded him a doctorate. His articles have appeared or are shortly to appear in Philosophy and Phenomeno- log-ical Research, The Philosophical Review, Ethics, The Journal of Religion and The journal of Philosophy (U.S.A.) , Mind, The Review of Economic Studies, Diogenes (France), Revue Internationale de Philosophi ( Belguim), Studiwn Generale (West Germany ), The Eastern Economist, Commerce and Thought (Delhi). A recent article of his on Marxist Economics has aroused international comment and is being translated into French, German, Italian, Spanish and Arabic.",
+    "note_verbatim": "Daya Krishna (Delhi) recently published his dissertation on The Nature of Philosophy for which the University of Delhi awarded him a doctorate. His articles have appeared or are shortly to appear in Philosophy and Phenomenological Research, The Philosophical Review, Ethics, The Journal of Religion and The Journal of Philosophy (U.S.A.), Mind, The Review of Economic Studies, Diogenes (France), Revue Internationale de Philosophi (Belguim), Studium Generale (West Germany), The Eastern Economist, Commerce and Thought (Delhi). A recent article of his on Marxist Economics has aroused international comment and is being translated into French, German, Italian, Spanish and Arabic.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "recently published his dissertation on The Nature of Philosophy for which the University of Delhi awarded him a doctorate.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ROBERT FLYNN",
@@ -116,9 +116,9 @@
     "note_verbatim": "Robert Flynn works as a research analyst in Human Relations Area Files Incorporated, U.S.A. This is a social science research organization sponsored by sixteen member universities, with headquarters at Yale. It is a unique kind of reference library which organizes material on a wide variety of subjects and then makes it available to each of the sponsoring organizations through photostat and microfilming methods. The reader is not merely referred to lists of books on any particular topic but is actually provided with full summaries of them and comprehensive data from all relevant sources.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "works as a research analyst in Human Relations Area Files Incorporated, U.S.A.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. V. HALDANKAR",
@@ -130,12 +130,12 @@
     "toc_indexes": [
       23
     ],
-    "note_verbatim": "N. V. Haldankar (Bombay) is one of the prize-winners of the Agfa Grand National Photographic Contest 1955. Contributions are invited and will be paid for. A stamped addressed envelope must be enclosed for the return of unaccepted manuscripts. Tl~e views expressed by QUEST'S contributors are their ou;n and not necessarily those of the Indian Committee for Cultural Freedom. The Editor does not consciously exclude any point ()f vietc. He is hospitable to a varietu of beliefs provided they meet his requirements of style mJ[l thought.",
+    "note_verbatim": "N. V. Haldankar (Bombay) is one of the prize-winners of the Agfa Grand National Photographic Contest 1955.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is one of the prize-winners of the Agfa Grand National Photographic Contest 1955.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SATYAJIT ROY",
@@ -152,7 +152,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N.E.",
@@ -171,7 +171,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. B. SHAH",
@@ -188,7 +188,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. G. P.",
@@ -205,7 +205,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "UMA ANAND",
@@ -222,7 +222,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "LAURENCE LeGUAY",
@@ -239,7 +239,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "LOU BERNSTEIN",
@@ -256,7 +256,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ALFRED EISENSTAEDT",
@@ -273,7 +273,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "G. V. VISWANATH",
@@ -290,7 +290,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. A. A. FYZEE",
@@ -307,7 +307,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N.J.N.",
@@ -324,7 +324,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. L. KHANOLKAR",
@@ -341,7 +341,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. SIVARAMAN",
@@ -358,7 +358,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "J. N. CHUBB",
@@ -375,7 +375,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. OOKERJEE",
@@ -392,7 +392,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. K. SAHA",
@@ -409,7 +409,8 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified",
+    "self_authored_excerpt": "While dealing with the vital question regarding the advisability of India's following the Chinese way, he maintained that India should keep to her democratic path but was lost at the same time in admiration over the achievements of New China. I thought it fit to point out in my review that these achievements were not worth the price being paid for them by the masses of China. Like in all other totalist countries China's economic progress (which incidentally, does not compare so very favourably with India's) has been brought about at the expense of untold misery on the part of the people of the country. And in my review I said so in no uncertain terms. A few days after publication of the review, coming out of a shop I happened to run into two old acquaintances of mine. Without returning my greetings they just turned their faces and walked away, though not before letting me know in a few terse words that my 'reactionary' review of the book on China had disgusted them too much to allow them to have anything more to do with me. We all know about the Marxist's indifference toward the human aspect, in as far as it does not help the furtherence of his interests, but I must confess that its disquieting quality had not struck me before with such immediacy. As I watched the retreating figures of my friends, or rather my former friends, I could not help being repelled anew by their intransigent ideology which entails such complete disregard for the person as such. I had known the two of them for quite some time and yet the mere fact of my not sharing their belief that conditions in New China were gradually approximating those obtainable in Paradise was enough to estrange them from me for ever. I know that the inability to share such beliefs regarding communist countries implies vital differences of opinion over fundamental questions, but why must that necessarily involve the severance of all human relations?"
   },
   {
     "byline_verbatim": "NISSIM EZEKIEL",
@@ -424,7 +425,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. LAEEQ FUTEHALLY",
@@ -439,7 +440,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. INDU P. SARAIYA",
@@ -454,6 +455,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

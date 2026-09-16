@@ -1,7 +1,7 @@
 [
   {
     "byline_verbatim": "C. R. M. RAO",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "C. R. M. Rao",
     "name_variants": [],
     "roles": [
       "author"
@@ -9,16 +9,16 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "C. R. M. Rao has been writing on a variety of subjects in Indian periodicals for the past ten years. He is at present in Delhi. Age 30",
+    "note_printed_page": 17,
+    "nationality_evidence": "He is at present in Delhi",
+    "vocation_evidence": "has been writing on a variety of subjects in Indian periodicals for the past ten years",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ELIEZER LIVNEH",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Eliezer Livneh",
     "name_variants": [],
     "roles": [
       "author"
@@ -26,16 +26,16 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Eliezer Livneh has lived in Israel since 1920 and was a member of its Parliament from 1949 to 1955. His article Sidelights on Israel appeared in Quest Vol. II, No. 4 February/March 1957 issue.",
+    "note_printed_page": 17,
+    "nationality_evidence": "has lived in Israel since 1920 and was a member of its Parliament from 1949 to 1955",
+    "vocation_evidence": "was a member of its [Israel's] Parliament from 1949 to 1955",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "KA NAA SUBRAMANYAM",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Ka Naa Subramanyam",
     "name_variants": [],
     "roles": [
       "author"
@@ -43,16 +43,16 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Ka Naa Subramanyam is a distinguished Tamil novelist and critic. He is a keen student of modern English, European and American writing.",
+    "note_printed_page": 17,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a distinguished Tamil novelist and critic",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. B. JOSHI",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "R. B. Joshi",
     "name_variants": [],
     "roles": [
       "author"
@@ -60,16 +60,16 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "R. B. Joshi (Bombay) is a well-known Marathi travelogue writer. He has also published short stories. His article Off the Road in Berar appeared in the Marathi Literature Special issue of Quest.",
+    "note_printed_page": 17,
+    "nationality_evidence": "(Bombay)",
+    "vocation_evidence": "is a well-known Marathi travelogue writer. He has also published short stories.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. J. JOSHI",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "S. J. Joshi",
     "name_variants": [],
     "roles": [
       "author"
@@ -77,16 +77,16 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "S. J. Joshi was born in Poona and published his first story in 1939 in Kirloskar a leading Marathi monthly of Maharashtra. His first collection of ten short stories entitled Pandharpeshanche Jag (The White-collar World) indicated his interest in the lives of the lower middle class and was well received. During the World War he contributed a regular satirical feature to the Marathi daily Kal under the pseudonym Kisan suggesting leftist leanings at this stage of his literary career. Since 1950 he has contributed frequently to Satyakatha, a Marathi monthly of creative writing in which The Devil first appeared. Mr. Joshi's second collection of short stories will be published shortly.",
+    "note_printed_page": 17,
+    "nationality_evidence": "was born in Poona",
+    "vocation_evidence": "published his first story in 1939 in Kirloskar... has contributed frequently to Satyakatha, a Marathi monthly of creative writing",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mangesh Padki",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Mangesh Padki",
     "name_variants": [],
     "roles": [
       "translator"
@@ -94,16 +94,16 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Mangesh Padki, translator of The Devil was born in 1923 in Karwar, lives in Poona.",
+    "note_printed_page": 17,
+    "nationality_evidence": "was born in 1923 in Karwar, lives in Poona",
+    "vocation_evidence": "translator of The Devil",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. S. KALYANASUNDARAM",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "M. S. Kalyanasundaram",
     "name_variants": [],
     "roles": [
       "author"
@@ -111,16 +111,16 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "M. S. Kalyanasundaram was born in Madura in 1901. Started writing in Tamil in 1928. Won a prize for his story Abdul Qudir which was published in the well-known Tamil weekly Ananda Viketan. The Message first appeared in the same journal in 1934 and later in Munshi Premchand's Hans in a Hindi translation by the author.",
+    "note_printed_page": 17,
+    "nationality_evidence": "was born in Madura in 1901",
+    "vocation_evidence": "Started writing in Tamil in 1928. Won a prize for his story Abdul Qudir",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. S. Kalyanasundaram (the Author)",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "M. S. Kalyanasundaram",
     "name_variants": [],
     "roles": [
       "translator"
@@ -128,16 +128,16 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "M. S. Kalyanasundaram was born in Madura in 1901. Started writing in Tamil in 1928. Won a prize for his story Abdul Qudir which was published in the well-known Tamil weekly Ananda Viketan. The Message first appeared in the same journal in 1934 and later in Munshi Premchand's Hans in a Hindi translation by the author.",
+    "note_printed_page": 17,
+    "nationality_evidence": "was born in Madura in 1901",
+    "vocation_evidence": "The Message first appeared... and later in Munshi Premchand's Hans in a Hindi translation by the author",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. K. RAMANUJAN",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "A. K. Ramanujan",
     "name_variants": [],
     "roles": [
       "author"
@@ -146,12 +146,12 @@
       7,
       8
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "A. K. Ramanujan is a lecturer in English literature at Lingaraj College, Belgaum. Most of his literary work is in Kannada but he has had a poem accepted by Poetry London-New York and is now at work on a doctoral thesis on 'Myth and Symbol in W. B. Yeats.' Two of his articles have appeared in the Southern Folklore Quarterly, University of Florida, U.S.A. He is 28.",
+    "note_printed_page": 17,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a lecturer in English literature at Lingaraj College, Belgaum",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "P. C.",
@@ -169,7 +169,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NISSIM EZEKIEL",
@@ -187,7 +187,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. NADKARNI",
@@ -205,7 +205,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. NATARAJAN",
@@ -222,7 +222,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "H. SOMJEE",
@@ -239,7 +239,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. L. K.",
@@ -256,7 +256,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SANTOSH SEN GUPTA",
@@ -273,7 +273,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. D. GORWALA",
@@ -290,7 +290,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "IQBAL LUKMANI",
@@ -307,7 +307,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. A.",
@@ -324,7 +324,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. K. HALDAR",
@@ -341,7 +341,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "B. A. OLKAR",
@@ -358,7 +358,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NIRAD C. CHAUDHURI",
@@ -373,7 +373,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SUDHIN DATTA",
@@ -388,7 +388,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Mrs. LAEEQ FUTEHALLY",
@@ -403,7 +403,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss SHEELA SINGH",
@@ -418,7 +418,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. J. CHINWALLA",
@@ -433,7 +433,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SHYAM MANOHAR",
@@ -448,7 +448,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "DHRUVA N. CHAUDHURI",
@@ -463,6 +463,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

@@ -9,12 +9,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": "Edward Shils is professor of Sociology at Chicago University. He is the author of several books on political philosophy and current affairs, th e latest of which, The Torment of Secrecy will shortly be published in America. Professor Shils' study of British Intellectuals appeared in ENCOUNTER recently. During the past several months he has been in India surveying intellectual attitudes and behaviour.",
+    "note_verbatim": "Edward Shils is professor of Sociology at Chicago University. He is the author of several books on political philosophy and current affairs, the latest of which, The Torment of Secrecy will shortly be published in America. Professor Shils' study of British Intellectuals appeared in ENCOUNTER recently. During the past several months he has been in India surveying intellectual attitudes and behaviour.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is professor of Sociology at Chicago University. He is the author of several books on political philosophy and current affairs",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. GURU DUTT",
@@ -28,12 +28,12 @@
       2,
       17
     ],
-    "note_verbatim": "K. Guru Dutt is a journalist and critic. Times of India and other papers. He reviews books regularly for The",
+    "note_verbatim": "K. Guru Dutt is a journalist and critic. He reviews books regularly for The Times of India and other papers.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a journalist and critic. He reviews books regularly for The Times of India and other papers.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SAMAREN ROY",
@@ -45,12 +45,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": "Samaren Roy. Edited and published the Bengali weekly ]anata in 1946-47 and Arani in 1948. Now edits Uttar Suri, a Bengali literary quarterly.",
+    "note_verbatim": "Samaren Roy. Edited and published the Bengali weekly Janata in 1946-47 and Arani in 1948. Now edits Uttar Suri, a Bengali literary quarterly.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Edited and published the Bengali weekly Janata in 1946-47 and Arani in 1948. Now edits Uttar Suri, a Bengali literary quarterly.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. B. SHAH",
@@ -62,12 +62,12 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": "of Shah Alam, and bring out well the various transformations which the school underwent through its three centuries of existence. It may be said that the style of this school changed remarkably little over the long period of three hundred years, when compared to the changes in other schools in India and in other parts of the world. Nevertheless changes there were, and they were distinctive of the spirit of the court which patronised them, and of the vigour or decline of the culture of which they formed a part. Humayun reigned only a few days after he recovered the throne and brought back with him from his wanderings the two",
-    "note_printed_page": 61,
+    "note_verbatim": "A. B. Shah is professor of Mathematics and Statistics at Fergusan College, Poona.",
+    "note_printed_page": 66,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is professor of Mathematics and Statistics at Fergusan College, Poona.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "AAMIR ALI",
@@ -79,12 +79,12 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": "Persians, Mir Sayyid Ali and Khwaja Abdus S2tmad, who were the first masters of the school, and Akbar must b e deemed to be the real creator of Mughal painting. Akbar took up the matter, not only with imagination but with energy. Napoleon is reported to have said, \"I hear there is no poetry in France. What is the Minister for Internal Affairs",
-    "note_printed_page": 61,
+    "note_verbatim": "Aamir Ali is on the staff of the International Labour Organisation, Geneva.",
+    "note_printed_page": 66,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is on the staff of the International Labour Organisation, Geneva.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "PREMA ANAND",
@@ -99,9 +99,9 @@
     "note_verbatim": "Prema Anand is an architect and writes on architecture and other subjects for Indian periodicals.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is an architect and writes on architecture and other subjects for Indian periodicals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ASOKE VIJAY RAHA",
@@ -113,12 +113,12 @@
     "toc_indexes": [
       7
     ],
-    "note_verbatim": "Asoke Vijay Raha has published seven volumes of verse. Bengali literature at Santiniketan. He lectures in",
+    "note_verbatim": "Asoke Vijay Raha has published seven volumes of verse. He lectures in Bengali literature at Santiniketan.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has published seven volumes of verse. He lectures in Bengali literature at Santiniketan.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Lila Ray",
@@ -135,7 +135,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SRINIVAS RAYAPROL",
@@ -150,9 +150,9 @@
     "note_verbatim": "Srinivas Rayaprol has published his verse in a number of Indian and foreign periodicals.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has published his verse in a number of Indian and foreign periodicals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "BALRAJ KOMAL",
@@ -164,12 +164,12 @@
     "toc_indexes": [
       9
     ],
-    "note_verbatim": "Balraj Komal's poems have appeared in most Urdu literary magazines. first collection was published in 1954. His",
+    "note_verbatim": "Balraj Komal's poems have appeared in most Urdu literary magazines. His first collection was published in 1954.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "poems have appeared in most Urdu literary magazines",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. D. KATRAK",
@@ -186,7 +186,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. V. KUMAR",
@@ -203,7 +203,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "RENE TAVERNIER",
@@ -215,12 +215,12 @@
     "toc_indexes": [
       12
     ],
-    "note_verbatim": "Rene Tavernier edited Confluences from 1941 to 1947. several leading French journals. H.egular contributor to",
+    "note_verbatim": "Rene Tavernier edited Confluences from 1941 to 1947. Regular contributor to several leading French journals.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "edited Confluences from 1941 to 1947. Regular contributor to several leading French journals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. M. ABRAHAM",
@@ -234,10 +234,10 @@
     ],
     "note_verbatim": "A. M. Abraham lives in London and contributes a weekly column to Thought.",
     "note_printed_page": 68,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "lives in London",
+    "vocation_evidence": "contributes a weekly column to Thought",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SAILESH KUMAR ROY",
@@ -254,7 +254,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ARATI MUKERJI",
@@ -273,7 +273,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. NADKARNI",
@@ -285,12 +285,12 @@
     "toc_indexes": [
       16
     ],
-    "note_verbatim": "D. G. Nadkarni is a lecturer in English Literature at the Bombay College. Coutribtttious cl1'e invited and u;i/l be paid for. A stamped addressed envelope must he enclosed fnr the retnm of u;wccepuxl nw;wscripts,",
+    "note_verbatim": "D. G. Nadkarni is a lecturer in English Literature at the Bombay College.",
     "note_printed_page": 68,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a lecturer in English Literature at the Bombay College.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SWAMI AGEHANANDA",
@@ -307,7 +307,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "YOGENDRA CHOPRA",
@@ -319,12 +319,12 @@
     "toc_indexes": [
       20
     ],
-    "note_verbatim": "YoGENDRA CHOPRA MUGHAL MINIATURES, Text and Notes by Rai Krishnadasa. Introduction by Humayun Kabir, Lalit Kala Akademi, New Delhi, Rs. 8/12/-. Lalit Kala Akademi is one of the THEinstitutions established at the instance of the Ministry of Education. 'Mughal Miniatures' is the first of a series of brochures to be published by it. Two more books, one on 'Mewar Painting' by Dr. Motichandra and another on the 'Krishna Legend in Pahari Painting', are to be published shortly in the same series. 'Mughal Miniatures' contains reproductions in colour of ten paintings. These range from the reign of Akbar to that",
-    "note_printed_page": 61,
+    "note_verbatim": null,
+    "note_printed_page": null,
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SAIF TYABJI",
@@ -341,7 +341,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NISSIM EZEKIEL",
@@ -358,7 +358,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. LAEEQ FUTEHALLY",
@@ -373,7 +373,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. NAZURA SATTAR",
@@ -388,7 +388,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jehangir Sabavala",
@@ -405,7 +405,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Francis Newton Souza",
@@ -422,7 +422,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "T. R. RAMIAH",
@@ -439,6 +439,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

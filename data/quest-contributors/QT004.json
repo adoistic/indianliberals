@@ -12,7 +12,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. LAEEQ FUTEHALLY",
@@ -30,7 +30,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "MRS. INDU P. SARAIYA",
@@ -45,7 +45,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SATINDRA SINGH",
@@ -57,12 +57,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": "Costa, Mr. Jaipal Singh, M.P., Mr. Jayaprakash Narayan, Tarkateerth Laxman Shastri Joshi, i\\fr. V. B. Karnik, Mr. Minoo Masani, Mr. Asoka",
-    "note_printed_page": 73,
+    "note_verbatim": "Satindra Singh is on the editorial staff of The Indian Express (Delhi) and represents Lamerhav, a daily paper of Israel.",
+    "note_printed_page": 67,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is on the editorial staff of The Indian Express (Delhi) and represents Lamerhav, a daily paper of Israel.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "HAMDI BEY",
@@ -74,12 +74,12 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": "HAi\\rDI BEY is on th e editorial staff of The Statesman, Calcutta. have appeared in a nnmber of Indian and foreign periodicals. His short stories and articles T oi\\r.oo 0TAKA's paper on 'Authoritarianism in Japan' was presented to the Milan Conference on th e Future of F reedom , organised by the Congress for Cultural Freedom.",
-    "note_printed_page": 73,
+    "note_verbatim": "Hamdi Bey is on the editorial staff of The Statesman, Calcutta. His short stories and articles have appeared in a number of Indian and foreign periodicals.",
+    "note_printed_page": 67,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is on the editorial staff of The Statesman, Calcutta. His short stories and articles have appeared in a number of Indian and foreign periodicals.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "TOMOO OTAKA",
@@ -91,12 +91,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Tomoo Otaka's paper on 'Authoritarianism in Japan' was presented to the Milan Conference on the Future of Freedom, organised by the Congress for Cultural Freedom.",
+    "note_printed_page": 67,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "paper on 'Authoritarianism in Japan' was presented to the Milan Conference on the Future of Freedom, organised by the Congress for Cultural Freedom.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. NADKARNI",
@@ -113,9 +113,9 @@
     "note_verbatim": "D. G. NADKARNI has recently published his first novel and volume of short stories in Marathi.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has recently published his first novel and volume of short stories in Marathi.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. OOKERJI",
@@ -133,9 +133,9 @@
     "note_verbatim": "S. OoKERJI is Professor of Philosophy at Wilson College, Bombay.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Professor of Philosophy at Wilson College, Bombay.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "RENE TAVERNIER",
@@ -152,7 +152,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "ROOP KATHAK",
@@ -164,12 +164,12 @@
     "toc_indexes": [
       7
     ],
-    "note_verbatim": "RooP KATHAK is the nom-de-plume of a well-known Marathi short-story writer. UMA ANAKD is a free-lance journalist and conducts the women's programme of All India Radio, Bombay.",
+    "note_verbatim": "Roop Kathak is the nom-de-plume of a well-known Marathi short-story writer.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is the nom-de-plume of a well-known Marathi short-story writer.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "KRISHAN SONDHI",
@@ -186,7 +186,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "UMA ANAND",
@@ -198,12 +198,12 @@
     "toc_indexes": [
       9
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Uma Anand is a free-lance journalist and conducts the women's programme of All India Radio, Bombay.",
+    "note_printed_page": 67,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a free-lance journalist and conducts the women's programme of All India Radio, Bombay.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "SADANAND BHATKAL",
@@ -215,12 +215,12 @@
     "toc_indexes": [
       10
     ],
-    "note_verbatim": "SADAKAND BHATKAL is the Hon. Secretarv of the Federation of Publishers' and Booksellers' Associations in India. · Contributions are invited and u;ill be paid for . A stamped addressed envelope must be enclosed for the retrtm of unaccepted manuscripts. The deu;s expressed by QUEST'S contributors are their own and not necessarily those of the Indian Committee for Cultural Freedom. The Editor does not consciously exclude any point of view. He is hospitable to a variety of beliefs provided they meet his requirements of style .ond thought.",
+    "note_verbatim": "Sadanand Bhatkal is the Hon. Secretary of the Federation of Publishers' and Booksellers' Associations in India.",
     "note_printed_page": 73,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is the Hon. Secretary of the Federation of Publishers' and Booksellers' Associations in India.",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "FOY NISSEN",
@@ -237,7 +237,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "N. J. N.",
@@ -254,7 +254,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "T. R. A.",
@@ -271,7 +271,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "AAMIR ALI",
@@ -288,7 +288,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "IQBAL LUKMANI",
@@ -305,7 +305,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "RANI SINHA",
@@ -322,7 +322,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "J. N. BHAT",
@@ -339,7 +339,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "L.F.",
@@ -356,7 +356,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. SUBBIAH",
@@ -373,7 +373,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. S. SAHA",
@@ -390,7 +390,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. P. SETHNA",
@@ -407,7 +407,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. M. DAVIERWALLA",
@@ -422,6 +422,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

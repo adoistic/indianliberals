@@ -9,12 +9,12 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": "C. Rajagopalachari is an elder statesman who is held in high esteem everywhere in India and by all shades of political opinion. If his eminence as a politician has outshone his eminence as a litterateur, except in Madras, that is because India is a land of many languages. He is best known in the land of Tamil for his essays, short stories and translations from Sanskrit classics. Incidentally, he was the first Governor-General of independent India, but this is a very little incident in the life of a man like C. :R",
+    "note_verbatim": "C. Rajagopalachari is an elder statesman who is held in high esteem everywhere in India and by all shades of political opinion. If his eminence as a politician has outshone his eminence as a litterateur, except in Madras, that is because India is a land of many languages. He is best known in the land of Tamil for his essays, short stories and translations from Sanskrit classics. Incidentally, he was the first Governor-General of independent India, but this is a very little incident in the life of a man like C. R.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "was the first Governor-General of independent India",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Leon Emery",
@@ -28,10 +28,10 @@
     ],
     "note_verbatim": "Leon Emery is a writer and musicologist and former professor at the University of Lyon. He has lost his eyesight but is still publishing a magazine called Caheiers Libres. He has written a number of essays and books on Balzac, Victor Hugo, Beethoven, Goethe, the French revolution, etc.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "is a writer and musicologist and former professor at the University of Lyon",
+    "vocation_evidence": "is a writer and musicologist and former professor at the University of Lyon",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sibnarayan Ray",
@@ -43,12 +43,12 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": "Sibnarayan Ray is a professor of English literature in a Calcutta College and is well known as a literary critic for his incisive style and iconoclastic ideas. He is the leading theoretician of the Radical Humanist movement after M. N. Roy and is co-editor of its weekly organ. Author of Radicalism and Explomtions; joint author of In Man's Own Image.",
+    "note_verbatim": "Sibnarayan Ray is a professor of English literature in a Calcutta College and is well known as a literary critic for his incisive style and iconoclastic ideas. He is the leading theoretician of the Radical Humanist movement after M. N. Roy and is co-editor of its weekly organ. Author of Radicalism and Explorations; joint author of In Man's Own Image.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a professor of English literature in a Calcutta College",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Michael Polanyi",
@@ -60,16 +60,16 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": "Michael Polanyi, F.R.S., was born iri Budap.est. He resigned his life-membership of Kaiser 'Vilhelm Institute fur Physikalische Chemic in · 1933 in protest to anti-Jewish legislation. Later he joined the University of Manchester first as professor of Physical Chemistry and then as professor of Economic and Social Studies. Amongst his many distinguished publications on Science and Hw11anities \"The Logic of Libet·ty\" is perhaps the best known. Personal Knowledge-Towm·ds a post-Critical Philosophy has recently been published by Routledge & Kegan Paul.",
+    "note_verbatim": "Michael Polanyi, F.R.S., was born in Budapest. He resigned his life-membership of Kaiser Wilhelm Institute fur Physikalische Chemie in 1933 in protest to anti-Jewish legislation. Later he joined the University of Manchester first as professor of Physical Chemistry and then as professor of Economic and Social Studies. Amongst his many distinguished publications on Science and Humanities \"The Logic of Liberty\" is perhaps the best known. Personal Knowledge-Towards a post-Critical Philosophy has recently been published by Routledge & Kegan Paul.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "was born in Budapest. He resigned his life-membership of Kaiser Wilhelm Institute fur Physikalische Chemie in 1933 in protest to anti-Jewish legislation.",
+    "vocation_evidence": "joined the University of Manchester first as professor of Physical Chemistry and then as professor of Economic and Social Studies",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Tulsi Narayan Singh",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Tulsinarayan Singh",
     "name_variants": [],
     "roles": [
       "author"
@@ -77,12 +77,12 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": "Tulsinarayan Singh is Lecturer in the Dept. of English Literature, Banaras Hindu University. His doctorate thesis on \"The Correlation of Form and Content in the English Novel\" is to be published shortly. ·",
+    "note_verbatim": "Tulsinarayan Singh is Lecturer in the Dept. of English Literature, Banaras Hindu University. His doctorate thesis on \"The Correlation of Form and Content in the English Novel\" is to be published shortly.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Lecturer in the Dept. of English Literature, Banaras Hindu University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Neville Braybrooke",
@@ -94,12 +94,12 @@
     "toc_indexes": [
       6
     ],
-    "note_verbatim": "Neville Braybrooke, a young British writer, has just edited a sy1~posium on T. S. Eliot on the occasion of his 70th birthday, published by Rupert Hart Davis, London.",
+    "note_verbatim": "Neville Braybrooke, a young British writer, has just edited a symposium on T. S. Eliot on the occasion of his 70th birthday, published by Rupert Hart Davis, London.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "a young British writer",
+    "vocation_evidence": "has just edited a symposium on T. S. Eliot",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jyotirmoy Datta",
@@ -114,9 +114,9 @@
     "note_verbatim": "Jyotirmoy Datta is a very modernist modern poet who is establishing himself as a critic.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a very modernist modern poet who is establishing himself as a critic",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jeremy Nelson",
@@ -129,29 +129,31 @@
       8,
       9
     ],
-    "note_verbatim": "Jeremy Nelson is a young poet from Australia who· is studying Political Science in the University of Calcutta on an exchange Scholarship.",
+    "note_verbatim": "Jeremy Nelson is a young poet from Australia who is studying Political Science in the University of Calcutta on an exchange Scholarship.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "is a young poet from Australia",
+    "vocation_evidence": "is studying Political Science in the University of Calcutta on an exchange Scholarship",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Purnendubikas Bhattacharya",
-    "name_as_in_contributor_note": null,
-    "name_variants": [],
+    "name_as_in_contributor_note": "Purnendubikash Bhattacharya",
+    "name_variants": [
+      "Purnendubikash Bhattacharya"
+    ],
     "roles": [
       "author"
     ],
     "toc_indexes": [
       10
     ],
-    "note_verbatim": "Purnendubikash Bhattacharya teaches English Literature in a Suburban College. His first hook of verse was published last year.",
+    "note_verbatim": "Purnendubikash Bhattacharya teaches English Literature in a Suburban College. His first book of verse was published last year.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "teaches English Literature in a Suburban College",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "K. Raghavendra Rao",
@@ -165,10 +167,10 @@
     ],
     "note_verbatim": "K. Raghavendra Rao hails from Mysore and lectures on Politics at Ghauhati University, Assam.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "hails from Mysore",
+    "vocation_evidence": "lectures on Politics at Ghauhati University, Assam",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. M. Ghose",
@@ -186,7 +188,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Indrani Rahman",
@@ -198,12 +200,12 @@
     "toc_indexes": [
       13
     ],
-    "note_verbatim": "Ind.rani Rahman, in private life the wife of a distinguished govt. architect, is a well-known exponent of Bharat Natyam. She has for some time now been receiving training in Orissi and taking a keen interest in its revival. She js the first dancer to present Orissi OI' the professional stage.",
+    "note_verbatim": "Indrani Rahman, in private life the wife of a distinguished govt. architect, is a well-known exponent of Bharat Natyam. She has for some time now been receiving training in Orissi and taking a keen interest in its revival. She is the first dancer to present Orissi on the professional stage.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a well-known exponent of Bharat Natyam",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Jagannath Banerjee",
@@ -215,12 +217,12 @@
     "toc_indexes": [
       14
     ],
-    "note_verbatim": "Jagannath Banerjee has composed numerous · Hindi songs in various styles and covering over three hundred ragas, many of which have been published in Bengali and Hindi monthlies with notations and raga analysis. Rev. Father .Joseph fi,oggendorf, S. ]., is a German scholar and linguist who has lived for 20 years in Japan. He is Dean of th e Graduate School of Sophia University in Tokyo, a leading authority on Japanese literature, and edits the ]ochi quarterly magazine. Satindranath Chakravartli , Head of the Dept. of Philosophy, City College, Calcutta, is a well-known contributor to Marxist periodicals.",
+    "note_verbatim": "Jagannath Banerjee has composed numerous Hindi songs in various styles and covering over three hundred ragas, many of which have been published in Bengali and Hindi monthlies with notations and raga analysis.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "has composed numerous Hindi songs in various styles and covering over three hundred ragas",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Joseph Roggendorf",
@@ -232,12 +234,12 @@
     "toc_indexes": [
       15
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Rev. Father Joseph Roggendorf, S. J., is a German scholar and linguist who has lived for 20 years in Japan. He is Dean of the Graduate School of Sophia University in Tokyo, a leading authority on Japanese literature, and edits the Jochi quarterly magazine.",
+    "note_printed_page": 103,
+    "nationality_evidence": "is a German scholar and linguist who has lived for 20 years in Japan",
+    "vocation_evidence": "is Dean of the Graduate School of Sophia University in Tokyo",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Satindranath Chakravarti",
@@ -249,12 +251,12 @@
     "toc_indexes": [
       16
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Satindranath Chakravarti, Head of the Dept. of Philosophy, City College, Calcutta, is a well-known contributor to Marxist periodicals.",
+    "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Head of the Dept. of Philosophy, City College, Calcutta",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Abu Sayeed Ayyub",
@@ -272,7 +274,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Eugene Kamenka",
@@ -286,10 +288,10 @@
     ],
     "note_verbatim": "Eugene Kamenka, a graduate of Sydney University, is at present Lecturer in Philosophy, University of Malaya, Singapore.",
     "note_printed_page": 103,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "nationality_evidence": "a graduate of Sydney University",
+    "vocation_evidence": "is at present Lecturer in Philosophy, University of Malaya, Singapore",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. H. Somjee",
@@ -301,12 +303,12 @@
     "toc_indexes": [
       19
     ],
-    "note_verbatim": "A. H. Somjee is Head er in Political Science, 1\\ri. S. University of Baroda.",
+    "note_verbatim": "A. H. Somjee is Reader in Political Science, M. S. University of Baroda.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Reader in Political Science, M. S. University of Baroda",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. K. Haldar",
@@ -318,12 +320,12 @@
     "toc_indexes": [
       20
     ],
-    "note_verbatim": "M. K. Haldar lectures on Philosophy at th e D elhi University, and is a well-known intellectual; he contributes to the Radical Humanist, Thought, !Jiankind and Quest.",
+    "note_verbatim": "M. K. Haldar lectures on Philosophy at the Delhi University, and is a well-known intellectual; he contributes to the Radical Humanist, Thought, Mankind and Quest.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "lectures on Philosophy at the Delhi University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "G. P. Pradhan",
@@ -335,12 +337,12 @@
     "toc_indexes": [
       21
     ],
-    "note_verbatim": "G. P. Pradhan, a well-known ]VIarathi critic, lectures on English Literature at the Fergusson College, Poona; a frequent contributor of Quest. A. B. ~hah is a Professor of Mathematics at the Fergusson College, Poona; Reviews Editor, Quest from the current issue.",
+    "note_verbatim": "G. P. Pradhan, a well-known Marathi critic, lectures on English Literature at the Fergusson College, Poona; a frequent contributor of Quest.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "lectures on English Literature at the Fergusson College, Poona",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. B. Shah",
@@ -353,12 +355,12 @@
     "toc_indexes": [
       22
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "A. B. Shah is a Professor of Mathematics at the Fergusson College, Poona; Reviews Editor, Quest from the current issue.",
+    "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a Professor of Mathematics at the Fergusson College, Poona; Reviews Editor, Quest from the current issue",
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Punya Sloka Ray",
@@ -370,12 +372,12 @@
     "toc_indexes": [
       23
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Punya Sloka Ray lectures on Philosophy at the Utkal University; holds a doctorate from the University of Tuebingen, West Germany, with a dissertation on the Special Logic of the Human Sciences.",
+    "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "lectures on Philosophy at the Utkal University",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "M. G. Bhate",
@@ -390,14 +392,16 @@
     "note_verbatim": "M. G. Bhate, Principal of the Bombay College, Bombay, is a B.Sc. of the London School and lectures on English Literature.",
     "note_printed_page": 103,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a B.Sc. of the London School and lectures on English Literature",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. S. Ayyub",
     "name_as_in_contributor_note": null,
-    "name_variants": [],
+    "name_variants": [
+      "Abu Sayeed Ayyub"
+    ],
     "roles": [
       "author"
     ],
@@ -409,7 +413,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Dietmur Rothermund",
@@ -426,7 +430,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Amlan Datta",
@@ -441,7 +445,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -456,7 +460,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -471,7 +475,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Laxmanshastri Joshi",
@@ -486,7 +490,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss Sheela Singh",
@@ -501,7 +505,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Dr. Charles Fabri",
@@ -518,6 +522,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]

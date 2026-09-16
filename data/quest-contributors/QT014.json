@@ -1,7 +1,7 @@
 [
   {
     "byline_verbatim": "M. K. Haldar",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Professor M. K. Haldar, Ph. D. (London)",
     "name_variants": [],
     "roles": [
       "author"
@@ -9,16 +9,16 @@
     "toc_indexes": [
       1
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Professor M. K. Haldar, Ph. D. (London), teaches Philosophy at Delhi College. He has appeared in the pages of QUEST as a book reviewer. (Vol. III, No. 1 and No. 2).",
+    "note_printed_page": 14,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "teaches Philosophy at Delhi College",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. M. Ghose",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Prof. A. M. Ghose",
     "name_variants": [],
     "roles": [
       "author"
@@ -26,16 +26,16 @@
     "toc_indexes": [
       2
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Prof. A. M. Ghose is head of the Department of Philosophy, Government College, Ajmer.",
+    "note_printed_page": 14,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is head of the Department of Philosophy, Government College, Ajmer",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Dietmar Rothermund",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Dietmar Rothermund",
     "name_variants": [],
     "roles": [
       "author"
@@ -43,16 +43,16 @@
     "toc_indexes": [
       3
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
+    "note_verbatim": "Dietmar Rothermund is a young German student now at the University of Pennsylvania. He used to edit a literary and political monthly in Germany.",
+    "note_printed_page": 14,
+    "nationality_evidence": "is a young German student now at the University of Pennsylvania",
+    "vocation_evidence": "He used to edit a literary and political monthly in Germany",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. Ramani",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "R. Ramani",
     "name_variants": [],
     "roles": [
       "author"
@@ -60,16 +60,16 @@
     "toc_indexes": [
       4
     ],
-    "note_verbatim": "R. Ramani Not noticed in detail in this survey, but important as an indirect cultural influence, is the impact of the Soviet example and ideas on India's economic planning. Passionately aspiring to rapid industrialisation, Indian economists and intellectuals have turned to the Russian example though they are aware that a democratic society cannot have recourse to the means of capital accumulation open to a Communist State as to early capitalism in the West. Though the Indian Government embarked on planning as early as in 1951, it was only in 1954 that the assistance of Soviet economists was sought. The Second Five-Year Plan, which was reluctantly accepted at Nehru's insistence by some sceptical members of the Planning Commission, was heavily influenced by the foreign Marxist economists (including Academician D. T. Degtyer and Dr. M. I. Rubinstein from Russia) who were assembled at the Calcutta Statistical Institute by Prof. P. C. Mahalanobis, a pro-Soviet statistician who wields great influence through his friendship with the Prime Minister. LIAISON WITH THE LoRD That witch Illusion is my mother-in-law, the reeling world her decrepit husband; three fiery cousins keep a tiger-vigil on all that's me; and I am wedded to my unwillccl past: no god, this my husband. But soft, I love Someone in secret. My mind is my maid, she is love's mystic beast of burden carrying me to Him, and Him to me. Inviolably lovely is my Lord Chennamallikarjuna, and I'll let Him cuckold at once this dolt, my Past, my husband.",
-    "note_printed_page": 42,
+    "note_verbatim": "R. Ramani is a well-known Delhi journalist. He contributed the article entitled How Fast Should We Run, the race with Red China, to QUEST Vol. I, No. 6.",
+    "note_printed_page": 14,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is a well-known Delhi journalist",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. R. Gadgil",
-    "name_as_in_contributor_note": null,
+    "name_as_in_contributor_note": "Prof. D. R. Gadgil",
     "name_variants": [],
     "roles": [
       "author"
@@ -77,12 +77,12 @@
     "toc_indexes": [
       5
     ],
-    "note_verbatim": null,
-    "note_printed_page": null,
+    "note_verbatim": "Prof. D. R. Gadgil is Director of the Gokhale Institute of Politics and Economics, Poona.",
+    "note_printed_page": 14,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "is Director of the Gokhale Institute of Politics and Economics, Poona",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. Natarajan",
@@ -99,7 +99,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Subramanya Bharathi",
@@ -116,7 +116,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "'Andal'",
@@ -133,7 +133,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Akkamahadevi",
@@ -184,7 +184,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "S. T.",
@@ -201,7 +201,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Laeeq Futehally",
@@ -219,7 +219,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ashoka Nanavaty",
@@ -231,12 +231,12 @@
     "toc_indexes": [
       12
     ],
-    "note_verbatim": "Ashoka Nanavaty. Practises as a Pathologist in Bombay. Interested in Politics, Literatme and Music.",
-    "note_printed_page": 67,
+    "note_verbatim": "Ashoka Nanavaty. Practises as a Pathologist in Bombay. Interested in Politics, Literature and Music.",
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Practises as a Pathologist in Bombay",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "R. Choksi",
@@ -248,12 +248,12 @@
     "toc_indexes": [
       13
     ],
-    "note_verbatim": "R. Choksi. Formerly Professor of English Literature, ·wilson College, Bombay.",
-    "note_printed_page": 67,
+    "note_verbatim": "R. Choksi. Formerly Professor of English Literature, Wilson College, Bombay.",
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Formerly Professor of English Literature, Wilson College, Bombay",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. H. Somjee",
@@ -265,12 +265,12 @@
     "toc_indexes": [
       14
     ],
-    "note_verbatim": "A. H. Somjee . . Reader in Political Science at M. S. University of Baroda.",
-    "note_printed_page": 67,
+    "note_verbatim": "A. H. Somjee. Reader in Political Science at M. S. University of Baroda.",
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Reader in Political Science at M. S. University of Baroda",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "A. B. Shah",
@@ -283,11 +283,11 @@
       15
     ],
     "note_verbatim": "A. B. Shah. Professor of Mathematics at Fergusson College, Poona.",
-    "note_printed_page": 67,
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Professor of Mathematics at Fergusson College, Poona",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Pratap Chatterjee",
@@ -300,11 +300,11 @@
       16
     ],
     "note_verbatim": "Pratap Chatterjee. Keen student of current politics. Secretary of the Science Discussion Group, Bombay.",
-    "note_printed_page": 67,
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Keen student of current politics. Secretary of the Science Discussion Group, Bombay",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Ashok Desai",
@@ -316,17 +316,19 @@
     "toc_indexes": [
       17
     ],
-    "note_verbatim": "AsHOK DESAI THE PEN IN EXILE by Paul Tabori (International P.E.N. Centre. 9s. 6d.) The story of the musician who becomes deaf, or the artist who loses his sight has been not unfamiliar down the ages. To these a new tragic figure has been added in recent times-the writer who has lost his power to communicate because he can only speak in an alien language. He has been forced to leave his country, and since it was the language of his country which provided him with the tools of his trade as well as his audience or customers, he is bereft at once of his art, his vocation, and his livelihood. It is difficult to realize fully the plight of the writer who finds suddenly that there is no one left for whom to write. The younger men might set themselves to writing in a foreign language. But many of the elder ones must go through the frustration and agony of having to accept the fact that there is no prospect of exercising their gifts. In giving them the chance to appear before a new public, the P.E.N. performs a service to the writers as well as for a large circle of readers. The new anthology which it has recently published contains poems, essays, articles and stories by writers in exile translated into English from nearly every European language. One finds in it works by Hungarians, Poles, Austrians, Latvians, Estonians, Germans, an Albanian and even a Chinese. Most of the writing is, understandably enough, extremely subjective; and much of it deals with the circumstances in those countries where so many of the finest intellects have had to flee-not from a foreign invader, but from their own Governments, in order to be able to stay alive. And the only way they may now do their duty to their own people is to see that the rest of the world does not forget their plight. 'I cry with all my people's lungs and lips A terrible, unbearable disease Has struck our land-a blight of gallow-trees, A plague of deadly fear that sears and grips .... .' (Maria Under) L.F. OUR REVIEWERS",
-    "note_printed_page": 67,
+    "note_verbatim": "Ashok Desai. Advocate of the Bombay High Court.",
+    "note_printed_page": 63,
     "nationality_evidence": null,
-    "vocation_evidence": null,
+    "vocation_evidence": "Advocate of the Bombay High Court",
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "L. F.",
     "name_as_in_contributor_note": null,
-    "name_variants": [],
+    "name_variants": [
+      "Laeeq Futehally"
+    ],
     "roles": [
       "reviewer"
     ],
@@ -338,7 +340,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "NISSIM EZEKIEL",
@@ -353,7 +355,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": true,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Nirad C. Chaudhuri",
@@ -368,7 +370,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Sudhin Datta",
@@ -383,7 +385,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "D. G. Nadkarni",
@@ -398,7 +400,7 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   },
   {
     "byline_verbatim": "Miss Sheela Singh",
@@ -413,6 +415,6 @@
     "nationality_evidence": null,
     "vocation_evidence": null,
     "is_editor_of_issue": false,
-    "_provenance": "recovered_by_extraction"
+    "_provenance": "agent_verified"
   }
 ]
