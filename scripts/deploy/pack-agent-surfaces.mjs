@@ -83,6 +83,18 @@ const families = [
   // point depend on the same storage it describes is a bad failure mode, and
   // two files cost nothing against the cap.
   { name: "pages-md", pred: (u) => u.endsWith(".md") && u.lastIndexOf("/") > 0 },
+  // The site's OWN Pagefind index (the one behind the header quick search, not
+  // the full-text index on R2): one fragment per indexed page, and after the
+  // Quest ingestion added 595 thinker pages that is ~9,700 files — nearly half
+  // the entire budget. The build hit 20,478 against the 20,000 limit and the
+  // deploy stopped; `pagefind/fragment/` is what makes the difference.
+  //
+  // ONLY the fragments move. `index/`, `filter/`, the wasm and pagefind.js stay
+  // in the deployment, so a query still resolves same-origin at full speed and
+  // only the records for the handful of results actually shown are fetched
+  // through the Function. Fragments are content-hashed, so a stale one cannot
+  // be served for fresh content.
+  { name: "pagefind-fragments", pred: (u) => u.startsWith("/pagefind/fragment/") },
 ];
 
 let removed = 0;

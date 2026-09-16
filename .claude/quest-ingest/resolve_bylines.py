@@ -95,13 +95,24 @@ def main() -> int:
                 continue
             tid = next((lookup[k] for k in candidates(bl) if k in lookup), None)
             if tid:
-                # A byline that is a leading run of the canonical name is the
-                # same person: "Swami Agehananda" against "Swami Agehananda
-                # Bharati". Without this the given-name guard refused all five
-                # of his bylines, because stripping the honorific leaves one
-                # token that IS the entry's first name.
+                # A byline that is a leading run of the canonical name is
+                # usually the same person: "Swami Agehananda" against "Swami
+                # Agehananda Bharati". Without this the given-name guard
+                # refused all five of his bylines, because stripping the
+                # honorific leaves one token that IS the entry's first name.
+                #
+                # BUT the override must not swallow the case the guard exists
+                # for. "Indira" is also a leading run of "Indira Gandhi", and
+                # the first version of this override duly re-credited Quest
+                # QT011's Marathi poem to her — the original error of this whole
+                # project, reintroduced by the fix for Agehananda. So the
+                # override requires the byline to carry at least TWO words as
+                # printed, honorific included: "Swami Agehananda" qualifies,
+                # a bare "Indira" never can.
                 ctoks, ktoks = bp.tokens(bl), bp.tokens(canon.get(tid, ""))
-                prefix_of_entry = bool(ctoks) and ktoks[:len(ctoks)] == ctoks
+                printed_words = len([w for w in re.split(r"\s+", bl.strip()) if w])
+                prefix_of_entry = (printed_words >= 2 and bool(ctoks)
+                                   and ktoks[:len(ctoks)] == ctoks)
                 if not prefix_of_entry and (bp.given_name_clash(bl, tid, canon) or (
                         len(bp.tokens(bl)) == 1 and bp.alias_conflict(bl, tid, canon))):
                     refused += 1; left += 1; continue

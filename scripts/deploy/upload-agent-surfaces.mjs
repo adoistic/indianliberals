@@ -2,8 +2,8 @@
 /**
  * Put the packed agent surfaces on R2, under `agent/`.
  *
- * Four objects, so `wrangler r2 object put` per file is fine here — the reason
- * the surfaces are packed at all is that 16,833 separate uploads would not be.
+ * Six objects, so `wrangler r2 object put` per file is fine here — the reason
+ * the surfaces are packed at all is that 26,000 separate uploads would not be.
  *
  *   node scripts/deploy/upload-agent-surfaces.mjs [--dir build-artifacts/agent]
  */
@@ -20,6 +20,8 @@ const files = [
   ["api-works.pack", "application/octet-stream"],
   ["pages-md.idx.json", "application/json"],
   ["pages-md.pack", "application/octet-stream"],
+  ["pagefind-fragments.idx.json", "application/json"],
+  ["pagefind-fragments.pack", "application/octet-stream"],
 ];
 
 for (const [name, ct] of files) {

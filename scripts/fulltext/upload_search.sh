@@ -68,7 +68,11 @@ cd "$CWD"
 shards=(); entries=()
 for f in $BUNDLE/**/*(.); do
   case "${f#$BUNDLE/}" in
-    fragment/*|index/*) shards+=("$f") ;;
+    # filter/ is content-hashed payload too, and memory is explicit that
+    # fragment/, index/ AND filter/ all go up before the entrypoints. The
+    # first version of this list omitted filter/, which would have shipped
+    # 21 filter files in phase 2 alongside pagefind-entry.json.
+    fragment/*|index/*|filter/*) shards+=("$f") ;;
     *)                  entries+=("$f") ;;
   esac
 done
