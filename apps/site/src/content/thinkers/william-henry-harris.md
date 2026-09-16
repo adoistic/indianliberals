@@ -1,0 +1,31 @@
+---
+id: william-henry-harris
+name:
+  canonical: William Henry Harris
+  sort: Harris, William Henry
+  also_known_as:
+  - W. H. Harris
+  - W. ll.llarrili
+  - W. H. Harri.s
+tradition: unclassified
+canon_status: unclassified
+nationality: india
+vocations:
+- philosopher
+- professor
+themes: []
+affiliations: []
+bio_source: ai_drafted
+needs_review: true
+draft: false
+ai:
+  drafted_by: claude-opus-5
+  drafted_at: '2026-09-16'
+  model_version: quest-contributor-harvest-2026-09
+---
+
+William Henry Harris wrote for *Quest*, the journal of ideas sponsored by the Indian Committee for Cultural Freedom, appearing in one issue of the archive's run (No. 37 (APRIL/JUNE 1963 (contents page); cover dated 'spring 1963')).
+
+*Quest*'s contributor note in No. 37 (APRIL/JUNE 1963 (contents page); cover dated 'spring 1963'), p. 111 reads:
+
+> WILLIAM HENRY HARRIS is professor of philosophy at Southern Illinois University. He studied Indian Philosophy as a Fullbright fellow at Madras University during 1953-54, and has renewed his studies in Indian philosophy this year at Calcutta University.

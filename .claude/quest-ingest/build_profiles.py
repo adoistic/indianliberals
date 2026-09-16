@@ -72,6 +72,12 @@ STOP_NAMES = {
     "a reader", "a contributor", "contributors", "unsigned", "various",
     "a consumer", "a student", "a friend", "observer",
 }
+ROLE_PREFIX_RX = re.compile(
+    r"(?:the\s+)?(?:astt\.?|asst\.?|assistant|advisory|reviews?|books?|arts?|"
+    r"business|managing|guest|general)?\s*"
+    r"(?:editor|editors|manager|secretary|translator|translated\s+from[\w\s.]*|"
+    r"translation|paintings?|photographs?|photography|drawings?|illustrations?|"
+    r"sketches?|cover|by)\s*", re.I)
 ROLE_TITLE_RX = re.compile(
     r"\b(chairman|president|secretary|director|principal|vice-chancellor|"
     r"professor|lecturer|reader|editor|manager|member of|fellow of|"
@@ -125,17 +131,24 @@ def display_name(raw: str) -> str:
     None of that is the name.
     """
     s = (raw or "").strip().strip(QUOTES).strip()
+    s = s.lstrip("-\u2013\u2014 \u2022*").strip()      # "-Rabindranath Tagore"
     s = re.sub(r"\s*\([^)]*\)", " ", s)                 # (the Author), (London)
+    # Split on a colon ONLY when what precedes it is a role phrase. Quest sets
+    # "EDITOR: NISSIM EZEKIEL"; it also contains the OCR garble "A. Subb:iah",
+    # and an unconditional split turned that into the name "iah".
     if ":" in s:
-        s = s.split(":", 1)[1]                            # role prefix
+        head, tail = s.split(":", 1)
+        if ROLE_PREFIX_RX.fullmatch(head.strip()) and tail.strip():
+            s = tail
     s = re.sub(r"^.*?\bby\s+", "", s, flags=re.I) if re.search(r"\bby\s+\S", s, re.I) else s
     if "," in s:
         head, tail = s.split(",", 1)
         # a trailing appointment or degree is not part of the name
         if len(head.split()) >= 2 or ROLE_TITLE_RX.search(tail):
             s = head
-    s = re.sub(r",?\s*(I\.?A\.?S\.?|I\.?C\.?S\.?|Esq\.?|Jr\.?|Sr\.?|Ph\.?\s*D\.?|M\.?A\.?|M\.?P\.?)\s*$",
-               "", s, flags=re.I)
+    s = re.sub(r"(?:,\s*|\s+)(?:I\.?\s*A\.?\s*S\.?|I\.?\s*C\.?\s*S\.?|I\.?\s*F\.?\s*S\.?|"
+               r"Esq\.?|Jr\.?|Sr\.?|Ph\.?\s*D\.|M\.\s*A\.|M\.\s*P\.|F\.\s*R\.\s*S\.?|"
+               r"S\.\s*J\.?)\s*$", "", s, flags=re.I)
     s = s.strip(" ,.;:" + QUOTES).strip()
     for _ in range(3):
         new = DISP_HON_RX.sub("", s).strip()
@@ -749,6 +762,41 @@ def given_name_clash(form: str, tid: str, canon_by_id: dict[str, str]) -> bool:
     return len(ctoks) >= 2 and toks[0] == ctoks[0]
 
 
+def alias_conflict(canonical: str, tid: str, canon_by_id: dict[str, str]) -> bool:
+    """Refuse a SINGLE-TOKEN match when the cluster knows a different person.
+
+    The given-name rule is not enough. Quest's running heads contract "Michael
+    Polanyi" to "Polanyi", the authority file lists "Polanyi" as an alias of his
+    brother KARL, and a surname alias passes the given-name test by design -
+    that is how "Nehru" and "Masani" resolve correctly. So this ran the full
+    corpus and proposed filing Michael Polanyi's five Quest appearances under
+    Karl, the one conflation every agent on this run explicitly refused.
+
+    The rule: if the cluster's own canonical name gives a GIVEN name, it must be
+    compatible with the matched person's - equal, or an initial of it. Same
+    surname plus a different given name is a different person.
+        cluster "Michael Polanyi" vs entry "Karl Polanyi"     -> REFUSE
+        cluster "L. Kolakowski"   vs entry "Leszek Kolakowski" -> allow
+        cluster "Nehru"           vs entry "Jawaharlal Nehru"  -> allow
+    """
+    canon = canon_by_id.get(tid)
+    if not canon:
+        return False
+    ctoks, ktoks = tokens(canonical), tokens(canon)
+    if len(ctoks) < 2 or len(ktoks) < 2:
+        return False                      # cluster or entry has no given name
+    if ctoks[-1] != ktoks[-1]:
+        return False                      # different surname: not this rule's business
+    a, b = ctoks[0], ktoks[0]
+    if a == b:
+        return False
+    if len(a) == 1 and b.startswith(a):
+        return False
+    if len(b) == 1 and a.startswith(b):
+        return False
+    return True
+
+
 def main() -> int:
     argv = sys.argv[1:]
     write = "--write" in argv
@@ -762,6 +810,7 @@ def main() -> int:
     labels = issue_labels()
 
     new, existing, held, collisions, merged = [], [], [], [], []
+    alias_refusals: list[tuple] = []
     canonicals: list[str] = []
 
     # One person printed with and without a middle initial is one person.
@@ -815,10 +864,18 @@ def main() -> int:
             merged.append((canonical, raw_forms, issues))
 
         hit = None
+        refused = []
         for f in forms + raw_forms:
             cand = files.get(norm(f)) or auth.get(norm(f))
-            if cand and not given_name_clash(f, cand, canon_by_id):
-                hit = cand; break
+            if not cand:
+                continue
+            if given_name_clash(f, cand, canon_by_id):
+                refused.append((f, cand, "single given name")); continue
+            if len(tokens(f)) == 1 and alias_conflict(canonical, cand, canon_by_id):
+                refused.append((f, cand, "surname alias, different given name")); continue
+            hit = cand; break
+        if refused:
+            alias_refusals.extend((canonical, f, cand, why) for f, cand, why in refused)
         if hit:
             existing.append((canonical, hit, forms, issues)); continue
 
@@ -843,6 +900,10 @@ def main() -> int:
     print(f"slug clashes   {len(collisions)}")
     print(f"merged on initials {len(ext_merges)} (e.g. \"Feroze Moos\" into \"Feroze F. Moos\")")
     print(f"look-alikes    {len(dupes)} pairs flagged for review")
+    if alias_refusals:
+        print(f"alias refusals  {len(alias_refusals)} (an alias matched the wrong person)")
+        for c, f, tid, why in alias_refusals:
+            print(f"                {c!r}: {f!r} -> {tid} refused ({why})")
     nat = sum(1 for *_x, m, _r in new if m["nationality_phrase"])
     bio = sum(1 for *_x, m, _r in new if m["has_note"])
     print(f"               {bio} of the new have a printed biography; "

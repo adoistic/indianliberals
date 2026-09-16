@@ -1,302 +1,474 @@
 [
-  {
-    "byline_verbatim": "Arthur Koestler",
-    "name_as_in_contributor_note": "Arthur Koestler",
-    "name_variants": ["Arthur Koestler"],
-    "roles": ["author"],
-    "toc_indexes": [1],
-    "note_verbatim": "ARTHUR KOESTLER is too well-known to need any introduction. It is not so well-known, however, at least in India, that four years ago in his preface to the Trail of the Dinosaur he bade farewell to politics and political writing. His latest publication The Sleep Walkers is a history of man's changing vision of the Universe.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "too well-known to need any introduction ... His latest publication The Sleep Walkers is a history of man's changing vision of the Universe",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Daya Krishna",
-    "name_as_in_contributor_note": "Daya Krishna",
-    "name_variants": ["Daya Krishna"],
-    "roles": ["author"],
-    "toc_indexes": [2],
-    "note_verbatim": "DAYA KRISHNA is a frequent contributor to standard philosophical journals in India and abroad. A French translation of his paper on Political Index Numbers presented at the Rhodes Island Seminar last October is being published in Le Contrat Social. His article appeared in Quest 17.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "is a frequent contributor to standard philosophical journals in India and abroad",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Nissim Ezekiel",
-    "name_as_in_contributor_note": "Nissim Ezekiel",
-    "name_variants": ["Nissim Ezekiel"],
-    "roles": ["author"],
-    "toc_indexes": [3],
-    "note_verbatim": "NISSIM EZEKIEL has just published a volume of verse called The Third. Apart from its several poetical meanings, the name carries the prose meaning that this is his third publication; his two previous ones being A Time to Change and Sixty Poems.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "has just published a volume of verse called The Third ... his two previous ones being A Time to Change and Sixty Poems",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "V. V. John",
-    "name_as_in_contributor_note": "V. V. John",
-    "name_variants": ["V. V. John"],
-    "roles": ["author"],
-    "toc_indexes": [4],
-    "note_verbatim": "V. V. JOHN, who comes from Kerala and studied English Literature at Madras and Oxford, now teaches in the University of Delhi, and \"in his spare time does a certain amount of harmless journalism\".",
-    "note_printed_page": 105,
-    "nationality_evidence": "who comes from Kerala",
-    "vocation_evidence": "studied English Literature at Madras and Oxford, now teaches in the University of Delhi, and \"in his spare time does a certain amount of harmless journalism\"",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Ka Naa Subramanyam",
-    "name_as_in_contributor_note": "Ka Naa Subramanyam",
-    "name_variants": ["Ka Naa Subramanyam"],
-    "roles": ["author"],
-    "toc_indexes": [5],
-    "note_verbatim": "KA NAA SUBRAMANYAM is one of the most distinguished names in modern Tamil literature. Author of many volumes of short stories and novels; an English translation of his novel is shortly to be published in England.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "is one of the most distinguished names in modern Tamil literature. Author of many volumes of short stories and novels",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "P. D. Devanandan",
-    "name_as_in_contributor_note": "Paul David Devanandan",
-    "name_variants": ["P. D. Devanandan", "Paul David Devanandan"],
-    "roles": ["author"],
-    "toc_indexes": [6],
-    "note_verbatim": "PAUL DAVID DEVANANDAN M.A., Ph.D., D.D., is the Director of the Christian Institute for the Study of Religion and Society, Bangalore. Author of The Concept of Maya (Lutterworth 1947) and other publications; joint editor of the quarterly Religion and Society published by CISRS.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "M.A., Ph.D., D.D., is the Director of the Christian Institute for the Study of Religion and Society, Bangalore. Author of The Concept of Maya (Lutterworth 1947) and other publications; joint editor of the quarterly Religion and Society published by CISRS",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "C. Rajagopalachari",
-    "name_as_in_contributor_note": "C. Rajagopalachari",
-    "name_variants": ["C. Rajagopalachari"],
-    "roles": ["author"],
-    "toc_indexes": [7],
-    "note_verbatim": "C. RAJAGOPALACHARI contributed to Quest 19 and needs no introduction to its readers.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "needs no introduction to its readers",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "S. K. Datta-Ray",
-    "name_as_in_contributor_note": "Sunanda K. Datta-Ray",
-    "name_variants": ["S. K. Datta-Ray", "Sunanda K. Datta-Ray"],
-    "roles": ["author"],
-    "toc_indexes": [8],
-    "note_verbatim": "SUNANDA K. DATTA-RAY is a student of Manchester University and \"does a bit of writing\" for several Indian periodicals in the English language.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "is a student of Manchester University and \"does a bit of writing\" for several Indian periodicals in the English language",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "D. McCutchion",
-    "name_as_in_contributor_note": "David McCutchion",
-    "name_variants": ["D. McCutchion", "D.J. McCutchion", "David McCutchion"],
-    "roles": ["author"],
-    "toc_indexes": [9],
-    "note_verbatim": "DAVID McCUTCHION graduated with honours in Modern Languages from Cambridge and is at present teaching English Literature at the Visvabharati University, Santiniketan.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "graduated with honours in Modern Languages from Cambridge and is at present teaching English Literature at the Visvabharati University, Santiniketan",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "P. C. Chatterji",
-    "name_as_in_contributor_note": null,
-    "name_variants": ["P. C. Chatterji"],
-    "roles": ["author"],
-    "toc_indexes": [10],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": null,
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Bishnu Dey",
-    "name_as_in_contributor_note": "Bishnu Dey",
-    "name_variants": ["Bishnu Dey"],
-    "roles": ["author"],
-    "toc_indexes": [11],
-    "note_verbatim": "BISHNU DEY now combines his creative work as a poet with administrative work as the Principal of Govt. Central College, Calcutta. He was contributor to Quest 17 and 18.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "now combines his creative work as a poet with administrative work as the Principal of Govt. Central College, Calcutta",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "J. N. Hattangadi",
-    "name_as_in_contributor_note": "Jagadish N. Hattangadi",
-    "name_variants": ["J. N. Hattangadi", "Jagadish N. Hattangadi"],
-    "roles": ["author"],
-    "toc_indexes": [12],
-    "note_verbatim": "JAGADISH N. HATTANGADI was not exactly \"fifty when he was born\" but he seems to be a good many years older than his present age, which is sixteen. This is his first publication outside his college magazine.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "This is his first publication outside his college magazine",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "R. de Loyola Furtado",
-    "name_as_in_contributor_note": "R. de Loyola Furtado",
-    "name_variants": ["R. de Loyola Furtado"],
-    "roles": ["author"],
-    "toc_indexes": [13],
-    "note_verbatim": "R. de LOYOLA FURTADO, Lecturer in English Literature at Punjab University, was a contributor to Quest 17.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "Lecturer in English Literature at Punjab University",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Aron Tamasi",
-    "name_as_in_contributor_note": "Aron Tamasi",
-    "name_variants": ["Aron Tamasi"],
-    "roles": ["author"],
-    "toc_indexes": [14],
-    "note_verbatim": "ARON TAMASI at sixty is one of the major figures in Hungarian short story and drama. He was a member of the National Peasant Party and of the Hungarian Parliament but remained aloof from day to day political struggles. He has published two plays and many volumes of short stories (the latest probably being Wings of Poverty), and was awarded the Kossuth Prize during the New Course in Hungary.",
-    "note_printed_page": 105,
-    "nationality_evidence": "is one of the major figures in Hungarian short story and drama ... member of ... the Hungarian Parliament ... awarded the Kossuth Prize during the New Course in Hungary",
-    "vocation_evidence": "has published two plays and many volumes of short stories (the latest probably being Wings of Poverty)",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "S. Kant",
-    "name_as_in_contributor_note": "S. Kant",
-    "name_variants": ["S. Kant"],
-    "roles": ["author"],
-    "toc_indexes": [15],
-    "note_verbatim": "S. KANT contributes to various periodicals on historical and cultural subjects.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "contributes to various periodicals on historical and cultural subjects",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "P. Mahadevan",
-    "name_as_in_contributor_note": "P. Mahadevan",
-    "name_variants": ["P. Mahadevan"],
-    "roles": ["author"],
-    "toc_indexes": [16],
-    "note_verbatim": "P. MAHADEVAN was Professor of English of the Madura College and later its Principal until his retirement in 1953. Author of Subramania Bharati, Patriot and Poet.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "was Professor of English of the Madura College and later its Principal until his retirement in 1953. Author of Subramania Bharati, Patriot and Poet",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "A. M. Ghose",
-    "name_as_in_contributor_note": "A. M. Ghose",
-    "name_variants": ["A. M. Ghose"],
-    "roles": ["author"],
-    "toc_indexes": [17],
-    "note_verbatim": "A. M. GHOSE teaches Philosophy at Maharaja's Colle~e, Jaipur,",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "teaches Philosophy at Maharaja's College, Jaipur",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Ellen Roy",
-    "name_as_in_contributor_note": "Ellen Roy",
-    "name_variants": ["Ellen Roy"],
-    "roles": ["author", "reviewer"],
-    "toc_indexes": [18],
-    "note_verbatim": "ELLEN ROY is co-editor of Radical Humanist. Her article on Democratic Socialism was published in Quest 18.",
-    "note_printed_page": 105,
-    "nationality_evidence": null,
-    "vocation_evidence": "is co-editor of Radical Humanist",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Pratima Bowes",
-    "name_as_in_contributor_note": "Pratima Bowes",
-    "name_variants": ["Pratima Bowes"],
-    "roles": ["reviewer"],
-    "toc_indexes": [19],
-    "note_verbatim": "PRATIMA BOWES, principal of a Calcutta college, her contribution 'the Ethical Basis of Blame and Punishment' appeared in Quest 17.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "principal of a Calcutta college",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "Vasant Palshikar",
-    "name_as_in_contributor_note": "Vasant Palshikar",
-    "name_variants": ["Vasant Palshikar"],
-    "roles": ["reviewer"],
-    "toc_indexes": [20],
-    "note_verbatim": "VASANT PALSHIKAR is a sarvodaya worker and a free lance writer in Marathi and English.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "is a sarvodaya worker and a free lance writer in Marathi and English",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "M. D. Hatkananglekar",
-    "name_as_in_contributor_note": "M. D. Hatkananglekar",
-    "name_variants": ["M. D. Hatkananglekar"],
-    "roles": ["reviewer"],
-    "toc_indexes": [21],
-    "note_verbatim": "M.D. HATKANANGLEKAR is one of the foremost literary critics in Marathi. He teaches English Literature in Wellingdon College, Sangli.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "is one of the foremost literary critics in Marathi. He teaches English Literature in Wellingdon College, Sangli",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "G.P. Pradhan",
-    "name_as_in_contributor_note": "G. P. Pradhan",
-    "name_variants": ["G.P. Pradhan", "G. P. Pradhan"],
-    "roles": ["reviewer"],
-    "toc_indexes": [22],
-    "note_verbatim": "G. P. PRADHAN is also a frequent contributor to Quest.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "is also a frequent contributor to Quest",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "C. L. Nahal",
-    "name_as_in_contributor_note": "C. L. Nahal",
-    "name_variants": ["C. L. Nahal"],
-    "roles": ["reviewer"],
-    "toc_indexes": [23],
-    "note_verbatim": "C.L. NAHAL is a frequent contributor to Quest.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "is a frequent contributor to Quest",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "K. B. Rao",
-    "name_as_in_contributor_note": "K. B. Rao",
-    "name_variants": ["K. B. Rao"],
-    "roles": ["reviewer"],
-    "toc_indexes": [24],
-    "note_verbatim": "K.B. RAO lectures in English language and literature at S.P. College, Poona.",
-    "note_printed_page": 101,
-    "nationality_evidence": null,
-    "vocation_evidence": "lectures in English language and literature at S.P. College, Poona",
-    "is_editor_of_issue": false
-  },
-  {
-    "byline_verbatim": "S. K. Chaubey",
-    "name_as_in_contributor_note": null,
-    "name_variants": ["S. K. Chaubey"],
-    "roles": ["author"],
-    "toc_indexes": [25],
-    "note_verbatim": null,
-    "note_printed_page": null,
-    "nationality_evidence": null,
-    "vocation_evidence": "Lucknow University (printed as the sign-off beneath his letter, not a formal contributor note)",
-    "is_editor_of_issue": false
-  }
+ {
+  "byline_verbatim": "Arthur Koestler",
+  "name_as_in_contributor_note": "Arthur Koestler",
+  "name_variants": [
+   "Arthur Koestler"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   1
+  ],
+  "note_verbatim": "ARTHUR KOESTLER is too well-known to need any introduction. It is not so well-known, however, at least in India, that four years ago in his preface to the Trail of the Dinosaur he bade farewell to politics and political writing. His latest publication The Sleep Walkers is a history of man's changing vision of the Universe.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "too well-known to need any introduction ... His latest publication The Sleep Walkers is a history of man's changing vision of the Universe",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Daya Krishna",
+  "name_as_in_contributor_note": "Daya Krishna",
+  "name_variants": [
+   "Daya Krishna"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   2
+  ],
+  "note_verbatim": "DAYA KRISHNA is a frequent contributor to standard philosophical journals in India and abroad. A French translation of his paper on Political Index Numbers presented at the Rhodes Island Seminar last October is being published in Le Contrat Social. His article appeared in Quest 17.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a frequent contributor to standard philosophical journals in India and abroad",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Nissim Ezekiel",
+  "name_as_in_contributor_note": "Nissim Ezekiel",
+  "name_variants": [
+   "Nissim Ezekiel"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   3
+  ],
+  "note_verbatim": "NISSIM EZEKIEL has just published a volume of verse called The Third. Apart from its several poetical meanings, the name carries the prose meaning that this is his third publication; his two previous ones being A Time to Change and Sixty Poems.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "has just published a volume of verse called The Third ... his two previous ones being A Time to Change and Sixty Poems",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "V. V. John",
+  "name_as_in_contributor_note": "V. V. John",
+  "name_variants": [
+   "V. V. John"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   4
+  ],
+  "note_verbatim": "V. V. JOHN, who comes from Kerala and studied English Literature at Madras and Oxford, now teaches in the University of Delhi, and \"in his spare time does a certain amount of harmless journalism\".",
+  "note_printed_page": 105,
+  "nationality_evidence": "who comes from Kerala",
+  "vocation_evidence": "studied English Literature at Madras and Oxford, now teaches in the University of Delhi, and \"in his spare time does a certain amount of harmless journalism\"",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Ka Naa Subramanyam",
+  "name_as_in_contributor_note": "Ka Naa Subramanyam",
+  "name_variants": [
+   "Ka Naa Subramanyam"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   5
+  ],
+  "note_verbatim": "KA NAA SUBRAMANYAM is one of the most distinguished names in modern Tamil literature. Author of many volumes of short stories and novels; an English translation of his novel is shortly to be published in England.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "is one of the most distinguished names in modern Tamil literature. Author of many volumes of short stories and novels",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "P. D. Devanandan",
+  "name_as_in_contributor_note": "Paul David Devanandan",
+  "name_variants": [
+   "P. D. Devanandan",
+   "Paul David Devanandan"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   6
+  ],
+  "note_verbatim": "PAUL DAVID DEVANANDAN M.A., Ph.D., D.D., is the Director of the Christian Institute for the Study of Religion and Society, Bangalore. Author of The Concept of Maya (Lutterworth 1947) and other publications; joint editor of the quarterly Religion and Society published by CISRS.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "M.A., Ph.D., D.D., is the Director of the Christian Institute for the Study of Religion and Society, Bangalore. Author of The Concept of Maya (Lutterworth 1947) and other publications; joint editor of the quarterly Religion and Society published by CISRS",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "C. Rajagopalachari",
+  "name_as_in_contributor_note": "C. Rajagopalachari",
+  "name_variants": [
+   "C. Rajagopalachari"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   7
+  ],
+  "note_verbatim": "C. RAJAGOPALACHARI contributed to Quest 19 and needs no introduction to its readers.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "needs no introduction to its readers",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "S. K. Datta-Ray",
+  "name_as_in_contributor_note": "Sunanda K. Datta-Ray",
+  "name_variants": [
+   "S. K. Datta-Ray",
+   "Sunanda K. Datta-Ray"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   8
+  ],
+  "note_verbatim": "SUNANDA K. DATTA-RAY is a student of Manchester University and \"does a bit of writing\" for several Indian periodicals in the English language.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a student of Manchester University and \"does a bit of writing\" for several Indian periodicals in the English language",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "D. McCutchion",
+  "name_as_in_contributor_note": "David McCutchion",
+  "name_variants": [
+   "D. McCutchion",
+   "D.J. McCutchion",
+   "David McCutchion"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   9
+  ],
+  "note_verbatim": "DAVID McCUTCHION graduated with honours in Modern Languages from Cambridge and is at present teaching English Literature at the Visvabharati University, Santiniketan.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "graduated with honours in Modern Languages from Cambridge and is at present teaching English Literature at the Visvabharati University, Santiniketan",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "P. C. Chatterji",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "P. C. Chatterji"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   10
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Bishnu Dey",
+  "name_as_in_contributor_note": "Bishnu Dey",
+  "name_variants": [
+   "Bishnu Dey"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   11
+  ],
+  "note_verbatim": "BISHNU DEY now combines his creative work as a poet with administrative work as the Principal of Govt. Central College, Calcutta. He was contributor to Quest 17 and 18.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "now combines his creative work as a poet with administrative work as the Principal of Govt. Central College, Calcutta",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "J. N. Hattangadi",
+  "name_as_in_contributor_note": "Jagadish N. Hattangadi",
+  "name_variants": [
+   "J. N. Hattangadi",
+   "Jagadish N. Hattangadi"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   12
+  ],
+  "note_verbatim": "JAGADISH N. HATTANGADI was not exactly \"fifty when he was born\" but he seems to be a good many years older than his present age, which is sixteen. This is his first publication outside his college magazine.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "This is his first publication outside his college magazine",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "R. de Loyola Furtado",
+  "name_as_in_contributor_note": "R. de Loyola Furtado",
+  "name_variants": [
+   "R. de Loyola Furtado"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   13
+  ],
+  "note_verbatim": "R. de LOYOLA FURTADO, Lecturer in English Literature at Punjab University, was a contributor to Quest 17.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "Lecturer in English Literature at Punjab University",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Aron Tamasi",
+  "name_as_in_contributor_note": "Aron Tamasi",
+  "name_variants": [
+   "Aron Tamasi"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   14
+  ],
+  "note_verbatim": "ARON TAMASI at sixty is one of the major figures in Hungarian short story and drama. He was a member of the National Peasant Party and of the Hungarian Parliament but remained aloof from day to day political struggles. He has published two plays and many volumes of short stories (the latest probably being Wings of Poverty), and was awarded the Kossuth Prize during the New Course in Hungary.",
+  "note_printed_page": 105,
+  "nationality_evidence": "is one of the major figures in Hungarian short story and drama ... member of ... the Hungarian Parliament ... awarded the Kossuth Prize during the New Course in Hungary",
+  "vocation_evidence": "has published two plays and many volumes of short stories (the latest probably being Wings of Poverty)",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "S. Kant",
+  "name_as_in_contributor_note": "S. Kant",
+  "name_variants": [
+   "S. Kant"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   15
+  ],
+  "note_verbatim": "S. KANT contributes to various periodicals on historical and cultural subjects.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "contributes to various periodicals on historical and cultural subjects",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "P. Mahadevan",
+  "name_as_in_contributor_note": "P. Mahadevan",
+  "name_variants": [
+   "P. Mahadevan"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   16
+  ],
+  "note_verbatim": "P. MAHADEVAN was Professor of English of the Madura College and later its Principal until his retirement in 1953. Author of Subramania Bharati, Patriot and Poet.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "was Professor of English of the Madura College and later its Principal until his retirement in 1953. Author of Subramania Bharati, Patriot and Poet",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "A. M. Ghose",
+  "name_as_in_contributor_note": "A. M. Ghose",
+  "name_variants": [
+   "A. M. Ghose"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   17
+  ],
+  "note_verbatim": "A. M. GHOSE teaches Philosophy at Maharaja's Colle~e, Jaipur,",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "teaches Philosophy at Maharaja's College, Jaipur",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Ellen Roy",
+  "name_as_in_contributor_note": "Ellen Roy",
+  "name_variants": [
+   "Ellen Roy"
+  ],
+  "roles": [
+   "author",
+   "reviewer"
+  ],
+  "toc_indexes": [
+   18
+  ],
+  "note_verbatim": "ELLEN ROY is co-editor of Radical Humanist. Her article on Democratic Socialism was published in Quest 18.",
+  "note_printed_page": 105,
+  "nationality_evidence": null,
+  "vocation_evidence": "is co-editor of Radical Humanist",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Pratima Bowes",
+  "name_as_in_contributor_note": "Pratima Bowes",
+  "name_variants": [
+   "Pratima Bowes"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   19
+  ],
+  "note_verbatim": "PRATIMA BOWES, principal of a Calcutta college, her contribution 'the Ethical Basis of Blame and Punishment' appeared in Quest 17.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "principal of a Calcutta college",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "Vasant Palshikar",
+  "name_as_in_contributor_note": "Vasant Palshikar",
+  "name_variants": [
+   "Vasant Palshikar"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   20
+  ],
+  "note_verbatim": "VASANT PALSHIKAR is a sarvodaya worker and a free lance writer in Marathi and English.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a sarvodaya worker and a free lance writer in Marathi and English",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "M. D. Hatkananglekar",
+  "name_as_in_contributor_note": "M. D. Hatkananglekar",
+  "name_variants": [
+   "M. D. Hatkananglekar"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   21
+  ],
+  "note_verbatim": "M.D. HATKANANGLEKAR is one of the foremost literary critics in Marathi. He teaches English Literature in Wellingdon College, Sangli.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "is one of the foremost literary critics in Marathi. He teaches English Literature in Wellingdon College, Sangli",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "G.P. Pradhan",
+  "name_as_in_contributor_note": "G. P. Pradhan",
+  "name_variants": [
+   "G.P. Pradhan",
+   "G. P. Pradhan"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   22
+  ],
+  "note_verbatim": "G. P. PRADHAN is also a frequent contributor to Quest.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "is also a frequent contributor to Quest",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "C. L. Nahal",
+  "name_as_in_contributor_note": "C. L. Nahal",
+  "name_variants": [
+   "C. L. Nahal"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   23
+  ],
+  "note_verbatim": "C.L. NAHAL is a frequent contributor to Quest.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a frequent contributor to Quest",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "K. B. Rao",
+  "name_as_in_contributor_note": "K. B. Rao",
+  "name_variants": [
+   "K. B. Rao"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   24
+  ],
+  "note_verbatim": "K.B. RAO lectures in English language and literature at S.P. College, Poona.",
+  "note_printed_page": 101,
+  "nationality_evidence": null,
+  "vocation_evidence": "lectures in English language and literature at S.P. College, Poona",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "S. K. Chaubey",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "S. K. Chaubey"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   25
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "Lucknow University (printed as the sign-off beneath his letter, not a formal contributor note)",
+  "is_editor_of_issue": false
+ },
+ {
+  "byline_verbatim": "ALEXANDER HARSANYI",
+  "name_as_in_contributor_note": null,
+  "name_variants": [],
+  "roles": [
+   "translator"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "translated Aron Tamasi's Hungarian short story for this issue",
+  "is_editor_of_issue": false,
+  "_provenance": "Recovered from the issue's own metadata contributors[], where this issue's extraction recorded the printed translator credit. The contributor-notes pass omitted him, and a reconciliation of every work's bylines against its harvest found him and one OCR garble as the only two gaps in 49 issues. Quest printed no note for him."
+ }
 ]
