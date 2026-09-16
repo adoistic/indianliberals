@@ -61,3 +61,18 @@ and chairman Jayantanuja Bandopadhyaya, but the contents line covers them with
 profile. An editorial call is available either way: the record is a revised
 account drafted by K. K. Sinha, not a verbatim transcript, which is the reason
 for leaving it as it stands.
+
+## A contributor note for a non-contributor (QT039)
+QT039's "OUR CONTRIBUTORS" page prints: "CHETAN KARNANI, who contributed to our
+Arts Section in the Monsoon issue, teaches English in the University of
+Rajasthan." Karnani has NO byline anywhere in QT039 — the agent grepped the
+whole text layer and his name occurs only in that note. It is almost certainly a
+standing entry left set from the previous issue.
+
+He is therefore not in QT039's contributor records, which is the correct
+ontology: a note alone does not make someone a contributor to an issue. But the
+sentence does supply the vocation that QT016's truncated note for him is missing
+(see above). It is recorded here rather than copied into his QT016 record,
+because compose_body cites the issue that a record belongs to, and pasting
+QT039's sentence under a QT016 page reference would cite the wrong page.
+An editor completing his profile can take it from here.

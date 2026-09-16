@@ -35,6 +35,13 @@ ROT = re.compile(r"rotat(ed|ion)|sideways|upside[- ]down|90 ?(degrees|\u00b0)", 
 ARTEFACT = re.compile(r"\b(scan|scans|scanned|pdf|leaf|leaves|bound|binding|capture[d]?)\b", re.I)
 AS_PRINTED = re.compile(r"\b(printed|prints|as printed|in the original|original layout|"
                         r"landscape plate|laid out)\b", re.I)
+# Grade by what the defect does to a READER, so scan_quality is a usable
+# rescan list instead of one undifferentiated bucket. Everything used to land
+# on "fair", which put QT040's single damaged digit on the contents page at the
+# same grade as QT020's twenty relocated pages.
+SEVERE = re.compile(r"out of sequence|out of order|mis-?bound|misbind|scanned out|"
+                    r"missing page|missing lea|duplicate(d)? (page|lea)|"
+                    r"illegible|unreadable", re.I)
 for qt in sys.argv[1:]:
     qt = qt.upper(); md = WORKS / f"{qt.lower()}.md"; mj = BAKE / qt / "metadata.a.json"
     if not (md.exists() and mj.exists()): print(f"SKIP {qt}"); continue
@@ -74,9 +81,10 @@ for qt in sys.argv[1:]:
     while j < len(lines) and (lines[j].startswith("  ") or lines[j] == ""): j += 1
     block = [l for l in lines[i+1:j] if not re.match(r"\s*notes:", l)]
     block.append(f'  notes: "{note}"')
+    grade = "poor" if any(SEVERE.search(h) for h in hits) else "fair"
     if any(re.match(r"\s*scan_quality:", l) for l in block):
-        block = [re.sub(r"^(\s*scan_quality:).*$", r"\1 fair", l) for l in block]
+        block = [re.sub(r"^(\s*scan_quality:).*$", rf"\1 {grade}", l) for l in block]
     else:
-        block.append("  scan_quality: fair")
+        block.append(f"  scan_quality: {grade}")
     md.write_text("\n".join(lines[:i+1] + block + lines[j:]), encoding="utf-8")
-    print(f"{qt}: carried -> {note[:110]}")
+    print(f"{qt}: carried [{grade}] -> {note[:100]}")

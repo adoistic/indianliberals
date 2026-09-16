@@ -1,0 +1,658 @@
+[
+ {
+  "byline_verbatim": "PUNYA SLOKA RAY",
+  "name_as_in_contributor_note": "PUNYA SLOKA RAY",
+  "name_variants": [
+   "Punya Sloka Ray",
+   "P. S. Ray",
+   "Dr. P. S. Ray",
+   "Dr. Ray"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   1,
+   27
+  ],
+  "note_verbatim": "PUNYA SLOKA RAY, formerly Lecturer in Philosophy, Utkal University, is at present Assistant Professor at South Asia Language and Area Center, University of Chicago. His book Language Standardisation has been published this year by Mouton & Co., The Hague.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "formerly Lecturer in Philosophy, Utkal University, is at present Assistant Professor at South Asia Language and Area Center, University of Chicago",
+  "is_editor_of_issue": false,
+  "notes": "One bio serves both his roles in this issue: the lead article (toc 1) and his signed REPLY in the correspondence pages (toc 27), where Pasricha addresses him as 'Dr. P. S. Ray'. Running head on p.10 is 'P. S. Ray'. Nationality left null: a Chicago appointment is employment, not origin."
+ },
+ {
+  "byline_verbatim": "NoEL J. CouLSON",
+  "name_as_in_contributor_note": "NOEL JAMES COULSON",
+  "name_variants": [
+   "Noel J. Coulson",
+   "N. J. Coulson"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   2
+  ],
+  "note_verbatim": "NOEL JAMES COULSON is Lecturer in Islamic Law at the School of Oriental and African Studies, University of London. His book A History of Islamic Law is to be published by the Edinburgh University Press.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "is Lecturer in Islamic Law at the School of Oriental and African Studies, University of London",
+  "is_editor_of_issue": false,
+  "notes": "Byline on p.16 is printed in small caps as 'NOEL J. COULSON'; the contents page gives 'Noel J. Coulson'; running heads give 'N. J. Coulson'. The London chair is employment, so nationality_evidence is null even though the piece was written for an international seminar abroad."
+ },
+ {
+  "byline_verbatim": "JAYANTANUJA BANDYOPADHYAYA",
+  "name_as_in_contributor_note": "JAYANTANUJA BANDYOPADHYAYA",
+  "name_variants": [
+   "Jayantanuja Bandyopadhyaya",
+   "J. N. Bandyopadhyaya"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   3
+  ],
+  "note_verbatim": "JAYANTANUJA BANDYOPADHYAYA, formerly Deputy Secretary, Department of External Affairs, Govt. of India, is at present Lecturer in International Relations, University of Jadavpur. He combines his academic work (has just completed a book on the impact of international communism on Indian political parties) with political work as member of the West Bengal Executive of the Praja Socialist Party.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "formerly Deputy Secretary, Department of External Affairs, Govt. of India, is at present Lecturer in International Relations, University of Jadavpur ... member of the West Bengal Executive of the Praja Socialist Party",
+  "is_editor_of_issue": false,
+  "notes": "Running heads print the initials 'J. N. Bandyopadhyaya' although the note gives no middle name - recorded as a variant, not corrected. Government service and party office are employment/affiliation, so nationality_evidence is null."
+ },
+ {
+  "byline_verbatim": "B. R. SHENOY",
+  "name_as_in_contributor_note": "B. R. SHENOY",
+  "name_variants": [
+   "B. R. Shenoy"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   4
+  ],
+  "note_verbatim": "B. R. SHENOY is Professor and Director of the School of Social Studies, Gujarat University, Ahmedabad.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "is Professor and Director of the School of Social Studies, Gujarat University, Ahmedabad",
+  "is_editor_of_issue": false,
+  "notes": "The only byline in the issue that resolves against the supplied authority subset (b-r-shenoy)."
+ },
+ {
+  "byline_verbatim": "A. P. BARNABAS",
+  "name_as_in_contributor_note": "A. P. BARNABAS",
+  "name_variants": [
+   "A. P. Barnabas"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   5
+  ],
+  "note_verbatim": "A. P. BARNABAS, member of the staff of the Indian Institute of Public Administration, has published numerous articles in various magazines in India and abroad; his first book Social Change in a North Indian Village is to be published shortly.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "member of the staff of the Indian Institute of Public Administration",
+  "is_editor_of_issue": false,
+  "notes": "The running-head form 'A. P. Bamabas' in the text layer is an OCR artefact of 'Barnabas' and is not recorded as a variant."
+ },
+ {
+  "byline_verbatim": "S. K. NARAIN",
+  "name_as_in_contributor_note": "S. K. NARAIN",
+  "name_variants": [
+   "S. K. Narain"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   6
+  ],
+  "note_verbatim": "S. K. NARAIN is Reader in English Literature at Lucknow University.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "is Reader in English Literature at Lucknow University",
+  "is_editor_of_issue": false,
+  "notes": "The text layer's 'S. K. N amin' on p.52 is an OCR artefact of the running head 'S. K. Narain'."
+ },
+ {
+  "byline_verbatim": "BASUDHA CHAKRA VARTY",
+  "name_as_in_contributor_note": "BASUDHA CHAKRAVARTY",
+  "name_variants": [
+   "Basudha Chakravarty",
+   "B. Chakravarty"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   7
+  ],
+  "note_verbatim": "BASUDHA CHAKRAVARTY is a journalist. Among his publications is \"Manavatabad, a study of humanism in Bengali.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a journalist",
+  "is_editor_of_issue": false,
+  "notes": "The note's opening quotation mark before Manavatabad is never closed - transcribed as printed. The p.57 byline is set with a space inside the surname ('BASUDHA CHAKRA VARTY'); running heads give 'B. Chakravarty' (the text layer's 'B: Chakravarly' is an OCR artefact). Writing 'in Bengali' is a language fact, not an origin statement, so nationality_evidence is null."
+ },
+ {
+  "byline_verbatim": "M. TIBOR MERAY",
+  "name_as_in_contributor_note": "TIBOR MERAY",
+  "name_variants": [
+   "M. Tibor Meray",
+   "Tibor Meray"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   8
+  ],
+  "note_verbatim": "TIBOR MERAY, journalist, novelist, winner of the Kossuth Prize (Communist Hungary's highest literary award), broke with the party, and, upon the collapse of the Revolution, escaped to Paris. Amongst his publications in English are The Revolt of the Mind and The Enemy.",
+  "note_printed_page": 115,
+  "nationality_evidence": "winner of the Kossuth Prize (Communist Hungary's highest literary award), broke with the party, and, upon the collapse of the Revolution, escaped to Paris",
+  "vocation_evidence": "journalist, novelist",
+  "is_editor_of_issue": false,
+  "notes": "Evidenced as NON-Indian: the printed words tie him to Communist Hungary's national literary prize and to flight from the Hungarian revolution, the subject of his article. In his own footnote on p.65 he cites his book 'Imre Nagy, l'homme trahi' (Julliard, Paris, 1960), so he writes as a participant-exile, not a neutral observer. The article byline carries an initial 'M.' that the contributors page drops."
+ },
+ {
+  "byline_verbatim": "SuDHANsu BIMAL MooKHERJI",
+  "name_as_in_contributor_note": "SUDHANSU BIMAL MOOKHERJI",
+  "name_variants": [
+   "Sudhansu Bimal Mookherji",
+   "S. B. Mukherji"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   9
+  ],
+  "note_verbatim": "SUDHANSU BIMAL MOOKHERJI, formerly of the Gadja Mada State University, Indonesia, and of the University College, Mandalay, is author of Indian Minority in South Africa, The Indenture System in Mauritius, etc.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "formerly of the Gadja Mada State University, Indonesia, and of the University College, Mandalay",
+  "is_editor_of_issue": false,
+  "notes": "Surname is spelled 'Mookherji' in the contents, byline and note but 'Mukherji' in the running heads on pp.70 and 72 - both verified on the page. Indonesian and Burmese posts are employment, not origin, so nationality_evidence is null."
+ },
+ {
+  "byline_verbatim": "HERMANN GoETZ",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Hermann Goetz",
+   "Herman Goetz",
+   "H. Goetz"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   10
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "I built up the National Gallery of Modern Art in New Delhi in 1953-55 (self-description in the article: 'her works form the most wonderful treasure of the National Gallery of Modern Art in New Delhi, built up by the author in 1953-55', p.80)",
+  "is_editor_of_issue": false,
+  "notes": "NO printed biography: he is absent from the 'Our Contributors' page even though he writes the Arts article - null is the correct answer. The contents page prints 'Herman Goetz' with one n; the article byline (p.74) and the cover both print 'HERMANN GOETZ'; running heads 'H. Goetz'. His piece is a translation from the German-language quarterly Indo-Asia, and he refers to India and Indians in the third person throughout, but no printed sentence states his origin, so nationality_evidence stays null."
+ },
+ {
+  "byline_verbatim": "David McCutchion",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "David McCutchion"
+  ],
+  "roles": [
+   "translator"
+  ],
+  "toc_indexes": [
+   10
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "Translated by David McCutchion from Indo-Asia, April 1963 (credit line, p.81)",
+  "is_editor_of_issue": false,
+  "notes": "No printed biography. Credited only in the tail-piece of the Goetz essay. Spelling on the page is 'McCutchion' (verified by rendering p.81), the form to key against the known run variant 'David McChutchion'."
+ },
+ {
+  "byline_verbatim": "Rabindranath Tagore",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Rabindranath Tagore",
+   "Rabindranath"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   11
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": false,
+  "notes": "No printed biography; the issue reproduces two of his letters in facsimile with editorial captions only (pp.82-83). One letter is signed in his own hand 'Rabindranath Tagore' and dated 'Santiniketan, Nov. 10, 1918'; the second survives only as a copy made by Rev. C. F. Andrews. Deliberately NOT resolved to the authority subset's Dwarkanath Tagore."
+ },
+ {
+  "byline_verbatim": "KEKI N. DARUWALA",
+  "name_as_in_contributor_note": "KEKI N. DARUWALA",
+  "name_variants": [
+   "Keki N. Daruwala"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   12,
+   13
+  ],
+  "note_verbatim": "KEKI N. DARUWALA is a member of the Indian Police Service. This is his first publication outside College magazines.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a member of the Indian Police Service",
+  "is_editor_of_issue": false,
+  "notes": "Two poems in this issue ('The Dream-Gull', 'Spring Sap'), one bio. Membership of a service is employment, so nationality_evidence is null. The spelling here is 'Daruwala'."
+ },
+ {
+  "byline_verbatim": "BURCE BUNAO",
+  "name_as_in_contributor_note": "G. BURCE BUNAO",
+  "name_variants": [
+   "Burce Bunao",
+   "G. Burce Bunao"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   14
+  ],
+  "note_verbatim": "G. BURCE BUNAO, one of the editors of COMMENT (Manila), has written a play and several short stories and is expecting to have two volumes of his poems published next year.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "one of the editors of COMMENT (Manila)",
+  "is_editor_of_issue": false,
+  "notes": "Poem signature verified by rendering as 'BURCE BUNAO' (the text layer's 'BVRCF, BUNAO' is an OCR garble, and 'Bruce' would be a mis-correction: the contents page, the signature and the note all print Burce). Editorship of a Manila journal is an institutional affiliation, not a printed origin statement, so nationality_evidence is null even though it points outside India."
+ },
+ {
+  "byline_verbatim": "SUDHIR SONALKAR",
+  "name_as_in_contributor_note": "SUDHIR SONALKAR",
+  "name_variants": [
+   "Sudhir Sonalkar"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   15
+  ],
+  "note_verbatim": "SUDHIR SONALKAR has just passed his B. Sc. examination; this would be his maiden publication.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "has just passed his B. Sc. examination",
+  "is_editor_of_issue": false,
+  "notes": null
+ },
+ {
+  "byline_verbatim": "BoNoMALI GosWAMI",
+  "name_as_in_contributor_note": "BONOMALI GOSWAMI",
+  "name_variants": [
+   "Bonomali Goswami",
+   "Bonamali Goswami",
+   "B. Goswamy"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   16
+  ],
+  "note_verbatim": "BONOMALI GOSWAMI has published several short stories in English and two books of short stories in Bengali.",
+  "note_printed_page": 115,
+  "nationality_evidence": null,
+  "vocation_evidence": "has published several short stories in English and two books of short stories in Bengali",
+  "is_editor_of_issue": false,
+  "notes": "Three printed forms of the name in one issue, all verified on the page: story byline p.87 'BONOMALI GOSWAMI', contents page 'Bonamali Goswami', running heads 'B. Goswamy'."
+ },
+ {
+  "byline_verbatim": "s. NATARAJAN",
+  "name_as_in_contributor_note": "S. NATARAJAN",
+  "name_variants": [
+   "S. Natarajan"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   17
+  ],
+  "note_verbatim": "S. NATARAJAN works for the Council for Economic Education.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "works for the Council for Economic Education",
+  "is_editor_of_issue": false,
+  "notes": "Bio from the separate 'Our Reviewers' block on printed p.110, not the contributors page."
+ },
+ {
+  "byline_verbatim": "AAMIR ALI",
+  "name_as_in_contributor_note": "AAMIR ALI",
+  "name_variants": [
+   "Aamir Ali"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   18
+  ],
+  "note_verbatim": "AAMIR ALI works for the Institute of Labour Relations, Geneva.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "works for the Institute of Labour Relations, Geneva",
+  "is_editor_of_issue": false,
+  "notes": "Geneva is his employer's location, not evidence of origin; nationality_evidence null."
+ },
+ {
+  "byline_verbatim": "S. P. AIYAR",
+  "name_as_in_contributor_note": "S. P. AIYAR",
+  "name_variants": [
+   "S. P. Aiyar"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   19
+  ],
+  "note_verbatim": "S. P. AIYAR is the Edwin-Montagu lecturer in Political Science in the University of Bombay.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "is the Edwin-Montagu lecturer in Political Science in the University of Bombay",
+  "is_editor_of_issue": false,
+  "notes": "Signature at the end of his review is set as 'S. P. AIYAR' (the text layer's 'S. P. AIYATI' is an OCR artefact)."
+ },
+ {
+  "byline_verbatim": "A. G. NooRANI",
+  "name_as_in_contributor_note": "A. G. NOORANI",
+  "name_variants": [
+   "A. G. Noorani"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   20
+  ],
+  "note_verbatim": "A. G. NOORANI is a Bombay lawyer and journalist.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a Bombay lawyer and journalist",
+  "is_editor_of_issue": false,
+  "notes": null
+ },
+ {
+  "byline_verbatim": "A. B. SHAH",
+  "name_as_in_contributor_note": "A. B. SHAH",
+  "name_variants": [
+   "A. B. Shah",
+   "Professor A. B. Shah"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   21
+  ],
+  "note_verbatim": "A. B. SHAH is at present Secretary of the Indian Committee for Cultural Freedom.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "is at present Secretary of the Indian Committee for Cultural Freedom",
+  "is_editor_of_issue": false,
+  "notes": "Undisclosed double role: he reviews Barbara Ward here while being secretary of the body that sponsors and publishes Quest, and in the same issue S. P. Aiyar reviews 'A New Look at Communism', a book Shah edited with Quest's own Reviews Editor and which that review calls 'largely the product of one man - Professor A. B. Shah who is now Executive Secretary of the Indian Committee for Cultural Freedom' (p.99). The two printed descriptions of his office differ ('Secretary' vs 'Executive Secretary')."
+ },
+ {
+  "byline_verbatim": "IQBAL LUKMANI",
+  "name_as_in_contributor_note": "IQBAL LUKMANI",
+  "name_variants": [
+   "Iqbal Lukmani"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   22
+  ],
+  "note_verbatim": "IQBAL LUKMANI is a regular reviewer for Quest.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a regular reviewer for Quest",
+  "is_editor_of_issue": false,
+  "notes": null
+ },
+ {
+  "byline_verbatim": "A. H. MoRTIMER",
+  "name_as_in_contributor_note": "A. H. MORTIMER",
+  "name_variants": [
+   "A. H. Mortimer"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   23
+  ],
+  "note_verbatim": "A. H. MORTIMER works in the office of the U.K. High Commissioner.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "works in the office of the U.K. High Commissioner",
+  "is_editor_of_issue": false,
+  "notes": "Nationality left null: employment in the U.K. High Commission is an institution, not an origin - though his review repeatedly writes from 'the honest western reader's' point of view."
+ },
+ {
+  "byline_verbatim": "}ILL HUGH-JONES",
+  "name_as_in_contributor_note": "JILL HUGH-JONES",
+  "name_variants": [
+   "Jill Hugh-Jones"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   24
+  ],
+  "note_verbatim": "JILL HUGH-JONES reviews books for several papers.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "reviews books for several papers",
+  "is_editor_of_issue": false,
+  "notes": "Signature form on p.107 begins with a swash J that the text layer renders '}ILL'; the 'Our Reviewers' block prints JILL HUGH-JONES."
+ },
+ {
+  "byline_verbatim": "LINA MAYADAS",
+  "name_as_in_contributor_note": "LINA MAYADAS",
+  "name_variants": [
+   "Lina Mayadas"
+  ],
+  "roles": [
+   "reviewer"
+  ],
+  "toc_indexes": [
+   25
+  ],
+  "note_verbatim": "LINA MAYADAS is a free-lance writer.",
+  "note_printed_page": 110,
+  "nationality_evidence": null,
+  "vocation_evidence": "is a free-lance writer",
+  "is_editor_of_issue": false,
+  "notes": "The text layer's 'LINA MAlADAS' is an OCR artefact; the page prints MAYADAS (verified by rendering p.110)."
+ },
+ {
+  "byline_verbatim": "II. R. PASRICI!A",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "H. R. Pasricha",
+   "Mr. Pasricha"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   26
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": false,
+  "notes": "No printed biography - correspondents get none in this issue. byline_verbatim as the text layer renders the signature; the contents page prints 'H. R. Pasricha'. P. S. Ray's reply notes that Pasricha holds that 'a physician can only make a mediocre political being', which implies but does not state his profession, so vocation_evidence is null."
+ },
+ {
+  "byline_verbatim": "SATISH C. SABERWAL",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Satish C. Saberwal"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   28
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": false,
+  "notes": "No printed biography."
+ },
+ {
+  "byline_verbatim": "K. K. SrNR\\",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "K. K. Sinha",
+   "Mr. K. K. Sinha"
+  ],
+  "roles": [
+   "author"
+  ],
+  "toc_indexes": [
+   29
+  ],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": false,
+  "notes": "No printed biography. byline_verbatim is the text layer's rendering of the small-caps signature 'K. K. SINHA' on p.114; the contents page prints 'K. K. Sinha'."
+ },
+ {
+  "byline_verbatim": "BY LAEEQ FUTEHALLY",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Laeeq Futehally",
+   "Mrs. Laeeq Futehally"
+  ],
+  "roles": [
+   "reviewer",
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "Astt. Reviews Editor : MRS. LAEEQ FUTEHALLY (masthead, p.7)",
+  "is_editor_of_issue": true,
+  "notes": "Bylined but UNLISTED: she signs the three-book SHORTER REVIEWS column on printed pp.108-110 ('BY LAEEQ FUTEHALLY'), which the contents page does not mention at all. She has no printed biography, and is not in the 'Our Reviewers' block she compiled. toc_indexes is empty because her column is not a printed contents entry; it is carried in the summary as an in_toc:false item."
+ },
+ {
+  "byline_verbatim": "ABu SAYEED AYYUB",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Abu Sayeed Ayyub"
+  ],
+  "roles": [
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": true,
+  "notes": "Masthead and cover co-editor; no printed biography. Cover form: 'Editors: Abu Sayeed Ayyub & Amlan Datta'."
+ },
+ {
+  "byline_verbatim": "AMLAN DATrA",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Amlan Datta",
+   "AMLAN DATTA"
+  ],
+  "roles": [
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": true,
+  "notes": "Masthead and cover co-editor; no printed biography. byline_verbatim keeps the text layer's rendering of the small-caps 'AMLAN DATTA'. Not to be merged with any other Datta."
+ },
+ {
+  "byline_verbatim": "NmAn C. CHAunuuRr",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Nirad C. Chaudhuri"
+  ],
+  "roles": [
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": true,
+  "notes": "Advisory editor as printed in the masthead (verified by rendering: 'Advisory Editors : NIRAD C. CHAUDHURI and LAXMANSHASTRI JOSHI'); no printed biography and no contribution of his own in this issue."
+ },
+ {
+  "byline_verbatim": "LAXMANSHASTRI JOSHI",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Laxmanshastri Joshi"
+  ],
+  "roles": [
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": null,
+  "is_editor_of_issue": true,
+  "notes": "Advisory editor; no printed biography, no contribution of his own in this issue."
+ },
+ {
+  "byline_verbatim": "NISsiM EzEKIEL",
+  "name_as_in_contributor_note": null,
+  "name_variants": [
+   "Nissim Ezekiel"
+  ],
+  "roles": [
+   "editor"
+  ],
+  "toc_indexes": [],
+  "note_verbatim": null,
+  "note_printed_page": null,
+  "nationality_evidence": null,
+  "vocation_evidence": "Reviews Editor : NISSIM EZEKIEL (masthead, p.7)",
+  "is_editor_of_issue": true,
+  "notes": "Reviews Editor of this issue and, undisclosed on the page, co-editor of 'A New Look at Communism', the book his own desk sends out for review at toc_index 19 (book line, p.99: 'Edited by A. B. Shah and Nissim Ezekiel'). No printed biography."
+ }
+]
