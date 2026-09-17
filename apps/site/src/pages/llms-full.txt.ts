@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { isWithheld } from '~/lib/listable';
 
 // /llms-full.txt — every Tier-A entry's full markdown body, plus every
 // Tier-B entry's metadata + AI summary. Agents that want the whole corpus
@@ -20,7 +21,7 @@ export const GET: APIRoute = async ({ site }) => {
     getCollection('organisations', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('musings', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('opinions', (e) => !e.data.draft && e.data.language === 'en'),
-    getCollection('primary-works', (e) => !e.data.draft && e.data.language === 'en'),
+    getCollection('primary-works', (e) => !e.data.draft && e.data.language === 'en' && !isWithheld(e)),
     getCollection('theprint-mirror', (e) => !e.data.draft && e.data.language === 'en'),
   ]);
   // Interviews are now primary-works with work_type='interview' — partition

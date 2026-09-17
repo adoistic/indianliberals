@@ -21,6 +21,10 @@ import { COLLECTIONS } from '../lib/collections';
         </button>
       ))
     }
+    <button class="chip pick" type="button" data-collection="withheld">
+      Withheld for now
+      <span class="tabcount" data-tabcount="withheld" />
+    </button>
   </div>
   <p class="hint about" id="about"></p>
 
@@ -233,6 +237,9 @@ import { COLLECTIONS } from '../lib/collections';
     }
 
     const WORKS_URL = 'https://indianliberals.in/api/works.json';
+    // Works ticked "Withhold from readers for now". They are by design absent
+    // from the catalogue above, so this is the only way to find one again.
+    const WITHHELD_URL = 'https://indianliberals.in/api/withheld.json';
     const THINKERS_URL = 'https://indianliberals.in/api/thinkers.json';
     const SEARCH_URL = 'https://indianliberals.in/api/search-index.json';
 
@@ -248,6 +255,7 @@ import { COLLECTIONS } from '../lib/collections';
       series: 'series',
       gallery: 'photographs',
       testimonials: 'testimonials',
+      withheld: 'withheld works',
     };
 
     // Nothing is left without a source, but the set stays so a collection the
@@ -393,6 +401,36 @@ import { COLLECTIONS } from '../lib/collections';
       if (current === 'primary-works') render();
     }
 
+    interface RawWithheld {
+      id: string;
+      title: string;
+      work_type?: string;
+      year?: number | null;
+      language?: string;
+    }
+
+    async function loadWithheld() {
+      try {
+        const response = await fetch(WITHHELD_URL);
+        if (!response.ok) throw new Error(`the site said ${response.status}`);
+        const data = (await response.json()) as { works: RawWithheld[] };
+        buckets.set(
+          'withheld',
+          data.works.map((raw) => ({
+            id: raw.id,
+            title: raw.title || raw.id,
+            sortKey: raw.title || raw.id,
+            year: raw.year ?? null,
+            kind: raw.work_type,
+          })),
+        );
+      } catch {
+        failed.add('withheld');
+      }
+      updateTabCount('withheld');
+      if (current === 'withheld') render();
+    }
+
     async function loadThinkers() {
       try {
         const response = await fetch(THINKERS_URL);
@@ -464,7 +502,8 @@ import { COLLECTIONS } from '../lib/collections';
     }
 
     function cardHtml(entry: CardEntry): string {
-      const href = `/edit?collection=${encodeURIComponent(current)}&slug=${encodeURIComponent(entry.id)}`;
+      const editing = current === 'withheld' ? 'primary-works' : current;
+      const href = `/edit?collection=${encodeURIComponent(editing)}&slug=${encodeURIComponent(entry.id)}`;
       const cover = entry.cover
         ? `<div class="cover-wrap"><img src="${escape(entry.cover)}" alt="" loading="lazy" decoding="async" /></div>`
         : `<div class="cover-wrap placeholder" aria-hidden="true">${escape(firstLetter(entry.title))}</div>`;
@@ -511,7 +550,10 @@ import { COLLECTIONS } from '../lib/collections';
       moreWrap.hidden = true;
 
       const collection = collectionById(current);
-      about.textContent = collection?.description ?? '';
+      about.textContent =
+        current === 'withheld'
+          ? 'Works ticked "Withhold from readers for now". Each keeps its address as a notice, is left out of every list and feed, and still counts towards the totals. Open one and untick the box to release it.'
+          : (collection?.description ?? '');
 
       const elsewhere = ELSEWHERE[current];
       if (elsewhere) {
@@ -552,9 +594,12 @@ import { COLLECTIONS } from '../lib/collections';
 
       if (!entries.length) {
         count.textContent = '';
-        status.innerHTML = `<p class="notice">Nothing has been filed under ${escape(
-          collection?.label ?? current,
-        )} yet.</p>`;
+        status.innerHTML =
+          current === 'withheld'
+            ? '<p class="notice">No work is withheld at the moment. Everything in the archive is open to readers.</p>'
+            : `<p class="notice">Nothing has been filed under ${escape(
+                collection?.label ?? current,
+              )} yet.</p>`;
         grid.innerHTML = '';
         return;
       }
@@ -634,12 +679,13 @@ import { COLLECTIONS } from '../lib/collections';
       }
 
       const wanted = new URL(location.href).searchParams.get('collection');
-      const known = COLLECTIONS.some((c) => c.id === wanted);
+      const known = wanted === 'withheld' || COLLECTIONS.some((c) => c.id === wanted);
       selectCollection(wanted && known ? wanted : 'primary-works', false);
     });
 
     void loadWorks();
     void loadThinkers();
     void loadSearchIndex();
+    void loadWithheld();
   </script>
 </Shell>

@@ -13,6 +13,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { resolveAuthorEntries } from './resolve-author-entries';
 import { pathForEntry, type LangCode } from './i18n';
+import { isWithheld } from './listable';
 
 // ─── Shared helpers ────────────────────────────────────────────────────
 
@@ -67,7 +68,17 @@ export function jsonResponse(data: unknown): Response {
 
 // ─── Works catalogue ───────────────────────────────────────────────────
 
+/**
+ * The works an agent may be offered: English-canonical, not draft, and not
+ * withheld. A withheld work has no card, no record, no search entry and no
+ * cross-links; only the totals in buildMeta still count it.
+ */
 export async function getEnWorks() {
+  return getCollection('primary-works', (w) => notDraftEn(w) && !isWithheld(w));
+}
+
+/** Every work that counts towards the totals, withheld ones included. */
+export async function getCountedEnWorks() {
   return getCollection('primary-works', notDraftEn);
 }
 
@@ -433,8 +444,10 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
 // ─── Meta ──────────────────────────────────────────────────────────────
 
 export async function buildMeta(siteOrigin: string) {
+  // Totals count withheld works: they are still in the archive, only not
+  // readable for now, and the archive's size is quoted from these numbers.
   const [works, thinkers, orgs, musings, opinions, theprint] = await Promise.all([
-    getEnWorks(),
+    getCountedEnWorks(),
     getCollection('thinkers', notDraftEn),
     getCollection('organisations', notDraftEn),
     getCollection('musings', notDraftEn),

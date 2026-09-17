@@ -531,6 +531,12 @@ const primaryWorks = defineCollection({
     // docs/missing-pdfs-and-bad-summaries.md. Clear the flag once CCS supplies
     // the scan and the entry has been re-extracted from it.
     hide_from_index: z.boolean().default(false),
+    // Temporarily withheld from readers and agents, but still counted.
+    // The page stays at its address as a notice with no content; the work
+    // is left out of every list, search index, feed and sitemap; the record
+    // and its PDF are untouched. Flip to false (here or in the CMS) to
+    // restore it. See docs/withheld-works.md.
+    withheld: z.boolean().default(false),
   }),
 });
 

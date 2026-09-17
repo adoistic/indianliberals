@@ -1,7 +1,9 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, getEntry } from "astro:content";
 import { DEFAULT_LOCALE, LOCALES, type LangCode } from "~/lib/i18n";
+import { isWithheld } from "~/lib/listable";
 import PrimaryWorkDetail from "~/components/PrimaryWorkDetail.astro";
+import WithheldWork from "~/components/WithheldWork.astro";
 
 export async function getStaticPaths() {
   const works = await getCollection(
@@ -14,6 +16,14 @@ export async function getStaticPaths() {
 }
 
 const { w } = Astro.props;
+
+// A translation is withheld when it is flagged itself or when the English
+// original it was translated from is, so withholding a work once is enough.
+const originalId = (w.data as { translation_of?: string | { id: string } }).translation_of;
+const original = originalId
+  ? await getEntry("primary-works", typeof originalId === "string" ? originalId : originalId.id)
+  : null;
+const withheld = isWithheld(w) || (original ? isWithheld(original) : false);
 ---
 
-<PrimaryWorkDetail entry={w} />
+{withheld ? <WithheldWork /> : <PrimaryWorkDetail entry={w} />}

@@ -11,7 +11,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { getPeriodicalSeries } from "~/lib/periodicals";
-import { isListed } from "~/lib/listable";
+import { isCounted, isListed } from "~/lib/listable";
 import { isCanonThinker } from "~/lib/canon";
 import { fmt, keyed, siteCopy, t } from "~/lib/site-copy";
 import { getFeaturedPhotos } from "~/lib/gallery";
@@ -49,7 +49,11 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
 // from the content. Thinker count covers the liberal tradition itself
 // (canon core + extended), not the referenced/unclassified figures who
 // appear in the corpus only through citation.
-const allWorks = await getCollection("primary-works", isListed);
+// The totals count withheld works (temporarily kept from readers, still in
+// the archive: see lib/listable.ts); anything that links to a work below
+// draws on the listed subset.
+const allWorks = await getCollection("primary-works", isCounted);
+const listedWorks = allWorks.filter(isListed);
 const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
 const interviewCount = allWorks.filter((w) => w.data.work_type === "interview").length;
@@ -171,8 +175,8 @@ mosaicPool.forEach((src, i) => mosaicCols[i % 3].push(src));
 const doorwayPortraits = featuredThinkers.slice(0, 3).map((t) => t.data.portrait!.duotone!);
 const doorwayCovers = mosaicCovers.slice(0, 3);
 const doorwayInterview = (() => {
-  const preferred = allWorks.find((w) => w.id === "union-budget-1992-1993-by-nani-palkhivala");
-  const candidate = preferred ?? allWorks.find((w) => w.data.work_type === "interview" && w.data.youtube_url);
+  const preferred = listedWorks.find((w) => w.id === "union-budget-1992-1993-by-nani-palkhivala");
+  const candidate = preferred ?? listedWorks.find((w) => w.data.work_type === "interview" && w.data.youtube_url);
   const u = candidate?.data.youtube_url ?? "";
   const m = u.match(/[?&]v=([a-zA-Z0-9_-]{6,15})/) ?? u.match(/youtu\.be\/([a-zA-Z0-9_-]{6,15})/);
   return m ? `https://i.ytimg.com/vi/${m[1]}/hqdefault.jpg` : "";

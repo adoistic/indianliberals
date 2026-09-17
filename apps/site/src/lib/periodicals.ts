@@ -11,7 +11,7 @@
 // fields (CCS round-2 feedback #8: prefer an explicit field over slug regex).
 
 import { getCollection } from "astro:content";
-import { isListed } from "./listable";
+import { isCounted, isWithheld } from "./listable";
 import type { CollectionEntry } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
 import { siteCopy, keyed, t } from "~/lib/site-copy";
@@ -168,7 +168,12 @@ export function workHref(w: Issue): string {
 export interface SeriesGroup {
   id: string;
   meta: SeriesMeta;
+  /** The issues a reader may open. */
   items: Issue[];
+  /** Issues temporarily withheld (lib/listable.ts): counted, not listed. */
+  withheld: number;
+  /** items.length + withheld: what the run's card and the totals report. */
+  total: number;
   yearRange: string;
   cover: string | null;
 }
@@ -204,19 +209,35 @@ export async function getPeriodicalSeries(): Promise<SeriesGroup[]> {
   const copy = await siteCopy("shelves");
   const issues = await getCollection(
     "primary-works",
-    (w) => isListed(w) && w.data.work_type === "periodical_issue",
+    (w) => isCounted(w) && w.data.work_type === "periodical_issue",
   );
   const bySeries = new Map<string, Issue[]>();
+  const withheldBySeries = new Map<string, number>();
   for (const w of issues) {
     const s = seriesFor(w);
+    if (isWithheld(w)) {
+      withheldBySeries.set(s, (withheldBySeries.get(s) ?? 0) + 1);
+      continue;
+    }
     if (!bySeries.has(s)) bySeries.set(s, []);
     bySeries.get(s)!.push(w);
   }
   for (const [, list] of bySeries) {
     list.sort((a, b) => (issueYear(a) ?? 9999) - (issueYear(b) ?? 9999) || a.id.localeCompare(b.id));
   }
-  return SERIES_ORDER.filter((s) => bySeries.has(s)).map((s) => {
-    const items = bySeries.get(s)!;
-    return { id: s, meta: overlaidMeta(s, copy), items, yearRange: yearRangeOf(items), cover: coverOf(items) };
+  // A run whose every issue is withheld still exists; it simply lists nothing.
+  const present = new Set([...bySeries.keys(), ...withheldBySeries.keys()]);
+  return SERIES_ORDER.filter((s) => present.has(s)).map((s) => {
+    const items = bySeries.get(s) ?? [];
+    const withheld = withheldBySeries.get(s) ?? 0;
+    return {
+      id: s,
+      meta: overlaidMeta(s, copy),
+      items,
+      withheld,
+      total: items.length + withheld,
+      yearRange: yearRangeOf(items),
+      cover: coverOf(items),
+    };
   });
 }

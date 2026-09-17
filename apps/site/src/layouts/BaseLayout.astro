@@ -33,6 +33,11 @@ interface Props {
   /** Page-specific JSON-LD nodes (built with ~/lib/schema helpers). They are
    *  appended to the sitewide Organization + WebSite @graph. */
   schema?: Record<string, unknown>[];
+  /** False keeps the page out of the site search entirely: Pagefind indexes
+   *  only pages that carry data-pagefind-body once any page does, so leaving
+   *  the marker off is a whole-page exclusion. Used by the notice a withheld
+   *  work shows in place of itself. */
+  searchable?: boolean;
 }
 
 // Sitewide identity copy (site collection, `identity` entry). Every field
@@ -54,6 +59,7 @@ const {
   ogImage,
   ogType = "website",
   schema = [],
+  searchable = true,
 } = Astro.props;
 
 const resolvedCanonical =
@@ -136,7 +142,7 @@ const jsonLd = JSON.stringify({
     <!-- data-pagefind-body marks this region as the search-indexable content
          on every page. Per-page <article> elements add data-pagefind-filter
          and data-pagefind-meta to scope facets without re-defining the body. -->
-    <main id="main" class="min-h-[calc(100vh-12rem)]" data-pagefind-body>
+    <main id="main" class="min-h-[calc(100vh-12rem)]" data-pagefind-body={searchable ? "" : undefined}>
       <slot />
     </main>
     <Footer />

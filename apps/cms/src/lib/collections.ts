@@ -769,6 +769,14 @@ const primaryWorks: CollectionDef = {
     { name: 'transcript_status', label: 'State of the transcript', kind: 'select', required: false, options: ['none', 'partial', 'complete', 'unavailable'], group: 'files', hint: 'How much of the recording has been written out. Choose unavailable when no transcript can be made.' },
     { name: 'video_group', label: 'Which video shelf', kind: 'select', required: false, options: ['oral', 'talks', 'explainers', 'conversations'], group: 'files', hint: 'Where a recorded interview belongs on the interviews page: an oral history, a talk, an explainer or a conversation.' },
     { name: 'cover_image', label: 'Cover picture', kind: 'image', required: false, group: 'essential', image: { store: 'r2' }, hint: 'The picture that fronts this work everywhere it is listed. The first page of the PDF is captured for you when a document is uploaded; drop a different picture here to replace it.' },
+    {
+      name: 'withheld',
+      label: 'Withhold from readers for now',
+      kind: 'boolean',
+      required: false,
+      group: 'essential',
+      hint: 'Ticked: the page cannot be opened, the work is left out of every list, search and the feeds that AI tools read, but it still counts towards the archive\'s totals and nothing is deleted. Untick to bring it back at any moment. Withheld works are listed under "Withheld for now" on the browse screen.',
+    },
     { name: 'clean_markdown_url', label: 'Full text file', kind: 'url', required: false, group: 'files', hint: 'The address of a cleaned-up text version of the work, once one exists.' },
     ...rightsFields(),
 

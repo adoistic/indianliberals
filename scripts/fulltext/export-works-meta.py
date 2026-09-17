@@ -3,7 +3,7 @@
 
 One record per work that has a pdf_url, keyed by its R2 object key
 (the pdf_url path). Mirrors the /primary-works/ listing rules:
-  - draft / hide_from_index works are excluded (lib/listable.ts),
+  - draft / hide_from_index / withheld works are excluded (lib/listable.ts),
   - the facet language is publication.language ?? language ?? "en",
   - the page path is pathForEntry: /<lang>/primary-works/<slug>/ for non-en.
 
@@ -38,7 +38,7 @@ def main(out_path):
         fm = frontmatter(os.path.join(CONTENT, name))
         if not fm:
             continue
-        if fm.get("draft") or fm.get("hide_from_index"):
+        if fm.get("draft") or fm.get("hide_from_index") or fm.get("withheld"):
             skipped += 1
             continue
         pdf_url = fm.get("pdf_url")

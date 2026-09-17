@@ -9,8 +9,10 @@
 // the underlying data after content changes (the build script in package.json
 // can be extended to call this when we wire it into CI).
 
+import { getCollection } from 'astro:content';
 import crossLinksJson from '../../../../data/synthesis/cross-links.json';
 import { pathForEntry, type LangCode } from './i18n';
+import { isWithheld } from './listable';
 
 export interface CrossLink {
   collection: string;
@@ -20,6 +22,31 @@ export interface CrossLink {
 }
 
 const RAW: Record<string, CrossLink[]> = crossLinksJson as Record<string, CrossLink[]>;
+
+// Works withheld from readers must not surface as a "related" link either:
+// the link would land on the notice page, and the title alone would say what
+// is being withheld. Resolved once per build.
+const WITHHELD = new Set(
+  (await getCollection('primary-works', isWithheld)).map((w) => `primary-works:${w.id}`),
+);
+
+/** True when a cross-link points at a withheld work. */
+export function isWithheldLink(link: { collection: string; slug: string }): boolean {
+  return WITHHELD.has(`${link.collection}:${link.slug}`);
+}
+
+/**
+ * The precomputed map with withheld works removed as keys and as targets,
+ * for the /api/cross-links.json endpoint.
+ */
+export function crossLinksForAgents(): Record<string, CrossLink[]> {
+  const out: Record<string, CrossLink[]> = {};
+  for (const [key, links] of Object.entries(RAW)) {
+    if (WITHHELD.has(key)) continue;
+    out[key] = links.filter((link) => !isWithheldLink(link));
+  }
+  return out;
+}
 
 /** Same title, ignoring case, punctuation and spacing. */
 function titleKey(title: string): string {
@@ -56,6 +83,7 @@ export function getCrossLinks(collection: string, slug: string): CrossLink[] {
   const links = RAW[`${collection}:${slug}`] ?? [];
   const best = new Map<string, CrossLink>();
   for (const link of links) {
+    if (isWithheldLink(link)) continue;
     const key = titleKey(link.title);
     const held = best.get(key);
     if (!held || link.score > held.score) best.set(key, link);

@@ -1,0 +1,55 @@
+---
+// The page a withheld work shows in place of itself.
+//
+// A work marked `withheld` keeps its address (old links, the legacy redirect
+// map and search engines all know it) but shows nothing of the record: no
+// title, no metadata, no summary, no PDF link. The notice says only that the
+// document is temporarily unavailable and points back into the archive. It is
+// noindex, kept out of the sitemap, and not given a search body, so it can
+// neither be found nor searched; and it has no .md sibling or JSON record, so
+// an agent asking for it is told there is nothing there.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { siteCopy } from "~/lib/site-copy";
+
+const copy = await siteCopy("labels");
+const pairs = Array.isArray(copy.pairs) ? (copy.pairs as { key: string; value: string }[]) : [];
+const say = (key: string, fallback: string) =>
+  pairs.find((p) => p.key === key)?.value?.trim() || fallback;
+---
+
+<BaseLayout
+  noindex
+  searchable={false}
+  title="Temporarily unavailable · Indian Liberals"
+  description="This document is temporarily unavailable."
+>
+  <section class="mx-auto max-w-3xl px-6 py-20 md:py-28 text-center">
+    <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+      {say("withheld_eyebrow", "Primary works")}
+    </p>
+    <h1 class="text-(--color-fg) leading-tight mb-4">
+      {say("withheld_heading", "This document is temporarily unavailable.")}
+    </h1>
+    <p class="text-(--color-fg-muted) leading-relaxed max-w-prose mx-auto">
+      {say(
+        "withheld_note",
+        "It remains part of the archive and is counted in its holdings, but it cannot be read here for the time being. It will return at this address when it is released.",
+      )}
+    </p>
+    <div class="mt-8 flex flex-wrap justify-center gap-3 font-(family-name:--font-ui)">
+      <a
+        href="/primary-works/"
+        class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-white! rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
+      >
+        {say("withheld_cta", "Browse the primary works")} <span aria-hidden>→</span>
+      </a>
+      <a
+        href="/contact/"
+        class="inline-flex items-center gap-2 px-5 py-2.5 border border-(--color-border) rounded-full text-sm font-semibold no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors"
+      >
+        {say("withheld_contact", "Write to the editors")}
+      </a>
+    </div>
+  </section>
+</BaseLayout>

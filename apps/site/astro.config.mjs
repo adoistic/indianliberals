@@ -3,8 +3,33 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { remarkParagraphIds } from './src/plugins/remark-paragraph-ids.mjs';
 import { remarkDemoteH1 } from './src/plugins/remark-demote-h1.mjs';
+
+// Withheld works (`withheld: true` in a primary-works file) keep their pages
+// as noindex notices; the sitemap must not advertise them. The sitemap filter
+// only sees URLs, so the slugs are read straight off the frontmatter here.
+// See src/lib/listable.ts and docs/withheld-works.md.
+function withheldSlugs() {
+  // fileURLToPath, not .pathname: the repository lives under a path with a
+  // space in it, which .pathname leaves percent-encoded.
+  const dir = fileURLToPath(new URL('./src/content/primary-works/', import.meta.url));
+  const out = new Set();
+  for (const name of readdirSync(dir)) {
+    if (!name.endsWith('.md')) continue;
+    const head = readFileSync(join(dir, name), 'utf8').slice(0, 6000);
+    if (/^withheld:\s*true\s*$/m.test(head)) out.add(name.slice(0, -3));
+  }
+  return out;
+}
+const WITHHELD = withheldSlugs();
+const isWithheldUrl = (page) => {
+  const m = /\/primary-works\/([^/]+)\/$/.exec(page);
+  return Boolean(m && WITHHELD.has(m[1]));
+};
 
 // Cloudflare Pages adapter — uncomment when deploying.
 // import cloudflare from '@astrojs/cloudflare';
@@ -42,7 +67,8 @@ export default defineConfig({
       // and triggers "submitted URL marked noindex" warnings. The section
       // landing page stays.
       filter: (page) =>
-        !page.includes('/theprint-mirror/') || page.endsWith('/theprint-mirror/'),
+        (!page.includes('/theprint-mirror/') || page.endsWith('/theprint-mirror/')) &&
+        !isWithheldUrl(page),
       // Emit hreflang alternates per Google's multilingual guidelines.
       // Each URL in the sitemap gets <xhtml:link rel="alternate" hreflang="X">
       // for every available language version. We provide the map directly so

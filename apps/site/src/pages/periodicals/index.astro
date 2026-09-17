@@ -30,7 +30,7 @@ const seriesGroups = await getSeries();
 // a run under its magazine look like works had gone missing.
 const attachedGroups = await getPeriodicalAttachments();
 
-const issueCount = periodicalGroups.reduce((n, g) => n + g.items.length, 0);
+const issueCount = periodicalGroups.reduce((n, g) => n + g.total, 0);
 const seriesWorkCount = seriesGroups.reduce((n, g) => n + countAll(g), 0);
 const attachedWorkCount = attachedGroups.reduce((n, g) => n + countAll(g), 0);
 const runCount = periodicalGroups.length + seriesGroups.length + attachedGroups.length;
@@ -149,7 +149,7 @@ const totalWorks = issueCount + seriesWorkCount + attachedWorkCount;
             badge={g.meta.kind}
             name={g.meta.name}
             native={g.meta.native}
-            meta={[g.items.length === 1 ? "1 issue" : `${g.items.length} issues`, g.yearRange]
+            meta={[g.total === 1 ? "1 issue" : `${g.total} issues`, g.yearRange]
               .filter(Boolean)
               .join(" · ")}
             blurb={g.meta.blurb}

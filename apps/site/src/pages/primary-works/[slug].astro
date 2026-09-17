@@ -1,8 +1,13 @@
 ---
 import { getCollection } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
+import { isWithheld } from "~/lib/listable";
 import PrimaryWorkDetail from "~/components/PrimaryWorkDetail.astro";
+import WithheldWork from "~/components/WithheldWork.astro";
 
+// Every non-draft work keeps its address. A withheld one gets the notice
+// instead of its record, so old links land on an explanation rather than a
+// 404, and nothing of the work is shown. See lib/listable.ts.
 export async function getStaticPaths() {
   const works = await getCollection(
     "primary-works",
@@ -14,4 +19,4 @@ export async function getStaticPaths() {
 const { w } = Astro.props;
 ---
 
-<PrimaryWorkDetail entry={w} />
+{isWithheld(w) ? <WithheldWork /> : <PrimaryWorkDetail entry={w} />}

@@ -1,11 +1,11 @@
 import type { APIRoute } from 'astro';
-import crossLinksJson from '../../../../../data/synthesis/cross-links.json';
+import { crossLinksForAgents } from '~/lib/cross-links';
 import { jsonResponse } from '~/lib/agent-api';
 
 // The precomputed TF-IDF related-entries map (same data the on-page
-// "Related" sections render). Keys are "<collection>:<slug>". Backs the
-// MCP find_related tool.
+// "Related" sections render), with withheld works removed as keys and as
+// targets. Keys are "<collection>:<slug>". Backs the MCP find_related tool.
 
 export const GET: APIRoute = async () => {
-  return jsonResponse(crossLinksJson);
+  return jsonResponse(crossLinksForAgents());
 };

@@ -42,6 +42,7 @@ authors_resolution:
   proposed_unknowns: []
 needs_review: true
 draft: false
+withheld: true
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5

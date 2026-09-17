@@ -43,7 +43,7 @@ const allWorks = await getCollection(
 // used to be two separate destinations; both now open into the single
 // "Series & Periodicals" index at /periodicals/.
 const periodicalSeries = (await getPeriodicalSeries()).filter((g) => g.id !== "other");
-const periodicalIssueCount = periodicalSeries.reduce((n, g) => n + g.items.length, 0);
+const periodicalIssueCount = periodicalSeries.reduce((n, g) => n + g.total, 0);
 const nonPeriodicalRuns = await getSeries();
 const seriesWorkCount = nonPeriodicalRuns.reduce((n, g) => n + countAll(g), 0);
 
@@ -61,7 +61,7 @@ const runCards: RunCard[] = [
     name: g.meta.name,
     native: g.meta.native,
     cover: g.cover,
-    count: g.items.length,
+    count: g.total,
     unit: "issues",
   })),
 ].sort((a, b) => b.count - a.count);

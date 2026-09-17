@@ -15,7 +15,7 @@
 import { getCollection, getEntry } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
-import { isListed } from "./listable";
+import { isCounted, isWithheld } from "./listable";
 
 export type SeriesEntry = CollectionEntry<"series">;
 export type Item = CollectionEntry<"primary-works">;
@@ -69,7 +69,10 @@ export function workHref(w: Item): string {
 
 export interface SeriesGroup {
   entry: SeriesEntry;
+  /** The works a reader may open. */
   items: Item[];
+  /** Works temporarily withheld (lib/listable.ts): counted, not listed. */
+  withheld: number;
   yearRange: string;
   cover: string | null;
   /** Ordinals actually present, ascending — only for numbered runs. */
@@ -121,13 +124,16 @@ function gapsIn(ordinals: number[]): number[] {
 }
 
 async function buildGroup(entry: SeriesEntry, byseries: Map<string, Item[]>): Promise<SeriesGroup> {
-  const items = sortItems(byseries.get(entry.id) ?? [], entry.data.numbered);
+  const all = byseries.get(entry.id) ?? [];
+  const items = sortItems(all.filter((w) => !isWithheld(w)), entry.data.numbered);
+  const withheld = all.length - items.length;
   const ordinals = entry.data.numbered
     ? [...new Set(items.map(ordinalOf).filter((n): n is number => n !== null))].sort((a, b) => a - b)
     : [];
   return {
     entry,
     items,
+    withheld,
     yearRange: yearRangeOf(items),
     cover: coverOf(items),
     ordinals,
@@ -139,10 +145,16 @@ async function buildGroup(entry: SeriesEntry, byseries: Map<string, Item[]>): Pr
 /**
  * Works in a run including its sub-series — the A. D. Shroff lectures are part
  * of the Forum's booklet run, so the Forum's headline count has to include them
- * or the two numbers on screen contradict each other.
+ * or the two numbers on screen contradict each other. Withheld works count
+ * too: they are in the archive, only not readable for now.
  */
 export function countAll(g: SeriesGroup): number {
-  return g.items.length + g.children.reduce((n, c) => n + countAll(c), 0);
+  return g.items.length + g.withheld + g.children.reduce((n, c) => n + countAll(c), 0);
+}
+
+/** Withheld works in a run including its sub-series, for the run page's note. */
+export function withheldAll(g: SeriesGroup): number {
+  return g.withheld + g.children.reduce((n, c) => n + withheldAll(c), 0);
 }
 
 const bySize = (a: SeriesGroup, b: SeriesGroup) =>
@@ -156,7 +168,7 @@ const bySize = (a: SeriesGroup, b: SeriesGroup) =>
 async function buildAll(): Promise<Map<string, SeriesGroup>> {
   const [entries, works] = await Promise.all([
     getCollection("series", (s) => !s.data.draft),
-    getCollection("primary-works", isListed),
+    getCollection("primary-works", isCounted),
   ]);
 
   const byseries = new Map<string, Item[]>();

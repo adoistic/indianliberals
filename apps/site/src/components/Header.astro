@@ -18,10 +18,11 @@ import Search from "~/components/Search.astro";
 import { getCollection } from "astro:content";
 import { siteCopy, t } from "~/lib/site-copy";
 import { EVENT_KIND } from "~/lib/events";
-import { isListed } from "~/lib/listable";
+import { isCounted } from "~/lib/listable";
 import { isCanonThinker } from "~/lib/canon";
 
-const works = await getCollection("primary-works", isListed);
+// Totals, so withheld works still count (lib/listable.ts).
+const works = await getCollection("primary-works", isCounted);
 const thinkers = await getCollection(
   "thinkers",
   (t) => !t.data.draft && t.data.language === "en",
