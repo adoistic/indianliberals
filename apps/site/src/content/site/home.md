@@ -48,6 +48,12 @@ tier_eyebrow: The two-tier model
 tier_heading: Honest about what we know.
 tier_para_a: Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.
 tier_para_b: Primary-work PDFs surface with rich metadata and AI-generated summaries. Paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
+gallery_eyebrow: From the gallery
+gallery_heading: The archive, in pictures
+gallery_blurb: "Parcels, suitcases, conference tables and reading rooms: photographs from the making of the collection and the movements it records."
+gallery_cta: See the gallery →
+testimonials_eyebrow: Testimonials
+testimonials_heading: What readers say
+testimonials_blurb: Scholars, journalists and public figures on what the archive has meant to them.
+testimonials_cta: All testimonials →
 ---
-
-

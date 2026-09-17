@@ -2,7 +2,7 @@
  * Every kind of thing the archive holds, described in plain data.
  *
  * The site's real contract is `apps/site/src/content.config.ts`, which is Zod
- * and therefore only readable by a build. This file is the same 13 collections
+ * and therefore only readable by a build. This file is the same 15 collections
  * said again as data the CMS can render: what the fields are called, what an
  * editor should type into them, which ones matter first, and which ones the
  * extraction pipeline fills in on its own.
@@ -1257,6 +1257,54 @@ const graphEdges: CollectionDef = {
 // are offered all the same, because putting a lecture in front of readers is
 // a job an editor has, and the alternative is asking us to edit a file.
 
+const testimonials: CollectionDef = {
+  id: 'testimonials',
+  label: 'Testimonials',
+  singular: 'Testimonial',
+  description:
+    'What a reader, a scholar or a public figure has said about the archive, with their photograph. Shown on the Testimonials page; featured ones also appear on the homepage.',
+  path: 'apps/site/src/content/testimonials',
+  titleField: 'name',
+  slugFrom: 'name',
+  hasBody: true,
+  bodyLabel: 'What they said',
+  fields: [
+    idField('arun-shourie', 'this testimonial'),
+    { name: 'name', label: 'Name', kind: 'text', required: true, group: 'essential', placeholder: 'Arun Shourie', hint: 'The name as it should appear under the quotation, with any title they use.' },
+    { name: 'role', label: 'Who they are', kind: 'text', required: false, group: 'essential', placeholder: 'Journalist, author and politician', hint: 'One line: their position and institution. It appears under the name in smaller type.' },
+    { name: 'photo', label: 'Photograph', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/testimonials/photos' }, hint: 'Drop a photograph here or choose one from your computer. It is shown in a small circle, so a head-and-shoulders picture works best. Without one the site shows their initials.' },
+    { name: 'featured', label: 'Show on the homepage', kind: 'boolean', required: false, group: 'essential', hint: 'Tick this for the testimonials that should lead the page and appear on the homepage. The homepage shows the first four, in the order below.' },
+    { name: 'order', label: 'Position', kind: 'number', required: false, group: 'essential', placeholder: '1', hint: 'Lower numbers come first. Leave it empty and the testimonial goes after the numbered ones, in alphabetical order.' },
+    { name: 'pull_quote', label: 'The one-sentence version', kind: 'textarea', required: false, group: 'essential', hint: 'A single sentence from the quotation for the homepage, where there is no room for all of it. Leave it empty and the site uses the opening of the quotation.' },
+    ...workflowFields('Tick this if the wording or the photograph still needs to be confirmed with the person.'),
+  ],
+};
+
+const gallery: CollectionDef = {
+  id: 'gallery',
+  label: 'Gallery photographs',
+  singular: 'Photograph',
+  description:
+    'One photograph for the Gallery page, with its caption. Photographs that share an album name are shown together under that heading; featured ones also appear on the homepage.',
+  path: 'apps/site/src/content/gallery',
+  titleField: 'caption',
+  slugFrom: 'caption',
+  hasBody: false,
+  fields: [
+    idField('swatantra-papers-suitcase-2016', 'this photograph'),
+    { name: 'image', label: 'The photograph', kind: 'image', required: true, group: 'essential', image: { store: 'repo', dir: '/gallery/photos' }, hint: 'Drop the photograph here or choose one from your computer. It is shown whole, never cropped, on the Gallery page. Anything up to about 1600 pixels wide is plenty.' },
+    { name: 'caption', label: 'Caption', kind: 'textarea', required: true, group: 'essential', placeholder: 'The Swatantra Party papers, packed for the journey from Mumbai to Delhi, July 2016.', hint: 'One or two sentences saying what the picture shows, who is in it and where it was taken. It appears under the photograph and is read aloud to people who cannot see it.' },
+    { name: 'album', label: 'Album', kind: 'text', required: false, group: 'essential', placeholder: 'The Swatantra Party papers', hint: 'Photographs with exactly the same album name are shown together under that heading. Copy an existing name from the Gallery page to add to an album, or write a new one to start one. The order of the albums, and a short introduction to each, is set under The site\'s words, Gallery page.' },
+    { name: 'date', label: 'When it was taken', kind: 'text', required: false, group: 'essential', placeholder: '2016-07-09', hint: 'Year, month and day as 2016-07-09, or just the month as 2016-07, or just the year. Photographs inside an album are arranged by this date, oldest first.' },
+    { name: 'credit', label: 'Photograph by', kind: 'text', required: false, group: 'essential', placeholder: 'Shetkari Sanghatana', hint: 'The photographer or the archive the picture came from, if it is not the Centre\'s own. Leave empty for photographs taken by the team.' },
+    { name: 'featured', label: 'Show on the homepage', kind: 'boolean', required: false, group: 'essential', hint: 'Tick this for the photographs that should make up the homepage mosaic. The mosaic shows seven, in the order below; the first one is shown large.' },
+    { name: 'order', label: 'Position', kind: 'number', required: false, group: 'essential', placeholder: '1', hint: 'Lower numbers come first: on the homepage among the featured photographs, and inside an album among photographs taken on the same day.' },
+    { name: 'related_thinkers', label: 'People in the photograph', kind: 'reference-list', required: false, collection: 'thinkers', group: 'people', hint: 'Anyone in the picture who has a page on the site. The Gallery links to their pages.' },
+    { name: 'notes', label: 'Notes for editors', kind: 'textarea', required: false, group: 'advanced', hint: 'Anything the next editor should know: an uncertain identification, where the print came from. Never shown to readers.' },
+    ...workflowFields('Tick this if a name, a date or a place in the caption still needs to be confirmed.'),
+  ],
+};
+
 export const COLLECTIONS: CollectionDef[] = [
   primaryWorks,
   thinkers,
@@ -1266,6 +1314,8 @@ export const COLLECTIONS: CollectionDef[] = [
   contributors,
   series,
   announcements,
+  testimonials,
+  gallery,
 ];
 
 /**

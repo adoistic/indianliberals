@@ -827,6 +827,65 @@ const graphEdges = defineCollection({
 // Every field is optional on purpose: each entry uses only its own slice
 // of this superset, and a missing field means "keep the built-in wording".
 
+// ─── About the archive: testimonials and the gallery ──────────────────
+//
+// Both are editor-owned collections about the project rather than about the
+// tradition, so they carry none of the extraction or classification
+// machinery. One file per testimonial (the quotation is the body) and one file
+// per photograph, which is the shape the CMS image widget is built for.
+
+const testimonials = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/testimonials' }),
+  schema: z.object({
+    id: z.string(),
+    // As it should appear under the quotation, honorifics included.
+    name: z.string(),
+    // One line: title and institution.
+    role: z.string().optional(),
+    // Site path under /public, e.g. "/testimonials/photos/arun-shourie.jpg".
+    photo: z.string().optional(),
+    // One sentence for the homepage. Falls back to the opening of the body.
+    pull_quote: z.string().optional(),
+    // Featured testimonials appear on the homepage and lead the page.
+    featured: z.boolean().default(false),
+    // Lower first; entries without a number follow, by name.
+    order: z.number().int().optional(),
+    needs_review: z.boolean().default(false),
+    draft: z.boolean().default(false),
+  }),
+});
+
+const gallery = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/gallery' }),
+  schema: z.object({
+    id: z.string(),
+    // Shown under the photograph and in the lightbox; doubles as alt text.
+    caption: z.string(),
+    // Site path under /public, e.g. "/gallery/photos/<id>.jpg".
+    image: z.string(),
+    // Photographs sharing an album string are grouped under that heading on
+    // /gallery/. Album order and blurbs live in the section-gallery site copy.
+    album: z.string().optional(),
+    // A year, a month or a day. Orders photographs inside an album.
+    date: z
+      .string()
+      .regex(/^\d{4}(-\d{2}(-\d{2})?)?$/, 'date must be YYYY, YYYY-MM or YYYY-MM-DD')
+      .optional(),
+    // Photographer or source, when it is not the archive's own.
+    credit: z.string().optional(),
+    // Featured photographs make up the homepage mosaic, in `order`.
+    featured: z.boolean().default(false),
+    // Lower first, among photographs with the same date and on the homepage.
+    order: z.number().int().optional(),
+    // People in the photograph who have a page here.
+    related_thinkers: z.array(reference('thinkers')).default([]),
+    // Editor-only. Never rendered.
+    notes: z.string().optional(),
+    needs_review: z.boolean().default(false),
+    draft: z.boolean().default(false),
+  }),
+});
+
 const navItem = z.object({
   label: z.string(),
   href: z.string(),
@@ -856,6 +915,7 @@ const site = defineCollection({
     org_url: z.string().optional(),
     builder_name: z.string().optional(),
     builder_url: z.string().optional(),
+    builder_credit: z.string().optional(),
     copyright_start: z.number().int().optional(),
     contact_email: z.string().optional(),
     // Cloudflare Turnstile public site key for the contact form. Empty means
@@ -896,6 +956,14 @@ const site = defineCollection({
     tier_sub: z.string().optional(),
     tier_para_a: z.string().optional(),
     tier_para_b: z.string().optional(),
+    gallery_eyebrow: z.string().optional(),
+    gallery_heading: z.string().optional(),
+    gallery_blurb: z.string().optional(),
+    gallery_cta: z.string().optional(),
+    testimonials_eyebrow: z.string().optional(),
+    testimonials_heading: z.string().optional(),
+    testimonials_blurb: z.string().optional(),
+    testimonials_cta: z.string().optional(),
 
     // about
     heading: z.string().optional(),
@@ -913,20 +981,21 @@ const site = defineCollection({
     lede: z.string().optional(),
     empty_state: z.string().optional(),
     doorways: z.array(keyedBlurb).optional(),
+    // gallery page: album order and blurbs, keyed by the album string
+    albums: z.array(keyedBlurb).optional(),
+    // testimonials page: the heading over the non-featured entries
+    more_heading: z.string().optional(),
+    more_lede: z.string().optional(),
 
     // shelves
     periodical_shelves: z.array(keyedBlurb).optional(),
     lecture_shelves: z.array(keyedBlurb).optional(),
     interview_shelves: z.array(keyedBlurb).optional(),
 
-    // coming soon
+    // contact page (the `coming-soon` entry, kept under its old id so the
+    // CMS-edited wording survives; nothing is coming soon any more)
     contact_title: z.string().optional(),
     contact_blurb: z.string().optional(),
-    gallery_title: z.string().optional(),
-    gallery_blurb: z.string().optional(),
-    testimonials_title: z.string().optional(),
-    testimonials_blurb: z.string().optional(),
-    note: z.string().optional(),
 
     // interface labels
     pairs: z
@@ -966,6 +1035,8 @@ const announcements = defineCollection({
 export const collections = {
   site,
   announcements,
+  testimonials,
+  gallery,
   thinkers,
   contributors,
   organisations,

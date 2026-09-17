@@ -1,12 +1,207 @@
 ---
-import ComingSoon from "~/components/ComingSoon.astro";
+// Testimonials: what readers, scholars and public figures say about the
+// archive. Replaces the ComingSoon placeholder that stood here.
+//
+// Two registers on one page. The featured testimonials (the ones CCS put
+// first, from Arun Shourie, Tom Palmer, Christopher Lingle and the late Sunil
+// Bhandare) are set as large quotations with portraits; the rest, from the
+// researchers who use the collection, follow as a grid of cards under their
+// own heading. Everything is one collection, and `featured` is the only
+// switch, so an editor can promote or demote a voice from the CMS.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { render } from "astro:content";
+import { breadcrumbNode, collectionPageNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { getTestimonials } from "~/lib/testimonials";
 import { siteCopy, t } from "~/lib/site-copy";
 
-const copy = await siteCopy("coming-soon");
+const copy = await siteCopy("section-testimonials");
+const all = await getTestimonials();
+const featured = all.filter((x) => x.data.featured);
+const others = all.filter((x) => !x.data.featured);
+
+// Render every quotation's markdown once, up front.
+const rendered = new Map<string, Awaited<ReturnType<typeof render>>["Content"]>();
+for (const entry of all) rendered.set(entry.id, (await render(entry)).Content);
+
+const title = t(copy, "title", "Testimonials · Indian Liberals");
+const description = t(
+  copy,
+  "description",
+  "What readers, scholars and public figures say about the Indian Liberals archive and its use.",
+);
+
+// Monogram for a testimonial without a portrait: first and last initials.
+function monogram(name: string): string {
+  const words = name.replace(/^(late|dr|prof\.?|professor)\s+/i, "").split(/\s+/).filter(Boolean);
+  if (words.length === 0) return "?";
+  return ((words[0][0] ?? "") + (words.length > 1 ? words[words.length - 1][0] : "")).toUpperCase();
+}
 ---
 
-<ComingSoon
-  title={t(copy, "testimonials_title", "Testimonials")}
-  path="/testimonials/"
-  blurb={t(copy, "testimonials_blurb", "What readers, scholars, and the institutions that hold this material say about the archive and its use.")}
-/>
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/testimonials/", name: "Testimonials" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Testimonials", "/testimonials/"],
+    ]),
+  ]}
+  ogImage={ogSection("testimonials")}
+  title={title}
+  description={description}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        {t(copy, "eyebrow", "About")}
+      </p>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "What readers say")}</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        {t(copy, "lede", "The archive is used by scholars tracing an argument across decades, by students who cannot reach a library in Mumbai or Delhi, and by readers who simply did not know this tradition existed. Some of them have written to say what it has meant to them.")}
+      </p>
+      {all.length > 0 && (
+        <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+          {all.length} {all.length === 1 ? "testimonial" : "testimonials"}
+        </p>
+      )}
+    </div>
+  </section>
+
+  {all.length === 0 && (
+    <div class="mx-auto max-w-6xl px-6 py-16">
+      <p class="text-(--color-fg-muted) font-(family-name:--font-ui) text-center">
+        {t(copy, "empty_state", "Nothing here yet.")}
+      </p>
+    </div>
+  )}
+
+  {/* The featured voices: large quotations, two to a row on wide screens. The
+      opening quotation mark is set as a drop ornament in saffron, the way the
+      site's pull quotes are elsewhere, and the portrait sits with the
+      attribution rather than above the quote so the words lead. */}
+  {featured.length > 0 && (
+    <section class="mx-auto max-w-6xl px-6 py-14 md:py-20">
+      <ul class="grid gap-x-14 gap-y-16 lg:grid-cols-2">
+        {featured.map((x, i) => {
+          const Content = rendered.get(x.id)!;
+          return (
+            <li class="relative">
+              <figure class="h-full flex flex-col">
+                <span
+                  aria-hidden="true"
+                  class="block font-(family-name:--font-display) text-7xl leading-none text-(--color-saffron-500) -mb-5 select-none"
+                >
+                  “
+                </span>
+                <blockquote
+                  class:list={[
+                    "testimonial-quote font-(family-name:--font-display) text-(--color-fg) leading-relaxed",
+                    i === 0 ? "text-xl md:text-[1.45rem]" : "text-lg md:text-xl",
+                  ]}
+                >
+                  <Content />
+                </blockquote>
+                <figcaption class="mt-auto pt-7 flex items-center gap-4 font-(family-name:--font-ui)">
+                  {x.data.photo ? (
+                    <img
+                      src={x.data.photo}
+                      alt=""
+                      width="72"
+                      height="72"
+                      loading="lazy"
+                      decoding="async"
+                      class="h-16 w-16 md:h-[4.5rem] md:w-[4.5rem] rounded-full object-cover object-top shrink-0 ring-2 ring-(--color-saffron-500)/35 ring-offset-2 ring-offset-(--color-bg)"
+                    />
+                  ) : (
+                    <span
+                      aria-hidden="true"
+                      class="grid h-16 w-16 md:h-[4.5rem] md:w-[4.5rem] shrink-0 place-items-center rounded-full bg-gradient-to-br from-(--color-saffron-500)/20 to-(--color-forest-500)/20 font-(family-name:--font-display) text-lg font-semibold text-(--color-fg) ring-1 ring-inset ring-(--color-border)"
+                    >
+                      {monogram(x.data.name)}
+                    </span>
+                  )}
+                  <div class="min-w-0">
+                    <p class="font-semibold text-(--color-fg) leading-tight">{x.data.name}</p>
+                    {x.data.role && (
+                      <p class="text-sm text-(--color-fg-muted) mt-1 leading-snug">{x.data.role}</p>
+                    )}
+                  </div>
+                </figcaption>
+              </figure>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  )}
+
+  {/* The rest, as cards. Same anatomy at a smaller size, on the muted band
+      the site uses for its secondary sections. */}
+  {others.length > 0 && (
+    <section class="border-t border-(--color-border) bg-(--color-bg-muted)">
+      <div class="mx-auto max-w-6xl px-6 py-14 md:py-16">
+        <div class="mb-8 max-w-prose">
+          <h2 class="text-(--color-fg)">{t(copy, "more_heading", "More voices")}</h2>
+          {t(copy, "more_lede", "") && (
+            <p class="text-(--color-fg-muted) mt-2">{t(copy, "more_lede", "")}</p>
+          )}
+        </div>
+        <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {others.map((x) => {
+            const Content = rendered.get(x.id)!;
+            return (
+              <li>
+                <figure class="h-full flex flex-col bg-(--color-bg) border border-(--color-border) rounded-lg p-6 transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm">
+                  <span
+                    aria-hidden="true"
+                    class="block font-(family-name:--font-display) text-5xl leading-none text-(--color-saffron-500) -mb-3 select-none"
+                  >
+                    “
+                  </span>
+                  <blockquote class="testimonial-quote font-(family-name:--font-display) text-(--color-fg) leading-relaxed text-[1.0625rem]">
+                    <Content />
+                  </blockquote>
+                  <figcaption class="mt-auto pt-6 flex items-center gap-3 font-(family-name:--font-ui)">
+                    {x.data.photo ? (
+                      <img
+                        src={x.data.photo}
+                        alt=""
+                        width="48"
+                        height="48"
+                        loading="lazy"
+                        decoding="async"
+                        class="h-12 w-12 rounded-full object-cover object-top shrink-0 ring-1 ring-(--color-border)"
+                      />
+                    ) : (
+                      <span
+                        aria-hidden="true"
+                        class="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-gradient-to-br from-(--color-saffron-500)/20 to-(--color-forest-500)/20 font-(family-name:--font-display) text-sm font-semibold text-(--color-fg) ring-1 ring-inset ring-(--color-border)"
+                      >
+                        {monogram(x.data.name)}
+                      </span>
+                    )}
+                    <div class="min-w-0">
+                      <p class="font-semibold text-(--color-fg) text-[0.9375rem] leading-tight">{x.data.name}</p>
+                      {x.data.role && (
+                        <p class="text-xs text-(--color-fg-muted) mt-0.5 leading-snug">{x.data.role}</p>
+                      )}
+                    </div>
+                  </figcaption>
+                </figure>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <style is:global>
+    /* The quotations render from markdown; keep their paragraphs spaced like
+       prose and their links in the page's link colour. */
+    .testimonial-quote p + p { margin-top: 0.85em; }
+    .testimonial-quote a { color: var(--color-forest-700); text-decoration: underline; text-underline-offset: 3px; }
+  </style>
+</BaseLayout>

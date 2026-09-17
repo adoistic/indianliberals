@@ -94,6 +94,33 @@ back once. Closing therefore means closed, without meaning lost: somebody who
 waves a lecture away on Monday can still be reminded on Wednesday. Renaming a
 live notice shows it again to everyone, since the memory is keyed on the id.
 
+## Gallery photographs and testimonials
+
+Two more collections about the archive itself rather than about the tradition,
+added in September 2026. Both are reached from the home screen ("Add a
+photograph to the gallery", "Add a testimonial"), listed at `/list`, and go
+straight to the form: there is no document to upload and nothing for a model
+to read.
+
+A **photograph** is one file under `apps/site/src/content/gallery/` with the
+picture committed beside it under `apps/site/public/gallery/photos/`. Its
+`album` string decides which heading it appears under on the Gallery page;
+album order and blurbs are part of the Gallery page's own words ("The site's
+words", Gallery page). `featured` puts it in the homepage mosaic, `order`
+arranges the mosaic and breaks ties inside an album, and `related_thinkers`
+links the people in the picture to their pages.
+
+A **testimonial** is one file under `apps/site/src/content/testimonials/`; the
+quotation is the body, the portrait is committed under
+`apps/site/public/testimonials/photos/`. `featured` leads the page and puts the
+first four on the homepage; `pull_quote` is the one-sentence version the
+homepage uses.
+
+`/list?collection=<id>` is a plain list read straight from the repository, for
+the collections the live site publishes no catalogue of: gallery, testimonials,
+contributors and series. It is always current, which the catalogue-backed
+browse screen is not.
+
 ## Deploying
 
 ```bash

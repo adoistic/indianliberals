@@ -87,7 +87,8 @@ const identity = surface(
     long('footer_blurb', 'Footer description', 'The short paragraph at the bottom of every page.'),
     text('org_name', 'Maintained by', 'The organisation named in the footer and the copyright line.'),
     text('org_url', 'Their website', 'The address the organisation name links to.'),
-    text('builder_name', 'Site rebuilt by', 'The name in the "rebuilt by" credit.'),
+    text('builder_credit', 'Builder credit wording', 'The words before the builder\'s name in the footer credit. Currently "Ontology built by and site rebuilt by".'),
+    text('builder_name', 'Builder', 'The name at the end of that credit.'),
     text('builder_url', 'Their website', 'The address that credit links to.'),
     { name: 'copyright_start', label: 'Copyright starts from year', kind: 'number', required: false, group: 'essential', hint: 'The first year in the copyright line at the foot of every page.' },
     text('contact_email', 'Contact email', 'Shown on the contact page once filled in. Leave empty to show none.'),
@@ -193,6 +194,14 @@ const home = surface(
     text('tier_heading', 'Two-tier heading'),
     long('tier_para_a', 'Two-tier first paragraph'),
     long('tier_para_b', 'Two-tier second paragraph'),
+    text('gallery_eyebrow', 'Small line above the gallery mosaic'),
+    text('gallery_heading', 'Gallery heading'),
+    long('gallery_blurb', 'Gallery blurb'),
+    text('gallery_cta', 'Gallery link text'),
+    text('testimonials_eyebrow', 'Small line above the testimonials'),
+    text('testimonials_heading', 'Testimonials heading'),
+    long('testimonials_blurb', 'Testimonials blurb'),
+    text('testimonials_cta', 'Testimonials link text'),
   ],
 );
 
@@ -223,18 +232,13 @@ const about = surface(
   { label: 'The introduction', hint: 'The paragraphs at the top of the about page, in markdown.' },
 );
 
-const comingSoon = surface(
+const contact = surface(
   'coming-soon',
-  'Placeholder pages',
-  'The Contact, Gallery and Testimonials pages while they wait to be built.',
+  'Contact page',
+  'The contact page\'s title and introduction. (The file keeps its old name from when this page was a placeholder.)',
   [
     text('contact_title', 'Contact page title'),
     long('contact_blurb', 'Contact page blurb'),
-    text('gallery_title', 'Gallery page title'),
-    long('gallery_blurb', 'Gallery page blurb'),
-    text('testimonials_title', 'Testimonials page title'),
-    long('testimonials_blurb', 'Testimonials page blurb'),
-    long('note', 'The "coming soon" sentence', 'Shown on all three pages under the blurb.'),
   ],
 );
 
@@ -363,10 +367,38 @@ export const SURFACES: Surface[] = [
   sectionSurface('section-languages', 'Languages page', 'The introduction to the writing-in-other-languages page.'),
   sectionSurface('section-theprint', 'ThePrint mirror page', 'The introduction to the federated ThePrint column page.'),
   sectionSurface('section-events', 'Events page', 'The introduction to the events listing.'),
+  sectionSurface(
+    'section-gallery',
+    'Gallery page',
+    'The introduction to the gallery, and the order and blurb of each album.',
+    [
+      {
+        name: 'albums',
+        label: 'The albums',
+        kind: 'object-list',
+        required: false,
+        group: 'essential',
+        hint: 'One row per album, in the order they should appear on the page. The album name must match, letter for letter, the album written on the photographs; the blurb is the short introduction under its heading. An album with photographs but no row here still appears, after these.',
+        fields: [
+          { name: 'key', label: 'Album name', kind: 'text', required: true, group: 'essential' },
+          { name: 'blurb', label: 'Introduction', kind: 'textarea', required: false, group: 'essential' },
+        ],
+      },
+    ],
+  ),
+  sectionSurface(
+    'section-testimonials',
+    'Testimonials page',
+    'The introduction to the testimonials page, and the heading over the ones that are not featured.',
+    [
+      text('more_heading', 'Heading over the other testimonials', 'The testimonials not ticked as featured appear under this heading.'),
+      long('more_lede', 'The line under that heading'),
+    ],
+  ),
   sectionSurface('section-contributors', 'Contributors page', 'The introduction to the contributors listing.'),
   sectionSurface('section-search', 'Full-text search page', 'The introduction to the full-text search page.'),
   shelves,
-  comingSoon,
+  contact,
   labels,
 ];
 

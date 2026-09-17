@@ -246,20 +246,40 @@ import { COLLECTIONS } from '../lib/collections';
       organisations: 'organisations',
       contributors: 'contributors',
       series: 'series',
+      gallery: 'photographs',
+      testimonials: 'testimonials',
     };
 
-    // The public catalogue does not publish contributors or series records:
-    // they exist only in the archive repository. Say so plainly rather than
-    // pretending a search box works when it has nothing to search.
-    const NO_SOURCE = new Set(['contributors', 'series']);
+    // Nothing is left without a source, but the set stays so a collection the
+    // public catalogue does not publish can be parked here rather than shown
+    // as an empty search box.
+    const NO_SOURCE = new Set<string>();
 
-    // Pop-up notices are not catalogue records and are never searched for:
-    // there are three of them and what matters is which one is showing. That
-    // is a different screen, so this tab points at it rather than repeating it.
+    // Some kinds of entry are read straight out of the repository on a screen
+    // of their own: pop-up notices, because what matters is which one is
+    // showing; contributors, series, photographs and testimonials, because
+    // the public catalogue does not publish them and there are few enough to
+    // list outright. These tabs point there rather than repeating it.
     const ELSEWHERE: Record<string, { href: string; says: string }> = {
       announcements: {
         href: '/popups',
         says: 'Pop-up notices have a screen of their own, where you can see which one readers are meeting right now.',
+      },
+      contributors: {
+        href: '/list?collection=contributors',
+        says: 'Contributors are listed on a screen of their own, read straight from the archive.',
+      },
+      series: {
+        href: '/list?collection=series',
+        says: 'Series are listed on a screen of their own, read straight from the archive.',
+      },
+      gallery: {
+        href: '/list?collection=gallery',
+        says: 'The gallery photographs are listed on a screen of their own, with their pictures and albums.',
+      },
+      testimonials: {
+        href: '/list?collection=testimonials',
+        says: 'Testimonials are listed on a screen of their own, read straight from the archive.',
       },
     };
 

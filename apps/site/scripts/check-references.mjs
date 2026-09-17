@@ -47,6 +47,9 @@ const CONTENT = join(ROOT, 'src/content');
  * that names no thinker but does name an organisation is reported with the fix.
  */
 const RULES = {
+  gallery: [
+    { field: 'related_thinkers', kind: 'list', target: 'thinkers', severity: 'error' },
+  ],
   musings: [
     { field: 'author', kind: 'scalar', target: 'thinkers', severity: 'error' },
     { field: 'related_thinkers', kind: 'list', target: 'thinkers', severity: 'error' },

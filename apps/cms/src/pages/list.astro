@@ -1,0 +1,297 @@
+---
+import Shell from '../layouts/Shell.astro';
+import { COLLECTIONS } from '../lib/collections';
+
+/**
+ * A plain list of one collection, read straight from the repository.
+ *
+ * The browse screen reads the live site's catalogue, which is right for
+ * eight thousand works and wrong for the collections the site does not
+ * publish a catalogue of: the gallery photographs, the testimonials, the
+ * contributors and the series. There are dozens of those, not thousands, so
+ * this screen simply asks the repository for each one and draws a card:
+ * its picture where it has one, its title, and whether readers can see it.
+ *
+ * One file per entry means one request per entry, the same trade the
+ * pop-ups screen makes and for the same reason: a screen that is always
+ * current beats one that is fast and an hour behind.
+ */
+
+const LISTABLE = ['gallery', 'testimonials', 'contributors', 'series'];
+const defs = COLLECTIONS.filter((c) => LISTABLE.includes(c.id));
+---
+
+<Shell title="List">
+  <div class="head">
+    <p class="eyebrow">Find and edit</p>
+    <h1 id="title">Everything of one kind</h1>
+    <hr class="rule" />
+    <p class="lede" id="lede">Read straight from the archive, so it is always up to date.</p>
+    <div class="tabs" id="tabs">
+      {
+        defs.map((c) => (
+          <a class="chip pick" href={`/list?collection=${c.id}`} data-collection={c.id}>
+            {c.label}
+          </a>
+        ))
+      }
+    </div>
+    <div class="row" id="actions"></div>
+  </div>
+
+  <div id="stage"><p class="muted">Reading the archive.</p></div>
+  <div id="list" class="cards"></div>
+
+  <style is:global>
+    .head { max-width: 46rem; }
+    .head .row { margin-top: 1.1rem; }
+    .lede { font-size: 1.05rem; }
+    .tabs { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.25rem; }
+    .pick {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid var(--line2);
+      background: var(--card);
+      text-decoration: none;
+      font-family: var(--sans);
+      font-size: .92rem;
+      color: var(--brown2);
+      padding: .4rem .85rem;
+      border-radius: 999px;
+    }
+    .pick:hover { box-shadow: 2px 2px 0 var(--ink); }
+    .pick[aria-current='page'] { background: var(--ink); color: var(--paper); }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+    .list-card {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--line2);
+      background: var(--card);
+      overflow: hidden;
+      transition: box-shadow .15s;
+    }
+    .list-card:hover { box-shadow: 3px 3px 0 var(--ink); }
+    .list-card.held { opacity: .72; }
+    .list-card .pic {
+      aspect-ratio: 4 / 3;
+      background: var(--tile);
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+    }
+    .list-card .pic.round { aspect-ratio: auto; padding: 1.1rem 0 0; }
+    .list-card .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .list-card .pic.round img { width: 6rem; height: 6rem; border-radius: 999px; object-fit: cover; border: 1px solid var(--ink); }
+    .list-card .pic .letter { font-family: var(--serif); font-size: 2.2rem; color: var(--body); }
+    .list-card .body { padding: .85rem .95rem 1rem; display: flex; flex-direction: column; gap: .35rem; flex: 1; }
+    .list-card h2 { font-size: 1rem; margin: 0; line-height: 1.3; }
+    .list-card h2 a { text-decoration: none; }
+    .list-card h2 a:hover { text-decoration: underline; }
+    .list-card .sub { margin: 0; font-size: .82rem; color: var(--body); }
+    .list-card .flags { margin-top: auto; padding-top: .45rem; display: flex; gap: .35rem; flex-wrap: wrap; }
+    .flag {
+      display: inline-block;
+      font-size: 10px;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      font-weight: 700;
+      padding: .12rem .45rem;
+      background: var(--tile);
+      color: var(--body);
+    }
+    .flag.on { background: var(--ink); color: var(--paper); }
+    .group-head { grid-column: 1 / -1; margin: 1.25rem 0 0; font-size: 1.15rem; }
+    .group-head:first-child { margin-top: 0; }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { collectionById } from '../lib/collections';
+    import type { User } from 'firebase/auth';
+
+    const SITE = 'https://indianliberals.in';
+    const $ = (id: string) => document.getElementById(id);
+    const esc = (value: string) =>
+      value.replace(/[&<>"']/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+      );
+
+    /**
+     * The handful of keys a card needs, read off the frontmatter.
+     *
+     * Not a YAML parser. It reads top-level `key: value` lines and one level
+     * of nesting (`name:` then `  canonical: X`), which covers every field a
+     * card shows across the four collections listed here. Anything it misses
+     * is only missing from a card; the edit screen has the real reader.
+     */
+    function peek(content: string): Record<string, string> {
+      const match = /^---\n([\s\S]*?)\n---/.exec(content);
+      const out: Record<string, string> = {};
+      if (!match) return out;
+      let parent = '';
+      for (const line of match[1].split('\n')) {
+        const top = /^([a-z_]+):\s*(.*)$/.exec(line);
+        if (top) {
+          parent = top[2].trim() === '' ? top[1] : '';
+          out[top[1]] = top[2].trim().replace(/^["'](.*)["']$/, '$1');
+          continue;
+        }
+        const nested = /^  ([a-z_]+):\s*(.*)$/.exec(line);
+        if (nested && parent) {
+          out[`${parent}.${nested[1]}`] = nested[2].trim().replace(/^["'](.*)["']$/, '$1');
+        }
+      }
+      return out;
+    }
+
+    /** Where each collection keeps the picture and the words a card shows. */
+    const SHAPE: Record<string, { picture?: string; round?: boolean; title: string; sub?: string[]; group?: string }> = {
+      gallery: { picture: 'image', title: 'caption', sub: ['date', 'credit'], group: 'album' },
+      testimonials: { picture: 'photo', round: true, title: 'name', sub: ['role'] },
+      contributors: { picture: 'photo', round: true, title: 'name.canonical', sub: ['role', 'affiliation'] },
+      series: { title: 'name', sub: ['kind'] },
+    };
+
+    interface Row {
+      slug: string;
+      front: Record<string, string>;
+    }
+
+    function cardHtml(collection: string, row: Row): string {
+      const shape = SHAPE[collection];
+      const f = row.front;
+      const title = f[shape.title] || row.slug;
+      const picture = shape.picture ? f[shape.picture] : '';
+      const held = f.draft === 'true';
+      const pic = picture
+        ? `<div class="pic${shape.round ? ' round' : ''}"><img src="${esc(
+            /^https?:/.test(picture) ? picture : SITE + picture,
+          )}" alt="" loading="lazy" decoding="async" /></div>`
+        : `<div class="pic${shape.round ? ' round' : ''}"><span class="letter">${esc(title.trim()[0]?.toUpperCase() ?? '?')}</span></div>`;
+      const sub = (shape.sub ?? []).map((k) => f[k]).filter(Boolean).join(' · ');
+      const flags: string[] = [];
+      if (held) flags.push('<span class="flag">Draft, not public</span>');
+      if (f.featured === 'true') flags.push('<span class="flag on">On the homepage</span>');
+      if (f.needs_review === 'true') flags.push('<span class="flag">Needs a check</span>');
+      const href = `/edit?collection=${encodeURIComponent(collection)}&slug=${encodeURIComponent(row.slug)}`;
+      return `<article class="list-card${held ? ' held' : ''}">
+        ${pic}
+        <div class="body">
+          <h2><a href="${href}">${esc(title)}</a></h2>
+          ${sub ? `<p class="sub">${esc(sub)}</p>` : ''}
+          <div class="flags">${flags.join('')}</div>
+        </div>
+      </article>`;
+    }
+
+    async function load(user: User, collection: string): Promise<void> {
+      const def = collectionById(collection);
+      const shape = SHAPE[collection];
+      if (!def || !shape) {
+        $('stage')!.innerHTML = '<div class="notice">That is not a kind of entry this screen lists.</div>';
+        return;
+      }
+      $('title')!.textContent = def.label;
+      $('lede')!.textContent = def.description;
+      document.title = `${def.label} · Thothica CMS`;
+      for (const link of document.querySelectorAll<HTMLAnchorElement>('.pick')) {
+        if (link.dataset.collection === collection) link.setAttribute('aria-current', 'page');
+      }
+      // The two About-cluster collections have a job of their own on the add
+      // screen; the others go through the ordinary "Add something" flow.
+      const JOB: Record<string, string> = { gallery: 'photo', testimonials: 'testimonial' };
+      const job = JOB[collection];
+      $('actions')!.innerHTML = `<a class="btn btn-primary" href="${
+        job ? `/add?job=${job}` : '/add'
+      }">Add a ${def.singular.toLowerCase()}</a>`;
+
+      const token = await user.getIdToken();
+      const headers = { Authorization: `Bearer ${token}` };
+      const listed = await fetch(`/api/list?collection=${encodeURIComponent(collection)}`, { headers });
+      if (!listed.ok) throw new Error(`the archive said ${listed.status}`);
+      const { entries } = (await listed.json()) as { entries: { slug: string }[] };
+
+      // Several at a time, not one after another: forty photographs read
+      // one by one is a visible wait, and the repository does not mind.
+      const rows: Row[] = [];
+      const queue = [...(entries ?? [])];
+      async function worker() {
+        while (queue.length) {
+          const entry = queue.shift()!;
+          const got = await fetch(
+            `/api/entry?collection=${encodeURIComponent(collection)}&slug=${encodeURIComponent(entry.slug)}`,
+            { headers },
+          );
+          if (!got.ok) continue;
+          const { content } = (await got.json()) as { content?: string };
+          rows.push({ slug: entry.slug, front: peek(content ?? '') });
+        }
+      }
+      await Promise.all([worker(), worker(), worker(), worker()]);
+
+      // Numbered entries first, then the rest by title.
+      const titleOf = (r: Row) => r.front[shape.title] || r.slug;
+      rows.sort((a, b) => {
+        const oa = a.front.order ? Number(a.front.order) : Infinity;
+        const ob = b.front.order ? Number(b.front.order) : Infinity;
+        return oa - ob || titleOf(a).localeCompare(titleOf(b));
+      });
+
+      $('stage')?.setAttribute('hidden', '');
+      const list = $('list')!;
+      if (!rows.length) {
+        list.innerHTML = `<section class="card" style="grid-column:1/-1"><h2>Nothing here yet</h2><hr class="rule" /><p>Nothing has been filed under ${esc(
+          def.label.toLowerCase(),
+        )} yet.</p></section>`;
+        return;
+      }
+
+      if (shape.group) {
+        // Grouped, with a heading per group, in the order the groups first
+        // appear; entries without a group close the list.
+        const groups = new Map<string, Row[]>();
+        for (const row of rows) {
+          const g = row.front[shape.group] || '';
+          if (!groups.has(g)) groups.set(g, []);
+          groups.get(g)!.push(row);
+        }
+        const names = [...groups.keys()].filter(Boolean).sort((a, b) => a.localeCompare(b));
+        if (groups.has('')) names.push('');
+        list.innerHTML = names
+          .map(
+            (name) =>
+              `<h2 class="group-head">${esc(name || 'Not in any album')} <span class="muted">(${groups.get(name)!.length})</span></h2>` +
+              groups.get(name)!.map((row) => cardHtml(collection, row)).join(''),
+          )
+          .join('');
+      } else {
+        list.innerHTML = rows.map((row) => cardHtml(collection, row)).join('');
+      }
+    }
+
+    watchUser(async (user) => {
+      if (!user) return;
+      if (!(await roleFor(user))) {
+        location.href = '/no-access';
+        return;
+      }
+      const collection = new URLSearchParams(location.search).get('collection') ?? 'gallery';
+      try {
+        await load(user, collection);
+      } catch (error) {
+        const stage = $('stage');
+        if (stage) {
+          stage.innerHTML = `<div class="notice" style="border-color:var(--stop)">Could not read the archive: ${esc(
+            (error as Error).message,
+          )}. Reload to try again.</div>`;
+        }
+      }
+    });
+  </script>
+</Shell>

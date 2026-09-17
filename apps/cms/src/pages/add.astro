@@ -1153,15 +1153,25 @@ import { COLLECTIONS } from '../lib/collections';
       person: ['thinkers', 'organisations', 'contributors'],
       writing: ['musings', 'opinions'],
       popup: ['announcements'],
+      photo: ['gallery'],
+      testimonial: ['testimonials'],
+    };
+
+    // Jobs with no document to upload and nothing for a model to read. A
+    // pop-up notice is a poster, a sentence and a date; a photograph is a
+    // picture and a caption; a testimonial is a quotation and a name. The
+    // first three steps would all be questions with one answer, so these
+    // open on the form.
+    const DIRECT: Record<string, string> = {
+      popup: 'announcements',
+      photo: 'gallery',
+      testimonial: 'testimonials',
     };
 
     const job = new URLSearchParams(location.search).get('job') ?? '';
     const wanted = JOBS[job];
 
-    // A pop-up notice has no document to upload and nothing for a model to
-    // read: it is a poster, a sentence and a date. The first three steps
-    // would all be questions with one answer, so it opens on the form.
-    if (job === 'popup' && choose('announcements', false)) {
+    if (DIRECT[job] && choose(DIRECT[job], false)) {
       for (const step of ['step-1', 'step-2', 'step-3']) {
         document.getElementById(step)?.setAttribute('hidden', '');
       }

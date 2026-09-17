@@ -14,6 +14,9 @@ import { getPeriodicalSeries } from "~/lib/periodicals";
 import { isListed } from "~/lib/listable";
 import { isCanonThinker } from "~/lib/canon";
 import { fmt, keyed, siteCopy, t } from "~/lib/site-copy";
+import { getFeaturedPhotos } from "~/lib/gallery";
+import { getFeaturedTestimonials, pullQuote } from "~/lib/testimonials";
+import { imageSize } from "~/lib/image-size";
 
 // Homepage copy (site collection, `home` entry). Every string keeps its
 // original wording as the inline fallback; computed counts flow into the
@@ -174,6 +177,25 @@ const doorwayInterview = (() => {
   const m = u.match(/[?&]v=([a-zA-Z0-9_-]{6,15})/) ?? u.match(/youtu\.be\/([a-zA-Z0-9_-]{6,15})/);
   return m ? `https://i.ytimg.com/vi/${m[1]}/hqdefault.jpg` : "";
 })();
+
+// From the gallery: the featured photographs, laid as a mosaic of seven (one
+// large, four small, two wide). Fewer than seven simply fills fewer tiles.
+const galleryPhotos = await getFeaturedPhotos(7);
+const MOSAIC = [
+  "sm:col-span-2 sm:row-span-2",
+  "",
+  "",
+  "",
+  "",
+  "sm:col-span-2",
+  "sm:col-span-2",
+];
+
+// What readers say: the featured testimonials, one leading and the rest in a
+// column beside it. The words are the editor's pull quotes.
+const homeTestimonials = await getFeaturedTestimonials(4);
+const leadTestimonial = homeTestimonials[0];
+const sideTestimonials = homeTestimonials.slice(1);
 
 const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
   src: t.data.portrait!.duotone!,
@@ -501,6 +523,53 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
     </section>
   )}
 
+  <!-- ── From the gallery: the archive in pictures ─────────────────── -->
+  {galleryPhotos.length > 0 && (
+    <section class="border-b border-(--color-border)">
+      <div class="mx-auto max-w-6xl px-6 py-16">
+        <div class="flex items-end justify-between mb-8 flex-wrap gap-4" data-reveal>
+          <div>
+            <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+              {t(copy, "gallery_eyebrow", "From the gallery")}
+            </p>
+            <h2 class="text-(--color-fg)">{t(copy, "gallery_heading", "The archive, in pictures")}</h2>
+            <p class="text-(--color-fg-muted) mt-2 max-w-prose">
+              {t(copy, "gallery_blurb", "Parcels, suitcases, conference tables and reading rooms: photographs from the making of the collection and the movements it records.")}
+            </p>
+          </div>
+          <a href="/gallery/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
+            {t(copy, "gallery_cta", "See the gallery →")}
+          </a>
+        </div>
+        <ul class="mosaic grid grid-cols-2 sm:grid-cols-4 gap-3 md:gap-4" data-reveal style="--reveal-delay: 80ms">
+          {galleryPhotos.map((p, i) => {
+            const dim = imageSize(p.data.image);
+            return (
+              <li class:list={["mosaic-tile min-w-0", MOSAIC[i] ?? ""]}>
+                <a
+                  href="/gallery/"
+                  class="group block h-full w-full overflow-hidden rounded-md border border-(--color-border) bg-(--color-bg-muted) no-underline"
+                  aria-label={p.data.caption}
+                  title={p.data.caption}
+                >
+                  <img
+                    src={p.data.image}
+                    alt=""
+                    width={dim?.width ?? 1600}
+                    height={dim?.height ?? 1200}
+                    loading="lazy"
+                    decoding="async"
+                    class="h-full w-full object-cover group-hover:scale-[1.03] transition-transform duration-500"
+                  />
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    </section>
+  )}
+
   <!-- ── Latest from ThePrint federated column ─────────────────────── -->
   {latestTheprint.length > 0 && (
     <section class="border-b border-(--color-border)">
@@ -555,6 +624,89 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
             </li>
           ))}
         </ul>
+      </div>
+    </section>
+  )}
+
+  <!-- ── What readers say: the featured testimonials ───────────────── -->
+  {leadTestimonial && (
+    <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
+      <div class="mx-auto max-w-6xl px-6 py-16">
+        <div class="flex items-end justify-between mb-10 flex-wrap gap-4" data-reveal>
+          <div>
+            <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+              {t(copy, "testimonials_eyebrow", "Testimonials")}
+            </p>
+            <h2 class="text-(--color-fg)">{t(copy, "testimonials_heading", "What readers say")}</h2>
+            <p class="text-(--color-fg-muted) mt-2 max-w-prose">
+              {t(copy, "testimonials_blurb", "Scholars, journalists and public figures on what the archive has meant to them.")}
+            </p>
+          </div>
+          <a href="/testimonials/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
+            {t(copy, "testimonials_cta", "All testimonials →")}
+          </a>
+        </div>
+
+        <div class="grid gap-10 lg:grid-cols-[1.25fr_1fr] lg:gap-16 items-start">
+          {/* The lead voice: one large quotation with its portrait. */}
+          <figure class="relative" data-reveal style="--reveal-delay: 60ms">
+            <span aria-hidden="true" class="block font-(family-name:--font-display) text-8xl leading-none text-(--color-saffron-500) -mb-7 select-none">“</span>
+            <blockquote class="font-(family-name:--font-display) text-2xl md:text-[1.9rem] leading-snug text-(--color-fg) max-w-2xl">
+              {pullQuote(leadTestimonial)}
+            </blockquote>
+            <figcaption class="mt-7 flex items-center gap-4 font-(family-name:--font-ui)">
+              {leadTestimonial.data.photo && (
+                <img
+                  src={leadTestimonial.data.photo}
+                  alt=""
+                  width="64"
+                  height="64"
+                  loading="lazy"
+                  decoding="async"
+                  class="h-16 w-16 rounded-full object-cover object-top shrink-0 ring-2 ring-(--color-saffron-500)/35 ring-offset-2 ring-offset-(--color-bg-muted)"
+                />
+              )}
+              <div class="min-w-0">
+                <p class="font-semibold text-(--color-fg) leading-tight">{leadTestimonial.data.name}</p>
+                {leadTestimonial.data.role && (
+                  <p class="text-sm text-(--color-fg-muted) mt-1 leading-snug">{leadTestimonial.data.role}</p>
+                )}
+              </div>
+            </figcaption>
+          </figure>
+
+          {/* The others, stacked, each a shorter line and a name. */}
+          {sideTestimonials.length > 0 && (
+            <ul class="grid gap-5" data-reveal style="--reveal-delay: 140ms">
+              {sideTestimonials.map((x) => (
+                <li>
+                  <figure class="bg-(--color-bg) border border-(--color-border) rounded-lg p-5 flex gap-4 items-start transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm">
+                    {x.data.photo && (
+                      <img
+                        src={x.data.photo}
+                        alt=""
+                        width="48"
+                        height="48"
+                        loading="lazy"
+                        decoding="async"
+                        class="h-12 w-12 rounded-full object-cover object-top shrink-0 ring-1 ring-(--color-border) mt-0.5"
+                      />
+                    )}
+                    <div class="min-w-0">
+                      <blockquote class="font-(family-name:--font-display) text-(--color-fg) leading-snug text-[1.0625rem]">
+                        {pullQuote(x, 150)}
+                      </blockquote>
+                      <figcaption class="mt-2.5 font-(family-name:--font-ui) text-xs text-(--color-fg-muted)">
+                        <span class="font-semibold text-(--color-fg)">{x.data.name}</span>
+                        {x.data.role && <span> · {x.data.role}</span>}
+                      </figcaption>
+                    </div>
+                  </figure>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
       </div>
     </section>
   )}
@@ -675,6 +827,15 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
     .mosaic-col:nth-child(2) {
       margin-top: -3rem;
     }
+
+    /* Gallery mosaic: small tiles are square and set the row height; the
+       large tile (2x2) and the wide tiles (2x1) fill the area they span. */
+    .mosaic { grid-auto-flow: dense; }
+    .mosaic-tile { aspect-ratio: 1 / 1; }
+    @media (min-width: 640px) {
+      .mosaic-tile.sm\:col-span-2 { aspect-ratio: auto; }
+    }
+    .mosaic-tile > a { min-height: 100%; }
 
     /* Edge fade on the horizontal thinker rail. */
     .rail {

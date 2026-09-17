@@ -12,6 +12,7 @@ footer_blurb: >-
 org_name: Centre for Civil Society
 org_url: "https://ccs.in"
 builder_name: Thothica
+builder_credit: Ontology built by and site rebuilt by
 builder_url: "https://thothica.com"
 copyright_start: 2009
 contact_email: ""

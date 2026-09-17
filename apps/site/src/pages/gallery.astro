@@ -1,12 +1,372 @@
 ---
-import ComingSoon from "~/components/ComingSoon.astro";
+// Gallery: photographs from the making of the archive and from the archives
+// of the movements it records. Replaces the ComingSoon placeholder.
+//
+// One section per album. Inside an album the photographs sit in a
+// multi-column masonry, so a portrait of a title page and a wide shot of a
+// conference table each keep their own shape (CCS read forced crops as
+// pictures "not displaying correctly", round 3, and they were right). Every
+// photograph is a link to its own file; with JavaScript, that link opens a
+// lightbox instead, with the caption, the date, the credit, and the people in
+// the picture who have a page here.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getEntry } from "astro:content";
+import { breadcrumbNode, collectionPageNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { imageSize } from "~/lib/image-size";
+import { formatDate, getAlbums, type Photo } from "~/lib/gallery";
 import { siteCopy, t } from "~/lib/site-copy";
 
-const copy = await siteCopy("coming-soon");
+const copy = await siteCopy("section-gallery");
+const albums = await getAlbums();
+const total = albums.reduce((n, a) => n + a.photos.length, 0);
+
+const title = t(copy, "title", "Gallery · Indian Liberals");
+const description = t(
+  copy,
+  "description",
+  "Photographs from the making of the Indian Liberals archive: the parcels and papers that built it, the lectures and meetings around it, and the people who kept the material safe.",
+);
+
+// The people in each photograph, resolved once so the lightbox can link them.
+async function peopleOf(p: Photo): Promise<{ id: string; name: string }[]> {
+  const out: { id: string; name: string }[] = [];
+  for (const ref of p.data.related_thinkers) {
+    const entry = await getEntry(ref);
+    if (entry) out.push({ id: entry.id, name: entry.data.name.canonical });
+  }
+  return out;
+}
+const people = new Map<string, { id: string; name: string }[]>();
+for (const a of albums) for (const p of a.photos) people.set(p.id, await peopleOf(p));
+
+// A running index across every album, so previous/next in the lightbox walks
+// the whole page in reading order.
+let index = 0;
 ---
 
-<ComingSoon
-  title={t(copy, "gallery_title", "Gallery")}
-  path="/gallery/"
-  blurb={t(copy, "gallery_blurb", "Photographs from the archive and the events around it: the lectures, the people, and the material itself.")}
-/>
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/gallery/", name: "Gallery" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Gallery", "/gallery/"],
+    ]),
+  ]}
+  ogImage={ogSection("gallery")}
+  title={title}
+  description={description}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        {t(copy, "eyebrow", "About")}
+      </p>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Gallery")}</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        {t(copy, "lede", "An archive is also a story of parcels, suitcases and reading rooms. These photographs follow the material: the booklets that arrived by post, the Swatantra Party files that came to Delhi in a suitcase, the conferences and lectures held around the collection, and a few pictures from the archives of the movements themselves.")}
+      </p>
+      {total > 0 && (
+        <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+          {total} {total === 1 ? "photograph" : "photographs"} · {albums.length} {albums.length === 1 ? "album" : "albums"}
+        </p>
+      )}
+      {albums.length > 1 && (
+        <nav aria-label="Albums" class="mt-6 flex flex-wrap gap-2 font-(family-name:--font-ui)">
+          {albums.map((a, i) => (
+            <a
+              href={`#album-${i + 1}`}
+              class="inline-block px-3.5 py-1.5 text-sm rounded-full border border-(--color-border) no-underline text-(--color-fg) hover:border-(--color-saffron-500) hover:text-(--color-saffron-700) transition-colors"
+            >
+              {a.name}
+            </a>
+          ))}
+        </nav>
+      )}
+    </div>
+  </section>
+
+  {total === 0 ? (
+    <div class="mx-auto max-w-6xl px-6 py-16">
+      <p class="text-(--color-fg-muted) font-(family-name:--font-ui) text-center">
+        {t(copy, "empty_state", "No photographs yet.")}
+      </p>
+    </div>
+  ) : (
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-14" id="gallery">
+      {albums.map((a, i) => (
+        <section
+          id={`album-${i + 1}`}
+          class:list={["scroll-mt-24", i > 0 && "mt-16 pt-14 border-t border-(--color-border)"]}
+        >
+          <div class="md:grid md:grid-cols-[minmax(0,22rem)_1fr] md:gap-10 mb-8">
+            <div>
+              <h2 class="text-(--color-fg) text-2xl md:text-[1.75rem] leading-tight">{a.name}</h2>
+              <p class="text-(--color-fg-muted) text-sm mt-2 font-(family-name:--font-ui)">
+                {a.photos.length} {a.photos.length === 1 ? "photograph" : "photographs"}
+                {a.span && ` · ${a.span}`}
+              </p>
+            </div>
+            {a.blurb && (
+              <p class="text-(--color-fg-muted) leading-relaxed mt-3 md:mt-1 max-w-prose">{a.blurb}</p>
+            )}
+          </div>
+
+          <div class="gallery-masonry columns-1 sm:columns-2 lg:columns-3 gap-5">
+            {a.photos.map((p) => {
+              const dim = imageSize(p.data.image);
+              const who = people.get(p.id) ?? [];
+              const n = index++;
+              return (
+                <figure class="break-inside-avoid mb-5">
+                  <a
+                    href={p.data.image}
+                    class="gallery-item group block overflow-hidden rounded-md border border-(--color-border) bg-(--color-bg-muted) no-underline transition-shadow hover:shadow-md focus-visible:shadow-md"
+                    data-index={n}
+                    data-caption={p.data.caption}
+                    data-date={formatDate(p.data.date)}
+                    data-credit={p.data.credit ?? ""}
+                    data-album={a.name}
+                    data-people={JSON.stringify(who)}
+                  >
+                    <img
+                      src={p.data.image}
+                      alt={p.data.caption}
+                      width={dim?.width ?? 1600}
+                      height={dim?.height ?? 1200}
+                      loading={n < 3 ? "eager" : "lazy"}
+                      decoding="async"
+                      class="w-full h-auto block group-hover:scale-[1.015] transition-transform duration-500"
+                    />
+                  </a>
+                  <figcaption class="mt-2.5 font-(family-name:--font-ui) text-[0.8125rem] leading-snug text-(--color-fg-muted)">
+                    {p.data.caption}
+                    {p.data.date && (
+                      <span class="block mt-0.5 text-xs text-(--color-fg-muted)/80">{formatDate(p.data.date)}</span>
+                    )}
+                  </figcaption>
+                </figure>
+              );
+            })}
+          </div>
+        </section>
+      ))}
+    </div>
+  )}
+
+  {/* The lightbox. A native dialog: focus is trapped, Escape closes, and the
+      backdrop is the browser's. Everything in it is filled from the data
+      attributes on the link that was clicked. */}
+  <dialog id="lightbox" class="lightbox" aria-label="Photograph">
+    <div class="lightbox-frame">
+      <button type="button" class="lightbox-btn lightbox-close" data-close aria-label="Close">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <button type="button" class="lightbox-btn lightbox-prev" data-prev aria-label="Previous photograph">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+      </button>
+      <button type="button" class="lightbox-btn lightbox-next" data-next aria-label="Next photograph">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
+      </button>
+      <figure class="lightbox-figure">
+        <img class="lightbox-img" src="" alt="" />
+        <figcaption class="lightbox-caption font-(family-name:--font-ui)">
+          <p class="lightbox-album"></p>
+          <p class="lightbox-text"></p>
+          <p class="lightbox-meta"></p>
+          <p class="lightbox-people"></p>
+          <p class="lightbox-count"></p>
+        </figcaption>
+      </figure>
+    </div>
+  </dialog>
+
+  <style>
+    /* Cursor and hover only mean something once the lightbox is wired. */
+    :global(.js-lightbox) .gallery-item { cursor: zoom-in; }
+
+    .lightbox {
+      border: 0;
+      padding: 0;
+      background: transparent;
+      max-width: 100vw;
+      max-height: 100vh;
+      width: 100vw;
+      height: 100vh;
+      color: white;
+    }
+    .lightbox::backdrop { background: rgb(8 12 9 / 0.92); }
+    .lightbox-frame {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: grid;
+      place-items: center;
+      padding: 3.5rem 1rem 1rem;
+    }
+    .lightbox-figure {
+      max-width: min(1200px, 100%);
+      max-height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.9rem;
+      margin: 0;
+    }
+    .lightbox-img {
+      max-width: 100%;
+      max-height: calc(100vh - 12rem);
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 20px 60px rgb(0 0 0 / 0.5);
+      background: rgb(255 255 255 / 0.04);
+    }
+    .lightbox-caption {
+      max-width: 48rem;
+      text-align: center;
+      font-size: 0.9375rem;
+      line-height: 1.45;
+    }
+    .lightbox-caption p { margin: 0; }
+    .lightbox-album {
+      font-size: 0.6875rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--color-gold-300);
+      font-weight: 600;
+      margin-bottom: 0.35rem !important;
+    }
+    .lightbox-text { color: white; }
+    .lightbox-meta, .lightbox-people, .lightbox-count {
+      color: rgb(255 255 255 / 0.62);
+      font-size: 0.8125rem;
+      margin-top: 0.3rem !important;
+    }
+    .lightbox-people a { color: var(--color-gold-300); text-decoration: underline; text-underline-offset: 3px; }
+    .lightbox-btn {
+      position: absolute;
+      display: grid;
+      place-items: center;
+      width: 2.75rem;
+      height: 2.75rem;
+      border-radius: 999px;
+      border: 1px solid rgb(255 255 255 / 0.18);
+      background: rgb(255 255 255 / 0.08);
+      color: white;
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+    .lightbox-btn:hover { background: rgb(255 255 255 / 0.2); }
+    .lightbox-btn:focus-visible { outline: 2px solid var(--color-saffron-500); outline-offset: 2px; }
+    .lightbox-close { top: 0.9rem; right: 0.9rem; }
+    .lightbox-prev { left: 0.9rem; top: 50%; transform: translateY(-50%); }
+    .lightbox-next { right: 0.9rem; top: 50%; transform: translateY(-50%); }
+    .lightbox-btn[hidden] { display: none; }
+    @media (max-width: 640px) {
+      .lightbox-prev, .lightbox-next { top: auto; bottom: 0.9rem; transform: none; }
+      .lightbox-prev { left: 0.9rem; }
+      .lightbox-next { right: 0.9rem; }
+      .lightbox-frame { padding-bottom: 4rem; }
+      .lightbox-img { max-height: calc(100vh - 16rem); }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .lightbox[open] .lightbox-figure { animation: lightbox-in 0.18s ease both; }
+      @keyframes lightbox-in {
+        from { opacity: 0; transform: scale(0.985); }
+        to { opacity: 1; transform: none; }
+      }
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      var dialog = document.getElementById("lightbox");
+      if (!dialog || typeof dialog.showModal !== "function") return;
+      var items = Array.prototype.slice.call(document.querySelectorAll(".gallery-item"));
+      if (!items.length) return;
+      document.documentElement.classList.add("js-lightbox");
+
+      var img = dialog.querySelector(".lightbox-img");
+      var album = dialog.querySelector(".lightbox-album");
+      var text = dialog.querySelector(".lightbox-text");
+      var meta = dialog.querySelector(".lightbox-meta");
+      var people = dialog.querySelector(".lightbox-people");
+      var count = dialog.querySelector(".lightbox-count");
+      var prev = dialog.querySelector("[data-prev]");
+      var next = dialog.querySelector("[data-next]");
+      var current = 0;
+      var opener = null;
+
+      function esc(s) {
+        return String(s).replace(/[&<>"']/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+        });
+      }
+
+      function show(i) {
+        current = (i + items.length) % items.length;
+        var a = items[current];
+        img.src = a.getAttribute("href");
+        img.alt = a.dataset.caption || "";
+        album.textContent = a.dataset.album || "";
+        text.textContent = a.dataset.caption || "";
+        var bits = [];
+        if (a.dataset.date) bits.push(a.dataset.date);
+        if (a.dataset.credit) bits.push("Photograph: " + a.dataset.credit);
+        meta.textContent = bits.join(" · ");
+        meta.hidden = !bits.length;
+        var who = [];
+        try { who = JSON.parse(a.dataset.people || "[]"); } catch (e) { who = []; }
+        people.innerHTML = who.length
+          ? "In this photograph: " + who.map(function (p) {
+              return '<a href="/thinkers/' + esc(p.id) + '/">' + esc(p.name) + "</a>";
+            }).join(", ")
+          : "";
+        people.hidden = !who.length;
+        count.textContent = (current + 1) + " of " + items.length;
+        prev.hidden = next.hidden = items.length < 2;
+        // Warm the neighbours so the arrows feel instant.
+        [current + 1, current - 1].forEach(function (j) {
+          var n = items[(j + items.length) % items.length];
+          if (n) { var pre = new Image(); pre.src = n.getAttribute("href"); }
+        });
+      }
+
+      function open(i, from) {
+        opener = from || null;
+        show(i);
+        if (!dialog.open) dialog.showModal();
+      }
+
+      items.forEach(function (a, i) {
+        a.addEventListener("click", function (e) {
+          if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+          e.preventDefault();
+          open(i, a);
+        });
+      });
+      prev.addEventListener("click", function () { show(current - 1); });
+      next.addEventListener("click", function () { show(current + 1); });
+      dialog.querySelector("[data-close]").addEventListener("click", function () { dialog.close(); });
+      dialog.addEventListener("click", function (e) {
+        // The backdrop and the frame's empty space close; the picture and
+        // the caption do not.
+        if (e.target === dialog || e.target.classList.contains("lightbox-frame")) dialog.close();
+      });
+      dialog.addEventListener("keydown", function (e) {
+        if (e.key === "ArrowRight") { e.preventDefault(); show(current + 1); }
+        if (e.key === "ArrowLeft") { e.preventDefault(); show(current - 1); }
+        // The browser closes a modal dialog on Escape by itself; this is
+        // belt and braces for the embedded browsers that do not.
+        if (e.key === "Escape") { e.preventDefault(); dialog.close(); }
+      });
+      dialog.addEventListener("close", function () {
+        img.src = "";
+        if (opener) opener.focus();
+      });
+    })();
+  </script>
+</BaseLayout>

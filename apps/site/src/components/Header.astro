@@ -29,6 +29,8 @@ const thinkers = await getCollection(
 const musings = await getCollection("musings", (m) => !m.data.draft);
 const opinions = await getCollection("opinions", (o) => !o.data.draft);
 const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
+const photos = await getCollection("gallery", (p) => !p.data.draft);
+const testimonials = await getCollection("testimonials", (x) => !x.data.draft);
 
 // Must match what /thinkers/ actually renders, hence the shared predicate:
 // counting bare `featured` here said 28 while the page showed 23.
@@ -47,8 +49,8 @@ const nonEnglishWorkCount =
     .length + theprint.filter((p) => p.data.language && p.data.language !== "en").length;
 
 // `count` is optional: the About cluster holds pages that are not collections
-// (About Us) or are not built yet (Gallery, Testimonials, Contact), and a
-// hard-coded "0" beside them would read as an empty section rather than a page.
+// (About Us, Contact), and a hard-coded "0" beside them would read as an empty
+// section rather than a page.
 type NavItem = { label: string; href: string; desc: string; count?: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
 
@@ -156,6 +158,7 @@ const builtinGroups: NavGroup[] = [
         label: "Gallery",
         href: "/gallery/",
         desc: "Photographs from the archive and its events",
+        count: photos.length,
       },
       {
         label: "Events",
@@ -167,6 +170,7 @@ const builtinGroups: NavGroup[] = [
         label: "Testimonials",
         href: "/testimonials/",
         desc: "What readers and scholars say about the archive",
+        count: testimonials.length,
       },
       {
         label: "Contact Us",

@@ -2,6 +2,8 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { ogSection } from "~/lib/og";
 import { siteBody, siteCopy, t } from "~/lib/site-copy";
+import { getFeaturedPhotos } from "~/lib/gallery";
+import { getFeaturedTestimonials } from "~/lib/testimonials";
 
 // About-page copy (site collection, `about` entry). The intro paragraphs are
 // the entry's markdown BODY; everything falls back to the original wording.
@@ -96,6 +98,12 @@ const contributors: { name: string; org: string }[] = [
 const seedAck = copy.acknowledgements as { name: string; org?: string }[] | undefined;
 const acknowledgements = seedAck && seedAck.length ? seedAck : contributors;
 
+// The two other pages in the About cluster, previewed with their own
+// material: three portraits from the testimonials, three photographs from
+// the gallery. Either card is left out while its section is empty.
+const aboutTestimonials = (await getFeaturedTestimonials(3)).filter((x) => x.data.photo);
+const aboutPhotos = await getFeaturedPhotos(3);
+
 // Monogram: first letter of the first and last words of the name.
 function monogram(name: string): string {
   const words = name.split(/\s+/).filter(Boolean);
@@ -156,6 +164,68 @@ function monogram(name: string): string {
         ))}
       </ul>
     </section>
+
+    {/* Elsewhere in About: testimonials and the gallery, each previewed with
+        a little of its own material. */}
+    {(aboutTestimonials.length > 0 || aboutPhotos.length > 0) && (
+      <section class="mt-14 font-(family-name:--font-ui) grid gap-4 sm:grid-cols-2">
+        {aboutTestimonials.length > 0 && (
+          <a
+            href="/testimonials/"
+            class="group flex items-center gap-4 rounded-xl border border-(--color-border) bg-(--color-bg) p-4 no-underline! transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm"
+          >
+            <span class="flex shrink-0 -space-x-3" aria-hidden="true">
+              {aboutTestimonials.map((x, i) => (
+                <img
+                  src={x.data.photo}
+                  alt=""
+                  width="44"
+                  height="44"
+                  loading="lazy"
+                  class="h-11 w-11 rounded-full object-cover object-top border-2 border-(--color-bg) shadow-sm"
+                  style={`z-index: ${10 - i}`}
+                />
+              ))}
+            </span>
+            <span class="min-w-0">
+              <span class="block font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
+                What readers say <span aria-hidden>→</span>
+              </span>
+              <span class="block text-xs text-(--color-fg-muted) mt-0.5 leading-snug">
+                Scholars and public figures on the archive.
+              </span>
+            </span>
+          </a>
+        )}
+        {aboutPhotos.length > 0 && (
+          <a
+            href="/gallery/"
+            class="group flex items-center gap-4 rounded-xl border border-(--color-border) bg-(--color-bg) p-4 no-underline! transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm"
+          >
+            <span class="flex shrink-0 gap-1" aria-hidden="true">
+              {aboutPhotos.map((p) => (
+                <img
+                  src={p.data.image}
+                  alt=""
+                  width="44"
+                  height="44"
+                  loading="lazy"
+                  class="h-11 w-11 rounded-md object-cover border border-(--color-border)"
+                />
+              ))}
+            </span>
+            <span class="min-w-0">
+              <span class="block font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
+                Gallery <span aria-hidden>→</span>
+              </span>
+              <span class="block text-xs text-(--color-fg-muted) mt-0.5 leading-snug">
+                Photographs from the making of the archive.
+              </span>
+            </span>
+          </a>
+        )}
+      </section>
+    )}
 
     {/* What you'll find here - the eight content kinds, grouped by tier.
         Rendered outside .prose-container so the cards keep chrome-link

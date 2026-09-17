@@ -33,6 +33,14 @@
 /legacy-media/*
   Cache-Control: public, max-age=2592000
 
+# Gallery photographs and testimonial portraits. Scoped to the photo
+# directories for the same reason as the thinker rules above: /gallery/* would
+# also match the /gallery/ page itself.
+/gallery/photos/*
+  Cache-Control: public, max-age=2592000
+/testimonials/photos/*
+  Cache-Control: public, max-age=2592000
+
 # AGENTS.md and llms.txt — refreshed on rebuild, no aggressive caching
 /AGENTS.md
   Cache-Control: public, max-age=3600

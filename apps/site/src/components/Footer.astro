@@ -18,6 +18,10 @@ const orgUrl = t(identity, "org_url", "https://ccs.in");
 const orgUrlLabel = orgUrl.replace(/^https?:\/\//, "").replace(/\/$/, "");
 const builderName = t(identity, "builder_name", "Thothica");
 const builderUrl = t(identity, "builder_url", "https://thothica.com");
+// "Site rebuilt by" undersold it: the ontology beneath the archive (the
+// collections, the authority files, the agent layer) is Thothica's work as
+// much as the site is (Adnan, 2026-09-17).
+const builderCredit = t(identity, "builder_credit", "Ontology built by and site rebuilt by");
 const copyrightStart = n(identity, "copyright_start", 2009);
 
 const builtinFooterLinks = [
@@ -46,8 +50,8 @@ const footerLinks =
       <h2 class="font-(family-name:--font-ui) text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Maintained by</h2>
       <p class="text-(--color-fg) font-medium mb-1">{orgName}</p>
       <a href={orgUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{orgUrlLabel}</a>
-      <p class="text-(--color-fg-muted) text-xs leading-relaxed mt-3">
-        Site rebuilt by <a href={builderUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{builderName}</a>.
+      <p class="text-(--color-fg-muted) text-[0.8125rem] leading-relaxed mt-3">
+        {builderCredit} <a href={builderUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{builderName}</a>.
       </p>
     </div>
   </div>
