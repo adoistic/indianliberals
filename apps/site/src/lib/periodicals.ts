@@ -57,53 +57,64 @@ export interface SeriesMeta {
   name: string;
   native?: string;
   blurb: string;
+  /** What kind of run it is, for the badge on its card: "Fortnightly". */
+  kind?: string;
 }
 
 export const SERIES_META: Record<string, SeriesMeta> = {
   khoj: {
     name: "Khoj",
+    kind: "Bi-monthly",
     native: "ખોજ",
     blurb:
       "A bi-monthly Gujarati liberal periodical published from Vadodara under the 'Pahel: Initiative for Open Society', explicitly anchored in the thought of Karl Popper and Friedrich Hayek. The first sustained attempt to debate free markets, poverty, and open-society ideas in Gujarati print.",
   },
   "swatantra-newsletter": {
     name: "Swatantra Newsletter",
+    kind: "Newsletter",
     blurb:
       "The Swatantra Party's own newsletter, issued from its Bombay central office through the 1960s and into the 1970s: party circulars, conference reports, state-unit news and the leadership's running commentary on national politics, written for members rather than for the public.",
   },
   "indian-libertarian": {
     name: "The Indian Libertarian",
+    kind: "Fortnightly",
     blurb:
       "The Bombay fortnightly of the Libertarian Social Institute, published on the 1st and 15th of each month: classical-liberal and libertarian commentary on Indian politics and economics through the Nehruvian decades.",
   },
   "liberal-times": {
     name: "Liberal Times",
+    kind: "Magazine",
     blurb:
       "A South Asian liberal-affairs magazine published from New Delhi in the 1990s, carrying essays on liberal politics and policy across the region.",
   },
   "shetkari-sanghatak": {
     name: "Shetkari Sanghatak",
+    kind: "Magazine",
     native: "शेतकरी संघटक",
     blurb:
       "The Marathi organ of Sharad Joshi's Shetkari Sanghatana, the farmers' movement that argued the case for market freedom from the fields rather than the seminar room.",
   },
   "freedom-first": {
     name: "Freedom First",
+    kind: "Monthly",
     blurb:
       "The English-language liberal monthly founded in 1952 by Minoo Masani and the Democratic Research Service, one of India's longest-running liberal journals, making the case for individual liberty and the market economy through and beyond the licence-permit raj.",
   },
   quest: {
     name: "Quest",
+    kind: "Quarterly",
     blurb:
       "The journal of ideas sponsored by the Indian Committee for Cultural Freedom, launched in August 1955 under Nissim Ezekiel and later edited by Abu Sayeed Ayyub and Amlan Datta. Bi-monthly at first and quarterly from 1958, it carried literary criticism, philosophy and political argument, and gave the Indian liberal intelligentsia its most serious forum for debating Marxism, nationalism and the modern condition.",
   },
   "indian-liberal-group": {
     name: "The Liberal Position",
+    kind: "Newsletter",
     blurb:
       "The newsletter of the Indian Liberal Group, the Mumbai-based network that carried the organised liberal tradition forward, circulating classical-liberal commentary to members and fellow travellers.",
   },
   other: {
     name: "Other periodicals",
+    kind: "Periodicals",
     blurb: "Periodical issues in the archive that are not yet part of a named run.",
   },
 };
@@ -184,7 +195,7 @@ function overlaidMeta(id: string, copy: Record<string, unknown>): SeriesMeta {
   const base = SERIES_META[id];
   const native =
     typeof row.native === "string" && row.native.trim() ? (row.native as string) : base.native;
-  return { name: t(row, "name", base.name), native, blurb: t(row, "blurb", base.blurb) };
+  return { name: t(row, "name", base.name), native, blurb: t(row, "blurb", base.blurb), kind: base.kind };
 }
 
 // Group all periodical issues into ordered series. Each series' issues are
