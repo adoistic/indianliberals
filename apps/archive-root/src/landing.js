@@ -25,7 +25,7 @@ export function renderLanding(s, bucket) {
   const langs = s.languages ?? [];
   const langList = langs.map((l) => l.name).join(", ");
   const langCounts = langs.map((l) => `${num(l.count)} ${esc(l.name)}`).join("; ");
-  const title = `The Indian Liberals Archive — ${num(s.works)} works${span ? `, ${span} years` : ""}`;
+  const title = `The Indian Liberals Archive · ${num(s.works)} works${span ? `, ${span} years` : ""}`;
   const description = `A digitised archive of Indian liberal thought: ${num(s.works)} works, ${num(s.pages)} scanned pages${
     s.earliest ? `, ${s.earliest} to ${s.latest}` : ""
   }. ${(s.runs ?? []).slice(0, 4).map((r) => r.name).join(", ")} and more.`;
@@ -161,7 +161,7 @@ footer{padding:26px 0 48px;border-top:1px solid var(--rule);color:var(--muted);f
     .join("")}</ul></div>
   <div class="card"><h3>Languages</h3>
    <p><span class="big tnum">${langs.length}</span>${esc(langList)}.</p>
-   <small>${langCounts} — counted by the language of the document itself, with native-script titles catalogued as printed.</small></div>
+   <small>${langCounts}, counted by the language of the document itself, with native-script titles catalogued as printed.</small></div>
   <div class="card"><h3>Largest runs</h3><ul>${(s.runs ?? [])
     .map((r) => `<li><span>${esc(r.name)}</span><b class="tnum">${num(r.count)}</b></li>`)
     .join("")}</ul></div>
