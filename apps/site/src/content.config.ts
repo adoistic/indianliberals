@@ -922,6 +922,9 @@ const site = defineCollection({
     builder_name: z.string().optional(),
     builder_url: z.string().optional(),
     builder_credit: z.string().optional(),
+    // The two marks in the footer, site paths under /public.
+    org_logo: z.string().optional(),
+    builder_logo: z.string().optional(),
     copyright_start: z.number().int().optional(),
     contact_email: z.string().optional(),
     // Cloudflare Turnstile public site key for the contact form. Empty means

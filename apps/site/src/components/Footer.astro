@@ -15,13 +15,18 @@ const footerBlurb = t(
 );
 const orgName = t(identity, "org_name", "Centre for Civil Society");
 const orgUrl = t(identity, "org_url", "https://ccs.in");
-const orgUrlLabel = orgUrl.replace(/^https?:\/\//, "").replace(/\/$/, "");
 const builderName = t(identity, "builder_name", "Thothica");
 const builderUrl = t(identity, "builder_url", "https://thothica.com");
 // "Site rebuilt by" undersold it: the ontology beneath the archive (the
 // collections, the authority files, the agent layer) is Thothica's work as
 // much as the site is (Adnan, 2026-09-17).
 const builderCredit = t(identity, "builder_credit", "Ontology built by and site rebuilt by");
+// The two institutions appear as their marks, each a link, each named for a
+// screen reader by its alt text (the names are in the marks themselves, so
+// they are not repeated as type). The Centre's mark is the larger of the two;
+// Thothica's is its black-ink lockup. Both can be swapped from the CMS.
+const orgLogo = t(identity, "org_logo", "/brand/ccs-logo.svg");
+const builderLogo = t(identity, "builder_logo", "/brand/thothica-logo-black.png");
 const copyrightStart = n(identity, "copyright_start", 2009);
 
 const builtinFooterLinks = [
@@ -46,13 +51,44 @@ const footerLinks =
         {footerBlurb}
       </p>
     </div>
-    <div>
-      <h2 class="font-(family-name:--font-ui) text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Maintained by</h2>
-      <p class="text-(--color-fg) font-medium mb-1">{orgName}</p>
-      <a href={orgUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{orgUrlLabel}</a>
-      <p class="text-(--color-fg-muted) text-[0.8125rem] leading-relaxed mt-3">
-        {builderCredit} <a href={builderUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{builderName}</a>.
+    <div class="md:justify-self-end md:text-right">
+      {/* The `!` modifiers: the site's global h2 rule sits outside Tailwind's
+          layers and used to win, which is why this label rendered as a large
+          display heading. */}
+      <h2 class="font-(family-name:--font-ui)! text-xs! font-semibold uppercase tracking-widest! text-(--color-fg-muted)! mb-3">Maintained by</h2>
+      <a
+        href={orgUrl}
+        class="footer-mark inline-block rounded-sm"
+        title={orgName}
+      >
+        <img
+          src={orgLogo}
+          alt={orgName}
+          class="h-16 md:h-[4.5rem] w-auto"
+          height="72"
+          width="162"
+          loading="lazy"
+          decoding="async"
+        />
+      </a>
+      <p class="font-(family-name:--font-ui) text-xs font-semibold uppercase tracking-widest text-(--color-fg-muted) mt-7 mb-3">
+        {builderCredit}
       </p>
+      <a
+        href={builderUrl}
+        class="footer-mark inline-block rounded-sm"
+        title={builderName}
+      >
+        <img
+          src={builderLogo}
+          alt={builderName}
+          class="h-8 md:h-9 w-auto"
+          height="36"
+          width="125"
+          loading="lazy"
+          decoding="async"
+        />
+      </a>
     </div>
   </div>
   <div class="border-t border-(--color-border)">
@@ -68,6 +104,20 @@ const footerLinks =
     </div>
   </div>
 </footer>
+
+<style>
+  .footer-mark img {
+    transition: opacity 180ms ease, transform 180ms ease;
+  }
+  .footer-mark:hover img {
+    opacity: 0.82;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .footer-mark:hover img {
+      transform: translateY(-1px);
+    }
+  }
+</style>
 
 <script is:inline>
   // Keep the copyright year current even if the static site hasn't been
