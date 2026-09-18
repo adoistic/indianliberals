@@ -1,6 +1,14 @@
 ---
 import { n, siteCopy, t } from "~/lib/site-copy";
 
+// The footer is the one place the whole archive is laid out at once. The
+// header keeps its map behind disclosure menus; here the four sections and
+// their pages stand in plain columns, beside the archive's own words and its
+// note for machine readers. Below that, a quiet institutional strip carries
+// the two marks inline with their credits, and a colophon closes the page.
+// The tricolour hairline the header opens with is repeated at the top, so
+// the page is bookended by it.
+
 const year = new Date().getFullYear();
 
 // Sitewide identity + navigation copy (site collection). Every string keeps
@@ -23,11 +31,53 @@ const builderUrl = t(identity, "builder_url", "https://thothica.com");
 const builderCredit = t(identity, "builder_credit", "Ontology built by and site rebuilt by");
 // The two institutions appear as their marks, each a link, each named for a
 // screen reader by its alt text (the names are in the marks themselves, so
-// they are not repeated as type). The Centre's mark is the larger of the two;
-// Thothica's is its black-ink lockup. Both can be swapped from the CMS.
+// they are not repeated as type). Both can be swapped from the CMS.
 const orgLogo = t(identity, "org_logo", "/brand/ccs-logo.svg");
 const builderLogo = t(identity, "builder_logo", "/brand/thothica-logo-black.png");
 const copyrightStart = n(identity, "copyright_start", 2009);
+
+// The sitemap: the same groups the header menu shows, from the navigation
+// copy when an editor has written it, else the built-in map. Counts are the
+// header's business; the footer only names the pages.
+type FooterItem = { label: string; href: string };
+type FooterGroup = { label: string; items: FooterItem[] };
+const builtinGroups: FooterGroup[] = [
+  {
+    label: "Collections",
+    items: [
+      { label: "Primary works", href: "/primary-works/" },
+      { label: "Periodicals", href: "/periodicals/" },
+      { label: "Oral history", href: "/interviews/" },
+      { label: "Lectures", href: "/lectures/" },
+      { label: "Musings", href: "/musings/" },
+      { label: "Languages", href: "/languages/" },
+      { label: "Full-text search", href: "/search/" },
+    ],
+  },
+  { label: "People", items: [{ label: "Thinkers", href: "/thinkers/" }] },
+  {
+    label: "Commentary",
+    items: [
+      { label: "Opinions", href: "/opinions/" },
+      { label: "From ThePrint", href: "/theprint-mirror/" },
+    ],
+  },
+  {
+    label: "About",
+    items: [
+      { label: "About Us", href: "/about/" },
+      { label: "Gallery", href: "/gallery/" },
+      { label: "Events", href: "/events/" },
+      { label: "Testimonials", href: "/testimonials/" },
+      { label: "Contact Us", href: "/contact/" },
+    ],
+  },
+];
+const seedGroups = nav.groups as FooterGroup[] | undefined;
+const groups: FooterGroup[] =
+  seedGroups && seedGroups.length
+    ? seedGroups.map((g) => ({ label: g.label, items: (g.items ?? []).map((i) => ({ label: i.label, href: i.href })) }))
+    : builtinGroups;
 
 const builtinFooterLinks = [
   { label: "Terms of use", href: "/terms-of-use/" },
@@ -40,58 +90,71 @@ const footerLinks =
   seedFooterLinks && seedFooterLinks.length ? seedFooterLinks : builtinFooterLinks;
 ---
 
-<footer class="border-t border-(--color-border) mt-20 bg-(--color-bg-muted)">
-  {/* Three columns, top-aligned: the archive, who maintains it, who built it.
-      Each credit is a small label over the institution's own mark; the
-      Centre's mark is the larger. Earlier the credits sat as a tall
-      right-aligned stack beside a short left-aligned blurb, which read as
-      lopsided (Adnan, 2026-09-18). */}
-  <div class="mx-auto max-w-6xl px-6 py-12 grid gap-10 md:grid-cols-[1.4fr_0.9fr_1.2fr] md:gap-8 lg:gap-12 text-sm font-(family-name:--font-ui)">
-    <div>
-      <div class="flex items-center gap-3 mb-3">
-        <img src="/brand/brand-mark-crane.png" alt="" class="h-7 w-7" width="28" height="28" />
-        <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">Indian Liberals</span>
+<footer class="mt-20 font-(family-name:--font-ui)">
+  {/* Bookend: the hairline the header opens with. */}
+  <span class="block h-[3px] bg-gradient-to-r from-(--color-saffron-500) via-(--color-bg-muted) to-(--color-forest-500)" aria-hidden="true"></span>
+
+  {/* The archive and its map. */}
+  <div class="bg-(--color-bg-muted)">
+    <div class="mx-auto max-w-6xl px-6 pt-14 pb-12 grid gap-12 lg:grid-cols-[1.15fr_2fr] lg:gap-20">
+      <div>
+        <a href="/" class="inline-flex items-center gap-3 no-underline">
+          <img src="/brand/brand-mark-crane.png" alt="" class="h-8 w-8" width="32" height="32" />
+          <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg)">Indian Liberals</span>
+        </a>
+        <p class="mt-4 text-sm text-(--color-fg-muted) leading-relaxed max-w-sm">
+          {footerBlurb}
+        </p>
+        <p class="mt-5 text-xs text-(--color-fg-muted) leading-relaxed max-w-sm">
+          Every page has a <code class="font-(family-name:--font-mono) bg-(--color-bg) px-1 py-0.5 rounded border border-(--color-border)">.md</code> sibling for machine readers, and the archive is indexed at
+          <a href="/llms.txt" class="text-(--color-forest-700) hover:text-(--color-fg)">/llms.txt</a>.
+        </p>
       </div>
-      <p class="text-(--color-fg-muted) leading-relaxed max-w-md">
-        {footerBlurb}
-      </p>
-    </div>
-    <div>
+
       {/* The `!` modifiers: the site's global h2 rule sits outside Tailwind's
-          layers and used to win, which is why this label rendered as a large
-          display heading. */}
-      <h2 class="font-(family-name:--font-ui)! text-xs! font-semibold uppercase tracking-widest! text-(--color-fg-muted)! mb-4">Maintained by</h2>
-      <a href={orgUrl} class="footer-mark inline-block rounded-sm" title={orgName}>
-        <img
-          src={orgLogo}
-          alt={orgName}
-          class="h-11 md:h-12 w-auto"
-          height="48"
-          width="108"
-          loading="lazy"
-          decoding="async"
-        />
-      </a>
-    </div>
-    <div>
-      <p class="font-(family-name:--font-ui) text-xs font-semibold uppercase tracking-widest text-(--color-fg-muted) mb-4">
-        {builderCredit}
-      </p>
-      <a href={builderUrl} class="footer-mark inline-block rounded-sm" title={builderName}>
-        <img
-          src={builderLogo}
-          alt={builderName}
-          class="h-7 md:h-8 w-auto"
-          height="32"
-          width="111"
-          loading="lazy"
-          decoding="async"
-        />
-      </a>
+          layers and would otherwise turn these labels into display headings. */}
+      <nav aria-label="Site map" class="grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-4">
+        {groups.map((g) => (
+          <div>
+            <h2 class="font-(family-name:--font-ui)! text-xs! font-semibold uppercase tracking-widest! text-(--color-saffron-700)! mb-3.5">
+              {g.label}
+            </h2>
+            <ul class="grid gap-2">
+              {g.items.map((item) => (
+                <li>
+                  <a href={item.href} class="text-sm text-(--color-fg-muted) hover:text-(--color-fg) transition-colors">
+                    {item.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </nav>
     </div>
   </div>
-  <div class="border-t border-(--color-border)">
-    <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
+
+  {/* The institutions: each credit inline with its mark, on one line. */}
+  <div class="bg-(--color-bg) border-t border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-7 flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
+      <div class="flex items-center gap-5">
+        <span class="text-[11px] font-semibold uppercase tracking-widest text-(--color-fg-muted) shrink-0">Maintained by</span>
+        <a href={orgUrl} class="footer-mark inline-block rounded-sm" title={orgName}>
+          <img src={orgLogo} alt={orgName} class="h-11 w-auto" height="44" width="99" loading="lazy" decoding="async" />
+        </a>
+      </div>
+      <div class="flex items-center gap-5">
+        <span class="text-[11px] font-semibold uppercase tracking-widest text-(--color-fg-muted) shrink-0">{builderCredit}</span>
+        <a href={builderUrl} class="footer-mark inline-block rounded-sm" title={builderName}>
+          <img src={builderLogo} alt={builderName} class="h-7 w-auto" height="28" width="97" loading="lazy" decoding="async" />
+        </a>
+      </div>
+    </div>
+  </div>
+
+  {/* Colophon. */}
+  <div class="bg-(--color-bg-muted) border-t border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted)">
       <p>© {copyrightStart}–<span id="copyright-year" data-build-year={year}>{year}</span> {orgName}. All rights reserved.</p>
       <nav aria-label="Footer">
         <ul class="flex items-center gap-4">
