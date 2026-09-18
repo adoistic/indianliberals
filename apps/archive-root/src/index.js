@@ -15,7 +15,10 @@
 // sent them: passing the whole header bag unconditionally makes R2 report a
 // range on ordinary GETs and turns every 200 into a 206.
 
+import { renderLanding } from "./landing.js";
+
 const INDEX_KEY = "index.html";
+const STATS_URL = "https://indianliberals.in/api/archive-stats.json";
 
 export default {
   async fetch(request, env) {
@@ -26,6 +29,22 @@ export default {
         status: 405,
         headers: { allow: "GET, HEAD" },
       });
+    }
+
+    // The front page is drawn from live figures (see landing.js). If the
+    // figures cannot be had, the static page in the bucket stands in, stale
+    // but whole.
+    if (url.pathname === "/" || url.pathname === "/index.html") {
+      const page = await landingPage(env);
+      if (page) {
+        return new Response(request.method === "HEAD" ? null : page, {
+          status: 200,
+          headers: {
+            "content-type": "text/html; charset=utf-8",
+            "cache-control": "public, max-age=300",
+          },
+        });
+      }
     }
 
     // Object keys contain spaces and "&", so undo percent-encoding.
@@ -157,4 +176,53 @@ async function coverFromPack(env, key) {
       "access-control-allow-origin": "*",
     },
   });
+}
+
+
+// ---------------------------------------------------------------------------
+// The front page.
+//
+// Two live sources, both cached in module scope on a warm isolate: the site's
+// figures (an hour) and the bucket's own size (an hour, since summing eight
+// thousand objects is eight list calls). A cold isolate pays once.
+let statsCache = null;   // { at, stats }
+let bucketCache = null;  // { at, pdfBytes, objects }
+const HOUR = 3_600_000;
+
+async function landingPage(env) {
+  let stats;
+  try {
+    if (!statsCache || Date.now() - statsCache.at > HOUR) {
+      const r = await fetch(STATS_URL, { cf: { cacheTtl: 3600, cacheEverything: true } });
+      if (!r.ok) throw new Error(`stats ${r.status}`);
+      statsCache = { at: Date.now(), stats: await r.json() };
+    }
+    stats = statsCache.stats;
+  } catch {
+    return null;
+  }
+  let bucket = null;
+  try {
+    bucket = await bucketSize(env);
+  } catch {
+    bucket = null;
+  }
+  return renderLanding(stats, bucket);
+}
+
+async function bucketSize(env) {
+  if (bucketCache && Date.now() - bucketCache.at < HOUR) return bucketCache;
+  let pdfBytes = 0;
+  let objects = 0;
+  let cursor;
+  do {
+    const page = await env.ARCHIVE.list({ cursor, limit: 1000 });
+    for (const o of page.objects) {
+      objects += 1;
+      if (o.key.toLowerCase().endsWith(".pdf")) pdfBytes += o.size;
+    }
+    cursor = page.truncated ? page.cursor : undefined;
+  } while (cursor);
+  bucketCache = { at: Date.now(), pdfBytes, objects };
+  return bucketCache;
 }

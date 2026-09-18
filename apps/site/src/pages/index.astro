@@ -18,6 +18,7 @@ import { getFeaturedPhotos } from "~/lib/gallery";
 import { getFeaturedTestimonials, pullQuote } from "~/lib/testimonials";
 import { imageSize } from "~/lib/image-size";
 import { workYear } from "~/lib/work-year";
+import { workYear } from "~/lib/work-year";
 
 // Homepage copy (site collection, `home` entry). Every string keeps its
 // original wording as the inline fallback; computed counts flow into the
@@ -103,7 +104,8 @@ const stats: { value: number; label: string; href?: string }[] = [
 ];
 
 // Works-per-decade histogram for the stats band. Single bucket per decade,
-// 1800s onward; the year rule is shared with the archive front door.
+// 1800s onward; the year rule is shared with the archive front door
+// (lib/work-year.ts).
 const decadeCounts = new Map<number, number>();
 for (const w of allWorks) {
   const y = workYear(w);
