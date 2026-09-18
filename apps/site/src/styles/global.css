@@ -89,6 +89,12 @@ body {
   min-height: 100vh;
   font-size: 17px;
   line-height: 1.65;
+  /* No sideways scroll on a phone, ever. Root causes are fixed where found
+   * (the homepage histogram tooltips were one), but a single stray element
+   * is enough to put a horizontal scrollbar under a premium page, so the
+   * body clips. `clip`, not `hidden`: hidden would turn the body into a
+   * scroll container and break the sticky header. */
+  overflow-x: clip;
 }
 
 h1, h2, h3, h4, h5, h6 {
