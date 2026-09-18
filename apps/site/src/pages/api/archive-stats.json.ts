@@ -101,7 +101,9 @@ export const GET: APIRoute = async () => {
     covers,
     earliest,
     latest,
-    earliest_work: earliestWork ? { id: earliestWork.id, title: earliestWork.data.title.main } : null,
+    earliest_work: earliestWork
+      ? { id: earliestWork.id, title: earliestWork.data.title.main, translation: earliestWork.data.title.translation ?? null }
+      : null,
     decades,
     longest: longest ? { id: longest.id, title: longest.data.title.main, pages: longest.data.physical!.pages_total } : null,
     voices,

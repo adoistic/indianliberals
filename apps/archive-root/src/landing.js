@@ -148,8 +148,10 @@ footer{padding:26px 0 48px;border-top:1px solid var(--rule);color:var(--muted);f
  <div class="shead"><p class="eyebrow">Trivia</p><h2>Odds and ends</h2></div>
  <div class="grid">
   <div class="card"><h3>Oldest thing here</h3>
-   <p><span class="big">${s.earliest ?? ""}</span>${esc(s.earliest_work?.title ?? "")}</p>
-   <small>The newest material runs to ${s.latest ?? "today"}${span ? ` — a ${span}-year span in one collection.` : "."}</small></div>
+   <p><span class="big">${s.earliest ?? ""}</span>${esc(s.earliest_work?.title ?? "")}${
+     s.earliest_work?.translation ? ` <span style="color:var(--muted)">(${esc(s.earliest_work.translation)})</span>` : ""
+   }</p>
+   <small>The newest material runs to ${s.latest ?? "today"}${span ? `: a ${span}-year span in one collection.` : "."}</small></div>
   <div class="card"><h3>Longest single work</h3>
    <p><span class="big tnum">${num(s.longest?.pages)} pages</span>${esc(s.longest?.title ?? "")}</p>
    <small>Most documents are far shorter: the median is ${num(s.median_pages)} pages, because the pamphlet and the letter were this
