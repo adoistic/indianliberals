@@ -137,16 +137,19 @@ const footerLinks =
   {/* The institutions: each credit inline with its mark, on one line. */}
   <div class="bg-(--color-bg) border-t border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-7 flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
-      <div class="flex items-center gap-5">
+      {/* On a phone the label and the mark take a line each; from sm they sit
+          inline. The mark links are shrink-0 so a long label can never
+          squeeze a lockup narrower than its own shape (Adnan, 2026-09-18). */}
+      <div class="flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:gap-5">
         <span class="text-[11px] font-semibold uppercase tracking-widest text-(--color-fg-muted) shrink-0">Maintained by</span>
-        <a href={orgUrl} class="footer-mark inline-block rounded-sm" title={orgName}>
-          <img src={orgLogo} alt={orgName} class="h-11 w-auto" height="44" width="99" loading="lazy" decoding="async" />
+        <a href={orgUrl} class="footer-mark inline-block shrink-0 rounded-sm" title={orgName}>
+          <img src={orgLogo} alt={orgName} class="block h-11 w-auto max-w-none" height="44" width="99" loading="lazy" decoding="async" />
         </a>
       </div>
-      <div class="flex items-center gap-5">
+      <div class="flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:gap-5">
         <span class="text-[11px] font-semibold uppercase tracking-widest text-(--color-fg-muted) shrink-0">{builderCredit}</span>
-        <a href={builderUrl} class="footer-mark inline-block rounded-sm" title={builderName}>
-          <img src={builderLogo} alt={builderName} class="h-7 w-auto" height="28" width="97" loading="lazy" decoding="async" />
+        <a href={builderUrl} class="footer-mark inline-block shrink-0 rounded-sm" title={builderName}>
+          <img src={builderLogo} alt={builderName} class="block h-7 w-auto max-w-none" height="28" width="97" loading="lazy" decoding="async" />
         </a>
       </div>
     </div>

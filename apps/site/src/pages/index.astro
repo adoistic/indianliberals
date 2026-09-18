@@ -17,6 +17,7 @@ import { fmt, keyed, siteCopy, t } from "~/lib/site-copy";
 import { getFeaturedPhotos } from "~/lib/gallery";
 import { getFeaturedTestimonials, pullQuote } from "~/lib/testimonials";
 import { imageSize } from "~/lib/image-size";
+import { workYear } from "~/lib/work-year";
 
 // Homepage copy (site collection, `home` entry). Every string keeps its
 // original wording as the inline fallback; computed counts flow into the
@@ -101,15 +102,8 @@ const stats: { value: number; label: string; href?: string }[] = [
   //     label: "Organisations", href: "/organisations/" },
 ];
 
-// Works-per-decade histogram for the stats band. publication.year is the
-// cover date for most works; periodical issues fall back to the year coded
-// in the slug (the imported field recorded the digitisation year for some
-// runs). Single bucket per decade, 1820s onward.
-function workYear(w: (typeof allWorks)[number]): number | null {
-  const slugYear = w.id.match(/(18|19|20)\d{2}/);
-  if (w.data.work_type === "periodical_issue" && slugYear) return Number(slugYear[0]);
-  return w.data.publication?.year ?? (slugYear ? Number(slugYear[0]) : null);
-}
+// Works-per-decade histogram for the stats band. Single bucket per decade,
+// 1800s onward; the year rule is shared with the archive front door.
 const decadeCounts = new Map<number, number>();
 for (const w of allWorks) {
   const y = workYear(w);
@@ -816,6 +810,24 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
     .histogram-bar:hover::after,
     .histogram-bar:focus-visible::after {
       opacity: 1;
+    }
+    /* A transparent tooltip still has a box. On the bars at either end it
+       hung past the viewport and gave every phone a sideways scroll of
+       16px (Adnan, 2026-09-18). Pin the end tooltips inside the chart, and
+       do not draw them at all where nothing can hover. */
+    .histogram-bar:nth-child(-n + 2)::after {
+      left: 0;
+      transform: none;
+    }
+    .histogram-bar:nth-last-child(-n + 2)::after {
+      left: auto;
+      right: 0;
+      transform: none;
+    }
+    @media (hover: none) {
+      .histogram-bar::after {
+        display: none;
+      }
     }
     @media (prefers-reduced-motion: no-preference) {
       .histogram-bar::after {
