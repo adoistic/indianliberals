@@ -5,7 +5,6 @@ import { getPeriodicalSeries } from '~/lib/periodicals';
 import { getSeries, countAll } from '~/lib/series';
 import { jsonResponse } from '~/lib/agent-api';
 import { workYear } from '~/lib/work-year';
-import { workYear } from '~/lib/work-year';
 
 // Every figure the archive's front door (archive.indianliberals.in, served by
 // apps/archive-root) shows, measured from the content at build time. The
