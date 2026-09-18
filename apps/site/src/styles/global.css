@@ -171,5 +171,8 @@ a {
  * .cv-card — cover-led grid cards (3:4 cover + two text lines)
  * .cv-row  — one-line list rows (directory)
  */
-.cv-card { content-visibility: auto; contain-intrinsic-size: auto 180px auto 340px; }
-.cv-row  { content-visibility: auto; contain-intrinsic-size: auto 640px auto 57px; }
+/* Height estimates only. A width estimate is wrong for a block that fills
+ * its container, and the 640px the directory rows carried added up to a
+ * page 344px wider than a phone (Adnan, 2026-09-18). */
+.cv-card { content-visibility: auto; contain-intrinsic-size: auto none auto 340px; }
+.cv-row  { content-visibility: auto; contain-intrinsic-size: auto none auto 57px; }
