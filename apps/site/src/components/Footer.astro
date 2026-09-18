@@ -41,50 +41,49 @@ const footerLinks =
 ---
 
 <footer class="border-t border-(--color-border) mt-20 bg-(--color-bg-muted)">
-  <div class="mx-auto max-w-6xl px-6 py-12 grid gap-8 md:grid-cols-[2fr_1fr] text-sm font-(family-name:--font-ui)">
+  {/* Three columns, top-aligned: the archive, who maintains it, who built it.
+      Each credit is a small label over the institution's own mark; the
+      Centre's mark is the larger. Earlier the credits sat as a tall
+      right-aligned stack beside a short left-aligned blurb, which read as
+      lopsided (Adnan, 2026-09-18). */}
+  <div class="mx-auto max-w-6xl px-6 py-12 grid gap-10 md:grid-cols-[1.4fr_0.9fr_1.2fr] md:gap-8 lg:gap-12 text-sm font-(family-name:--font-ui)">
     <div>
       <div class="flex items-center gap-3 mb-3">
         <img src="/brand/brand-mark-crane.png" alt="" class="h-7 w-7" width="28" height="28" />
         <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">Indian Liberals</span>
       </div>
-      <p class="text-(--color-fg-muted) leading-relaxed">
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-md">
         {footerBlurb}
       </p>
     </div>
-    <div class="md:justify-self-end md:text-right">
+    <div>
       {/* The `!` modifiers: the site's global h2 rule sits outside Tailwind's
           layers and used to win, which is why this label rendered as a large
           display heading. */}
-      <h2 class="font-(family-name:--font-ui)! text-xs! font-semibold uppercase tracking-widest! text-(--color-fg-muted)! mb-3">Maintained by</h2>
-      <a
-        href={orgUrl}
-        class="footer-mark inline-block rounded-sm"
-        title={orgName}
-      >
+      <h2 class="font-(family-name:--font-ui)! text-xs! font-semibold uppercase tracking-widest! text-(--color-fg-muted)! mb-4">Maintained by</h2>
+      <a href={orgUrl} class="footer-mark inline-block rounded-sm" title={orgName}>
         <img
           src={orgLogo}
           alt={orgName}
-          class="h-16 md:h-[4.5rem] w-auto"
-          height="72"
-          width="162"
+          class="h-14 md:h-16 w-auto"
+          height="64"
+          width="144"
           loading="lazy"
           decoding="async"
         />
       </a>
-      <p class="font-(family-name:--font-ui) text-xs font-semibold uppercase tracking-widest text-(--color-fg-muted) mt-7 mb-3">
+    </div>
+    <div>
+      <p class="font-(family-name:--font-ui) text-xs font-semibold uppercase tracking-widest text-(--color-fg-muted) mb-4">
         {builderCredit}
       </p>
-      <a
-        href={builderUrl}
-        class="footer-mark inline-block rounded-sm"
-        title={builderName}
-      >
+      <a href={builderUrl} class="footer-mark inline-block rounded-sm" title={builderName}>
         <img
           src={builderLogo}
           alt={builderName}
-          class="h-8 md:h-9 w-auto"
-          height="36"
-          width="125"
+          class="h-9 md:h-10 w-auto"
+          height="40"
+          width="139"
           loading="lazy"
           decoding="async"
         />
