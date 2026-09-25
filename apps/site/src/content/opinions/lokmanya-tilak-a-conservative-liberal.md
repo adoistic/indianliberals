@@ -36,7 +36,7 @@ thinker_mentions:
   - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
     context: lists Mehta as one of the English-educated moderate leaders whose approach Tilak challenged
   key_passages: []
-related_thinkers:
+related_thinkers: 
 - dadabhai-naoroji
 - gopal-krishna-gokhale
 - pherozeshah-mehta
@@ -72,19 +72,12 @@ As a leader from the Brahmin community, Tilak has been presented as a man who be
 Tilak has often been portrayed as a Hindu revivalist and as a leader who was dismissive of minorities. A thorough study of Tilak and his relation with his contemporaries, however, reveals a different truth. Tilak believed that the minorities, especially the Muslims must have an equal place in the local and national platforms for Swarajya. The accusation that Tilak alienated Muslims from the struggle against the imperial state is rightly challenged by his 1916 speech. At the Lucknow session in 1916, Tilak put up the proposition of changing the three-way fight among the British, the Hindus and the Muslims into a two-way fight where Hindus and Muslim would fight united against the imperial British state. Among Tilak’s close friends and admirers were Barrister Mohammed Ali Jinnah and Maulana Hasrat Mohani. When Tilak was charged with sedition in 1908, Barrister Jinnah quickly moved the bail application which eventually was rejected. The Lucknow pact signed between Tilak and Jinnah in 1916 was a sincere attempt at weaving a thread of unity between the Hindu and Muslim communities. When in Chindwara prison, Jinnah wrote to Tilak, “Your courage, resolution and fortitude are an example to us, younger men, whatever be our politics, and these have convinced me, that after going through all this, you could never contemplate with equanimity, much less desire, that even a particle of the same suffering should be inflicted on a fellow countryman, no matter of what caste or creed, equally in the defence of freedom and self-respect”[6]. Although Tilak was a staunch practising Hindu, “Tilak was free of communal bias and preferred to keep religious agenda out of politics” (Pagdi, 2011, 115). Maulana Hasrat Mohani was a strong supporter of Tilak[7]. In 1907, when Tilak walked out of the Congress party, Maulana left with him[8]. Maulana wrote a moving poem on the death of Tilak. He wrote : 
 
 _Maatam ho na kyun Bharat mein bapa, duniya se sidhare aaj Tilak_
-
 _Balwant Tilak, Maharaaj Tilak aazaadon ke sartaaj Tilak_
-
 _Jab tak wo rahe duniya mein raha hum sab ke dilon par zor unka_
-
-_Ab reh ke behisht mein nizde Khuda rooho’n par karenge raaj Tilak _
-
+_Ab reh ke behisht mein nizde Khuda rooho’n par karenge raaj Tilak_
 (Why wouldn’t Bharat grieve, Tilak has left this world today. 
-
 Balwant Tilak, Maharaj Tilak, the pride of the free-spirited 
-
 Till he lived he ruled our hearts
-
 Now that he’s with the maker, he will rule our souls) 
 
 The liberal nuances in Tilak’s thoughts and ideas are crystallised in his defence arguments when he was charged with sedition in 1908. Tilak’s central concern “was to publicly articulate the Indian people’s rejection of a law grounded in the primacy of colonial/ imperial power and not on popular sovereignty. Colonial law so far as it was not anchored in society, nation and community, Tilak publicly declared, was by its very nature, illegitimate” (Mukherjee, 2017, 4). Tilak defended not only his writings in Kesari but sought to defend the freedom of the native press in India. According to Gerald Barrier, more than two thousand Indian newspapers came to be censored by the British government between 1901 and 1947 (Barrier, 1974). Against the repressive measures taken against native press, Tilak asked the jury, “if the press in England had the right to criticise the bureaucracy and raise public opinion about the policies of the government in England, why should the press in India be denied the same rights?” (Mukherjee, 2017, 11) The British rule of law could interpret any word as seditious or libellous, and in such conditions, Tilak said, “you could only beg, not claim as a right. Political discussion could only be carried out on the sufferance of the government” (Kelkar, 1908, 175). Inevitable as it was, the imperial British judiciary convicted Tilak of sedition. His remarks on the pronouncement of his verdict are deeply reminiscent of Thomas More’s last words addressed to King Henry VIII[9]. Thomas More said before his execution, “I die the King’s good servant, but God’s first”. Tilak rejected the very legitimacy of the law which convicted him and yet accepted the consequences. “All I wish to state is that in spite of the verdict of the Jury I maintain that I am innocent. There are higher Powers that rule the destiny of things and it may be the will of Providence that the cause which I represent may prosper more by my suffering than by my remaining free” (Kelkar, 1908, Part 2).
@@ -129,7 +122,6 @@ Pagdi, G. (2011). _Lokmanya Tilak: The First National Leader_ [Print]. Indus Sou
 
 Shah, A. B. (1983). Tilak and secularism [Print]. In _Political Thought and Leadership of Lokmanya Tilak_ (pp. 201, 220). Concept.
 
-[_Previous musing: Gopal Ganesh Agarkar and the Vindication of Women’s Education_](https://indianliberals.in/content/gopal-ganesh-agarkar-and-the-vindication-of-womens-education/)
 
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
