@@ -1,47 +1,47 @@
 ---
-id: "dr-muthulakshmi-reddi-beacon-of-womens-liberty"
+id: dr-muthulakshmi-reddi-beacon-of-womens-liberty
 title: "Dr Muthulakshmi Reddi: Beacon of Women's Liberty"
-pubDate: "2023-08-23T15:09:44Z"
+pubDate: 2023-08-23T15:09:44Z
 author_name: Ch Prashanth
 author: ch-prashanth
 subject: muthulakshmi-reddi
 kind: profile
-themes:
-  - "civil-society"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+themes: 
+- civil-society
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-hero_image: "/opinions/covers/dr-muthulakshmi-reddi-beacon-of-womens-liberty.webp"
-thinker_mentions:
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi's leadership of the independence movement is cited as the direct inspiration that drew Muthulakshmi Reddi into the freedom struggle alongside her medical and social-reform work."
-    evidence:
-      - quote: "Mahatma Gandhi's inspiring leadership profoundly impacted her. Under his influence, she actively engaged in the freedom struggle, coordinated efforts with other leaders, and played a crucial role in the movement."
-        context: "Gandhi is identified as the pivotal figure who channelled Reddi's social energy into the national independence cause"
-    key_passages: []
+hero_image: /opinions/covers/dr-muthulakshmi-reddi-beacon-of-womens-liberty.webp
+thinker_mentions: 
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi's leadership of the independence movement is cited as the direct inspiration that drew Muthulakshmi Reddi into the freedom struggle alongside her medical and social-reform work.
+  evidence: 
+  - quote: Mahatma Gandhi's inspiring leadership profoundly impacted her. Under his influence, she actively engaged in the freedom struggle, coordinated efforts with other leaders, and played a crucial role in the movement.
+    context: Gandhi is identified as the pivotal figure who channelled Reddi's social energy into the national independence cause
+  key_passages: []
 related_thinkers: 
-  - mahatma-gandhi
-source_channel: "so-musings"
-proposed_themes:
-  - "anti-devadasi"
-  - "women-education"
-  - "women-rights"
-key_concepts:
-  - "women-education"
-  - "devadasi-system"
-  - "social-reform"
-  - "gender-equality"
-  - "progressive-liberalism"
+- mahatma-gandhi
+source_channel: so-musings
+proposed_themes: 
+- anti-devadasi
+- women-education
+- women-rights
+key_concepts: 
+- women-education
+- devadasi-system
+- social-reform
+- gender-equality
+- progressive-liberalism
 pull_quote: By championing gender equality she left an indelible mark on South Indian social fabric.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "tamil-nadu"
+  places: 
+  - tamil-nadu
 ---
 
 _Dr Muthulakshmi Reddy was an embodiment of progressive liberalism. She was a staunch advocate of women’s education and was a vehement critic of the Devadasi system. She challenged many traditional societal norms. By championing gender equality she left an indelible mark on South Indian social fabric._
@@ -74,21 +74,18 @@ In 1936, Dr Muthulakshmi Reddi established the "AVVAI HOME," a welfare instituti
 
 In 1953, she became the Chairman of the State Social Welfare Board of Madras Presidency. During her tenure from 1953 to 1957, she uplifted women from backward classes by providing them with education and healthcare opportunities, and she also played a pivotal role in establishing a separate Children's Hospital in the Madras Presidency.
 
- Dr. Muthulakshmi Reddi was a trailblazer in every sense, achieving numerous firsts as a woman in India – being the first to gain admission to a men's college, the first to become a house surgeon in a government hospital, and the first to be elected to the Madras Legislative Council. However, she was more than just a pioneer; she was a true champion for women's rights. She relentlessly fought to improve the lives of women and children in India, advocating against child marriage, for raising the age of consent for marriage, and women's voting rights.
+ Dr. Muthulakshmi Reddi was a trailblazer in every sense, achieving numerous firsts as a woman in India, being the first to gain admission to a men's college, the first to become a house surgeon in a government hospital, and the first to be elected to the Madras Legislative Council. However, she was more than just a pioneer; she was a true champion for women's rights. She relentlessly fought to improve the lives of women and children in India, advocating against child marriage, for raising the age of consent for marriage, and women's voting rights.
 
 She envisioned a world where women would receive equal treatment, have the same opportunities as men, and are free to make their own life choices. Her life's dedication was directed towards turning this vision into a reality. Dr. Muthulakshmi Reddi's relentless pursuit of social justice and gender equality paved the way for a more inclusive and progressive India, making her a true visionary champion of liberal ideas.
 
 **References**
+- [https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs](https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs)
+- Santhi, S., & Saravanakumar, A. R. (n.d.). _Contribution of Dr. Muthulakshmi Reddy to Women Empowerment-A Historical Study_. [www.ijstr.org](http://www.ijstr.org)
+- Kamatchi, M. (2016). MUTHULAKSHMI REDDY: THE FIRST MEDICAL WOMAN PROFESSIONAL IN SOUTH INDIA. 
 
- 	- [https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs](https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs)
-
- 	- Santhi, S., & Saravanakumar, A. R. (n.d.). _Contribution of Dr. Muthulakshmi Reddy to Women Empowerment-A Historical Study_. [www.ijstr.org](http://www.ijstr.org)
-
- 	- Kamatchi, M. (2016). MUTHULAKSHMI REDDY: THE FIRST MEDICAL WOMAN PROFESSIONAL IN SOUTH INDIA. _Proceedings of the Indian History Congress_, _77_, 612–623. [https://www.jstor.org/stable/26552689](https://www.jstor.org/stable/26552689)
-
-_Previous musing: [Have We Lost Our Will To Be Free? (1965)](https://indianliberals.in/content/have-we-lost-our-will-to-be-free/)_
+_Proceedings of the Indian History Congress_, _77_, 612, 623. [https://www.jstor.org/stable/26552689](https://www.jstor.org/stable/26552689)
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
