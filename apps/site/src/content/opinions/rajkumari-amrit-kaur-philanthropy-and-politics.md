@@ -101,5 +101,3 @@ V Srinivas, [_AIIMS Diamond Jubilee Celebrations_](https://www.aiims.edu/images/
 Adrija Roychowdhury, [_Rajkumari Amrit Kaur: The princess who built AIIMS_](https://indianexpress.com/article/research/rajkumari-amrit-kaur-the-princess-who-built-aiims-6570937/), Indian Express (New Delhi, 2020).
 
 [_Learn About Rajkumari Amrit Kaur_](https://artsandculture.google.com/story/learn-about-rajkumari-amrit-kaur/lwVxJZq1ZEmmWg?hl=en), Google Arts & Culture.
-
-_Previous musing: [A Resilient Soul: Ramadevi Chowdhuri](https://indianliberals.in/content/a-resilient-soul-ramadevi-chowdhuri/)_
