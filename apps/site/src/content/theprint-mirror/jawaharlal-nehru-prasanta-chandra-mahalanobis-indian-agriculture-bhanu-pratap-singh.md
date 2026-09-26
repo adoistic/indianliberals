@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/jawaharlal-nehru-prasanta-chandra-mahalanobis-indian-agriculture-bhanu-pratap-singh/3047111/) on 2026-09-19. Originally published 2026-09-19. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/jawaharlal-nehru-prasanta-chandra-mahalanobis-indian-agriculture-bhanu-pratap-singh/3047111/) on 2026-09-26. Originally published 2026-09-19. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Nehru-Mahalanobis strategy prevented Indian agriculture from growing: Bhanu Pratap Singh
 

@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/why-has-indias-agriculture-lagged-behind-its-not-a-lack-of-land-and-water-but-a-lack-of-policies-and-investment/1030747/) on 2026-09-19. Originally published 2026-09-19. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/why-has-indias-agriculture-lagged-behind-its-not-a-lack-of-land-and-water-but-a-lack-of-policies-and-investment/1030747/) on 2026-09-26. Originally published 2026-09-19. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # भारत की कृषि क्यों पिछड़ी? जमीन-पानी की कमी नहीं, नीतियों और निवेश की कमी रही वजह
 

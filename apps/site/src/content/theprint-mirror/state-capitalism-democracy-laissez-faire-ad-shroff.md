@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/state-capitalism-democracy-laissez-faire-ad-shroff/3040773/) on 2026-09-19. Originally published 2026-09-12. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/state-capitalism-democracy-laissez-faire-ad-shroff/3040773/) on 2026-09-26. Originally published 2026-09-12. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # State capitalism is a negation of democracy. Laissez-faire is dead as a dodo: AD Shroff
 

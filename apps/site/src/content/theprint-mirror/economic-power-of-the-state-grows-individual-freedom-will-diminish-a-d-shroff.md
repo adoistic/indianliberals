@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/economic-power-of-the-state-grows-individual-freedom-will-diminish-a-d-shroff/1027677/) on 2026-09-19. Originally published 2026-09-12. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/economic-power-of-the-state-grows-individual-freedom-will-diminish-a-d-shroff/1027677/) on 2026-09-26. Originally published 2026-09-12. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # राज्य की आर्थिक शक्ति बढ़ती गई तो व्यक्ति की स्वतंत्रता घटेगी — ए. डी. श्रॉफ
 
