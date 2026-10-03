@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/inflation-has-already-produced-grievous-distortion-in-our-economy-g-n-lawande/3054101/) on 2026-09-26. Originally published 2026-09-26. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/inflation-has-already-produced-grievous-distortion-in-our-economy-g-n-lawande/3054101/) on 2026-10-03. Originally published 2026-09-26. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Inflation has already produced grievous distortion in our economy: G N Lawande
 

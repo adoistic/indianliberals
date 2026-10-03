@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/deficit-financing-has-led-to-inflation-economic-growth-is-impossible-without-increasing-agricultural-production-g-n-lawande/1034165/) on 2026-09-26. Originally published 2026-09-26. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/deficit-financing-has-led-to-inflation-economic-growth-is-impossible-without-increasing-agricultural-production-g-n-lawande/1034165/) on 2026-10-03. Originally published 2026-09-26. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ‘घाटे की वित्त व्यवस्था’ से बढ़ी महंगाई, कृषि उत्पादन बढ़ाए बिना आर्थिक विकास संभव नहीं: जी. एन. लवांडे
 
