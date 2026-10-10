@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/a-free-economy-needs-controls-not-a-control-raj-ma-sreenivasan/3060801/) on 2026-10-03. Originally published 2026-10-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/a-free-economy-needs-controls-not-a-control-raj-ma-sreenivasan/3060801/) on 2026-10-10. Originally published 2026-10-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # A free economy needs controls, not a Control-Raj: MA Sreenivasan
 

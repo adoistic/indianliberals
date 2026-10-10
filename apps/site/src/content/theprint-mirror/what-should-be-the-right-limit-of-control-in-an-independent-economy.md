@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/what-should-be-the-right-limit-of-control-in-an-independent-economy/1038103/) on 2026-10-03. Originally published 2026-10-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/what-should-be-the-right-limit-of-control-in-an-independent-economy/1038103/) on 2026-10-10. Originally published 2026-10-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ‘कंट्रोल-राज’ बनाम स्वराज: स्वतंत्र अर्थव्यवस्था में नियंत्रण की सही सीमा क्या हो?
 
