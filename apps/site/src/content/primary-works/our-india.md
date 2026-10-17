@@ -29,6 +29,12 @@ cover_image: "https://archive.indianliberals.in/covers/our-india.webp"
 pdf_size_mb: 5.95
 needs_review: true
 draft: false
+# A fuller scan of a later printing was ingested 2026-10-16: the Oxford
+# University Press eighth impression (1975) of the revised "Our India-1953"
+# text, 181 pages against this record's 86, with the title page and colophon
+# intact. Both records stand; this one is the earlier, partial scan.
+related_works:
+  - our-india-oup-1975
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17
