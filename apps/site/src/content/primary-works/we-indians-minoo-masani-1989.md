@@ -42,6 +42,12 @@ cover_image: "https://archive.indianliberals.in/covers/we-indians-minoo-masani-1
 pdf_size_mb: 1.32
 needs_review: true
 draft: false
+# This record's slug says 1989, but the edition it actually describes is the
+# Indian Liberal Group's 2001 reprint (63 pages). The Oxford University Press
+# 1989 first edition was ingested separately on 2026-10-16 at
+# `we-indians-oup-1989` (118 pages, SBN 0 19 562343 6). Both records stand.
+related_works:
+  - we-indians-oup-1989
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17
