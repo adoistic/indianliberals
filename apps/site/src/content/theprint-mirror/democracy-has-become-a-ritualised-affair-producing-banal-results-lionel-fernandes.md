@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/democracy-has-become-a-ritualised-affair-producing-banal-results-lionel-fernandes/3067432/) on 2026-10-10. Originally published 2026-10-10. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/democracy-has-become-a-ritualised-affair-producing-banal-results-lionel-fernandes/3067432/) on 2026-10-17. Originally published 2026-10-10. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Democracy has become a ritualised affair producing banal results: Lionel Fernandes
 

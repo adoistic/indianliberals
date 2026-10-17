@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/democracy-will-not-be-strengthened-by-mere-voting-public-participation-is-also-necessary-lionel-fernandes/1041370/) on 2026-10-10. Originally published 2026-10-10. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/democracy-will-not-be-strengthened-by-mere-voting-public-participation-is-also-necessary-lionel-fernandes/1041370/) on 2026-10-17. Originally published 2026-10-10. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # सिर्फ वोट डालने से मजबूत नहीं होगा लोकतंत्र, जनता की भागीदारी भी जरूरी: लियोनेल फर्नांडिस
 
