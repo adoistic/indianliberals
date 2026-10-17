@@ -45,7 +45,7 @@ thinker_mentions:
   - quote: In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as "Iswar Chandra Vidyasagar of South"
     context: Vidyasagar invoked as the canonical reformer-benchmark; the comparison transfers his moral authority on widow remarriage onto Veeresalingam
   key_passages: []
-related_thinkers:
+related_thinkers: 
 - ishwar-chandra-vidyasagar
 - mahadev-govind-ranade
 ---
@@ -88,13 +88,11 @@ References
 
 1. https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788](https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788)
 
-2. [https://indianculture.gov.in/node/2833251](https://indianculture.gov.in/node/2833251)
+2. Rani, S. (2012). Women’s worlds in the novels of Kandukuri and Gilman. _CLCWeb_,_14_(2). [https://doi.org/10.7771/1481-4374.1963](https://doi.org/10.7771/1481-4374.1963)
 
-3. Rani, S. (2012). Women’s worlds in the novels of Kandukuri and Gilman. _CLCWeb_,_14_(2). [https://doi.org/10.7771/1481-4374.1963](https://doi.org/10.7771/1481-4374.1963)
-
-4. Uma, A., & Sridhar, M. (2021). Kandukuri Veeresalingam: Women’s Education [February 1875]. In _Routledge eBooks_ (pp. 28, 34). [https://doi.org/10.4324/9781003224761-2](https://doi.org/10.4324/9781003224761-2)
+3. Uma, A., & Sridhar, M. (2021). Kandukuri Veeresalingam: Women’s Education [February 1875]. In _Routledge eBooks_ (pp. 28, 34). [https://doi.org/10.4324/9781003224761-2](https://doi.org/10.4324/9781003224761-2)
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

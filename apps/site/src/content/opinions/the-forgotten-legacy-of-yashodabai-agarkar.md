@@ -1,46 +1,46 @@
 ---
-id: "the-forgotten-legacy-of-yashodabai-agarkar"
-title: "The Forgotten Legacy of Yashodabai Agarkar"
-pubDate: "2023-09-27T10:45:38Z"
+id: the-forgotten-legacy-of-yashodabai-agarkar
+title: The Forgotten Legacy of Yashodabai Agarkar
+pubDate: 2023-09-27T10:45:38Z
 author_name: Avanti Lele
 author: avanti-lele
 subject: yashodabai-agarkar
 kind: profile
-themes:
-  - "civil-liberties"
-  - "social-reform"
-language: "en"
+themes: 
+- civil-liberties
+- social-reform
+language: en
 needs_review: true
 draft: false
-hero_image: "/opinions/covers/the-forgotten-legacy-of-yashodabai-agarkar.webp"
-thinker_mentions:
-  - thinker: gopal-ganesh-agarkar
-    role: mention
-    reasoning: "Gopal Ganesh Agarkar is cited as Yashodabai's husband whose reformist ideas she imbibed and acted upon, providing the intellectual foundation for her own activism."
-    evidence:
-      - quote: "Gopal Ganesh Agarkar educated Yashodabai and kindled the spirit of reform in her. His thoughts on women's upliftment and feminism seeped into Yashodabai."
-        context: "Agarkar identified as the intellectual influence who shaped Yashodabai's reform consciousness"
-    key_passages: []
+hero_image: /opinions/covers/the-forgotten-legacy-of-yashodabai-agarkar.webp
+thinker_mentions: 
+- thinker: gopal-ganesh-agarkar
+  role: mention
+  reasoning: Gopal Ganesh Agarkar is cited as Yashodabai's husband whose reformist ideas she imbibed and acted upon, providing the intellectual foundation for her own activism.
+  evidence: 
+  - quote: Gopal Ganesh Agarkar educated Yashodabai and kindled the spirit of reform in her. His thoughts on women's upliftment and feminism seeped into Yashodabai.
+    context: Agarkar identified as the intellectual influence who shaped Yashodabai's reform consciousness
+  key_passages: []
 related_thinkers: 
-  - gopal-ganesh-agarkar
-source_channel: "so-musings"
-proposed_themes:
-  - "biography"
-  - "widowhood"
-  - "womens-education"
-key_concepts:
-  - "yashodabai-agarkar"
-  - "widow-customs"
-  - "womens-education"
-  - "social-reform-maharashtra"
-  - "sudharak"
+- gopal-ganesh-agarkar
+source_channel: so-musings
+proposed_themes: 
+- biography
+- widowhood
+- womens-education
+key_concepts: 
+- yashodabai-agarkar
+- widow-customs
+- womens-education
+- social-reform-maharashtra
+- sudharak
 pull_quote: Yashodabai Agarkar is a figure missed entirely by history.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "maharashtra"
+  places: 
+  - maharashtra
 ---
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._
@@ -75,9 +75,7 @@ Deshpande, A. (2021, August 3). _विद्रोहाची शलाका_
 
 Ranade, P. (1997). _यशोदाबाई आगरकरांच्या आठवणी : एक आकलन_ (2nd ed.) [Print]. Rajhans Prakashan.
 
-[_Previous musing: Fighting for Freedom: The Tumultuous Legacy of Raghunath Karve_](https://indianliberals.in/content/fighting-for-freedom-the-tumultuous-legacy-of-raghunath-karve/)
-
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
-Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
+is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.

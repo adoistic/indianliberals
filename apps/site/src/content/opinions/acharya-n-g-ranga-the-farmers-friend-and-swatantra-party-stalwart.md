@@ -64,7 +64,7 @@ thinker_mentions:
   - quote: his belief in socialism was short-lived, as the Stalin regime's oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga's departure from Marxist ideology.
     context: Stalin's agrarian terror is identified as the pivotal event that broke Ranga's faith in socialism
   key_passages: []
-related_thinkers:
+related_thinkers: 
 - indira-gandhi
 - jawaharlal-nehru
 - john-stuart-mill
@@ -100,7 +100,7 @@ NG Ranga was born on November 7, 1990, in Nidabrolu Village of Guntur District, 
 
 In 1920, Ranga left for England and studied Economics and Political Science at Oxford University. He received a doctorate for his research on “The Economics of Handlooms” from the Oxford University. He completed his higher studies and returned to India by 1926. At Oxford, Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill. He was attracted to socialist philosophy after witnessing the progress of the USSR. However, his belief in socialism was short-lived, as the Stalin regime’s oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga’s departure from Marxist ideology.
 
-_Commenting on the forced collectivisation, Ranga remarked, _“Peasants were faced with the awful prospect of having to slave hard on their holdings and produce bumper crops, only to hand them over, at the preemptory behests of the Soviet armed proletariat, to the soviet authorities without any hope of receiving any of their most elementary necessaries.”_ 
+_Commenting on the forced collectivisation, Ranga remarked,_ “Peasants were faced with the awful prospect of having to slave hard on their holdings and produce bumper crops, only to hand them over, at the preemptory behests of the Soviet armed proletariat, to the soviet authorities without any hope of receiving any of their most elementary necessaries.”_ 
 
 Since NG Ranga belonged to a farming family, he understood the problems of farmers well. He was determined to contribute to eradicating these problems. It is also worth noting that during his schooling, NG Ranga began reading reformist literature. He was inspired by Kandukuri Veeresalingam, a social reformer and liberal thinker of his time. 
 
@@ -134,13 +134,11 @@ Distinguished Acquaintances, Volume 1&II, by N. G. Ranga. Desi Book Distributors
 
 [https://amritmahotsav.nic.in/district-reopsitory-detail.htm?12998](https://amritmahotsav.nic.in/district-reopsitory-detail.htm?12998)
 
-[https://indianliberals.in/periodicals/swatantra-party/](https://indianliberals.in/periodicals/swatantra-party/)
+[https://indianliberals.in/periodicals/swatantra-party/](https://indianliberals.in/series/swatantra-party-publications/)
 
 [https://www.constitutionofindia.net/members/n-g-ranga-rao/](https://www.constitutionofindia.net/members/n-g-ranga-rao/)
 
 [N G Ranga: Swatantra's Peasant Leader - Spontaneous Order](https://spontaneousorder.in/n-g-ranga/)
-
-[N.G Ranga and the Peasant Movement | INDIAN CULTURE](https://indianculture.gov.in/node/2822394)
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 

@@ -1,41 +1,41 @@
 ---
-id: "gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam"
+id: gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam
 title: "Gurajada Apparao: Liberal and Feminist Insights in Kanyasulkam"
-pubDate: "2023-09-13T11:24:02Z"
+pubDate: 2023-09-13T11:24:02Z
 author_name: Ch Prashanth
 author: ch-prashanth
 subject: gurajada-apparao
 kind: profile
-themes:
-  - "liberalism"
-  - "social-reform"
-language: "en"
+themes: 
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-hero_image: "/opinions/covers/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam.webp"
-source_channel: "so-musings"
-proposed_themes:
-  - "feminism"
-  - "telugu-literature"
-  - "women-education"
-key_concepts:
-  - "kanyasulkam"
-  - "child-marriage"
-  - "dowry"
-  - "women-empowerment"
-  - "modernism"
+hero_image: /opinions/covers/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam.webp
+source_channel: so-musings
+proposed_themes: 
+- feminism
+- telugu-literature
+- women-education
+key_concepts: 
+- kanyasulkam
+- child-marriage
+- dowry
+- women-empowerment
+- modernism
 pull_quote: Through his works, Apparao challenged the authoritarian and orthodox beliefs deeply ingrained in Indian society and culture.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "andhra-pradesh"
+  places: 
+  - andhra-pradesh
 thinker_mentions: []
 related_thinkers: []
 ---
 
-_Gurajada Venkata Apparao also called as ‘Gurajada’ was a social reformer and liberal thinker. He is also considered as the pathfinder of modernism in Telugu literature. Through his works, he strongly criticised social evils such as child marriage and dowry. He was a strong advocate for Women’s education and empowerment. He was posthumously awarded the Padma Bhushan, India’s third-highest civilian award, in 1954. _
+_Gurajada Venkata Apparao also called as ‘Gurajada’ was a social reformer and liberal thinker. He is also considered as the pathfinder of modernism in Telugu literature. Through his works, he strongly criticised social evils such as child marriage and dowry. He was a strong advocate for Women’s education and empowerment. He was posthumously awarded the Padma Bhushan, India’s third-highest civilian award, in 1954._
 
 Gurajada Venkata Apparao was a remarkable literary figure in the late 19th and early 20th centuries, acclaimed for his eloquent contribution to liberal ideas in literature. He was born on September 21, 1862, in Rayavaram village of Visakhapatnam District. Gurajada is regarded as a modernist pioneer in Telugu literature. Kanyasulkam is the first Telugu drama written entirely in spoken dialect. Even after a century of publication, the prose play Kanyasulkam, written in the Visakhapatnam dialect, remains popular. In 1892, Gurajada's acclaimed drama "Kanyasulkam" was staged for the general public. His other works include 'Kukku', an English poem (1882), 'Sarangadhara' an English poem (1883), 'Kondubhattiyam' (1906), 'Neelagiri paatalu' (1907), 'Mutyalasaramulu', 'Kasulu'(1910), 'Bilhaniyam', 'Lavana Rajula Kala'(1911), 'Kanyaka' (1912), 'Subhadra'(1913), 'Dinchu Langaru'(1914) and 'Langarettumu'(1915).
 
@@ -64,14 +64,10 @@ Another main character of the play is Madhuravani. Born into the family of Devad
 Gurajada Venkata Apparao's legacy as a liberal thinker shines through his unwavering commitment to progressive thought. A literary luminary of his time, he wrote stories that dismantled the chains of convention. Through Kanyasulkam, he ignited a fire of belief in the audience and illuminated a path towards a liberated and equitable society. 
 
 References
-
- 	- Rao, V. N. (2011). The indigenous modernity of Gurajada Apparao and Fakir Mohan Senapati. In _Palgrave Macmillan US eBooks_ (pp. 135–152). [https://doi.org/10.1057/9780230118348_6](https://doi.org/10.1057/9780230118348_6)
-
- 	- Srilatha, G., & Siddhartha, P. B. (2018). Language and Culture in Kanyasulkam. _International Journal for Research in Engineering Application & Management_.
-
-_Previous musing: [FIGHTING FOR FREEDOM : THE TUMULTUOUS LEGACY OF RAGHUNATH KARVE](https://indianliberals.in/content/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve/)_
+- Rao, V. N. (2011). The indigenous modernity of Gurajada Apparao and Fakir Mohan Senapati. In _Palgrave Macmillan US eBooks_ (pp. 135, 152). [https://doi.org/10.1057/9780230118348_6](https://doi.org/10.1057/9780230118348_6)
+- Srilatha, G., & Siddhartha, P. B. (2018). Language and Culture in Kanyasulkam. _International Journal for Research in Engineering Application & Management_.
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

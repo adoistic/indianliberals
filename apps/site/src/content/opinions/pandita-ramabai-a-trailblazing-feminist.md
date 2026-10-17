@@ -77,7 +77,7 @@ By 1920, Ramabai sensed a growing physical weakness and designated her daughter 
 
 She authored several influential works in her lifetime, including **_The Testimony of an Indian Woman_**, **_Pandita Ramabai’s American Encounter: The Peoples of the United States (1889)_** and **_Mukti Prakash_** (1923) - a Marathi-language book compiled and published posthumously by her followers. Through these works, she brought the plight of women in Indian society out of the closet and made relentless efforts to realise their emancipation and empowerment.
 
-**References **
+**References**
 
 Zubaan. [_Pandita Ramabai_.](https://artsandculture.google.com/story/pandita-ramabai-zubaan/4wVx8_4U248xIQ?hl=en) Google Arts & Culture.
 

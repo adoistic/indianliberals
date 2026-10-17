@@ -1,47 +1,47 @@
 ---
-id: "fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve"
+id: fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve
 title: "Fighting for Freedom : The Tumultuous Legacy of Raghunath Karve"
-pubDate: "2023-09-06T16:11:23Z"
+pubDate: 2023-09-06T16:11:23Z
 author_name: Avanti Lele
 author: avanti-lele
 subject: raghunath-karve
 kind: profile
-themes:
-  - "civil-liberties"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+themes: 
+- civil-liberties
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-hero_image: "/opinions/covers/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve.webp"
-thinker_mentions:
-  - thinker: bhimrao-ambedkar
-    role: mention
-    reasoning: "Ambedkar defended Karve in court on obscenity charges arising from his sex-education publication, using the case to argue for freedom of speech and expression — positioning Ambedkar as a civil-libertarian ally of Karve's embattled project."
-    evidence:
-      - quote: Dr. Babasaheb Ambedkar took up his case and represented him in court. Dr. Ambedkar raised pertinent questions about censorship, freedom of speech and expression, and individual freedom.
-        context: "Ambedkar's courtroom intervention frames him as a defender of Karve's individual-liberty mission"
-    key_passages: []
+hero_image: /opinions/covers/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve.webp
+thinker_mentions: 
+- thinker: bhimrao-ambedkar
+  role: mention
+  reasoning: Ambedkar defended Karve in court on obscenity charges arising from his sex-education publication, using the case to argue for freedom of speech and expression, positioning Ambedkar as a civil-libertarian ally of Karve's embattled project.
+  evidence: 
+  - quote: Dr. Babasaheb Ambedkar took up his case and represented him in court. Dr. Ambedkar raised pertinent questions about censorship, freedom of speech and expression, and individual freedom.
+    context: Ambedkar's courtroom intervention frames him as a defender of Karve's individual-liberty mission
+  key_passages: []
 related_thinkers: 
-  - bhimrao-ambedkar
-source_channel: "so-musings"
-proposed_themes:
-  - "birth-control"
-  - "individual-autonomy"
-  - "sex-education"
-key_concepts:
-  - "birth-control"
-  - "sex-education"
-  - "individual-autonomy"
-  - "non-procreative-sexuality"
-  - "samajswasthya"
+- bhimrao-ambedkar
+source_channel: so-musings
+proposed_themes: 
+- birth-control
+- individual-autonomy
+- sex-education
+key_concepts: 
+- birth-control
+- sex-education
+- individual-autonomy
+- non-procreative-sexuality
+- samajswasthya
 pull_quote: Karve was a strong believer in individual autonomy especially of the corporeal kind and was a strong supporter of birth control.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "maharashtra"
+  places: 
+  - maharashtra
 ---
 
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._
@@ -66,7 +66,7 @@ The setback and the storm of criticism didn’t stop Karve and he continued writ
 
 BBC News मराठी. (2022, October 14). र. धों. कर्वेः डॉ. बाबासाहेब आंबेडकर जेव्हा ’समाजस्वास्थ्य’साठीचा खटला हरूनही जिंकले होते. BBC News मराठी. https://www.bbc.com/marathi/india-42236452
 
-Botre, S., & Haynes, D. E. (2017). Sexual Knowledge, Sexual Anxieties: Middle-class males in western India and the correspondence in _Samaj Swasthya_, 1927–53. _Modern Asian Studies_, _51_(4), 991–1034. https://doi.org/10.1017/s0026749x16000184
+Botre, S., & Haynes, D. E. (2017). Sexual Knowledge, Sexual Anxieties: Middle-class males in western India and the correspondence in _Samaj Swasthya_, 1927, 53. _Modern Asian Studies_, _51_(4), 991, 1034. https://doi.org/10.1017/s0026749x16000184
 
 Karve, R. D. (Ed.). (1931). समाजस्वास्थ्य मासिकातील निवडक लेख [Print]. र. धों. कर्वे राईट एजन्सी.
 
@@ -77,4 +77,4 @@ Karve, R. D. (Ed.). (1931). समाजस्वास्थ्य मासि
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
-Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
+is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.

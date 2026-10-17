@@ -1,47 +1,47 @@
 ---
-id: "gurcharan-das-champion-of-liberal-ideas"
+id: gurcharan-das-champion-of-liberal-ideas
 title: "Gurcharan Das: Champion of liberal ideals"
-pubDate: "2023-08-30T15:18:17Z"
+pubDate: 2023-08-30T15:18:17Z
 author_name: Ch Prashanth
 author: ch-prashanth
 subject: gurcharan-das
 kind: profile
-themes:
-  - "economic-freedom"
-  - "economic-reform"
-  - "free-markets"
-  - "liberalism"
-language: "en"
+themes: 
+- economic-freedom
+- economic-reform
+- free-markets
+- liberalism
+language: en
 needs_review: true
 draft: false
-hero_image: "/opinions/covers/gurcharan-das-champion-of-liberal-ideas.webp"
-source_channel: "so-musings"
-proposed_themes:
-  - "inequality"
-key_concepts:
-  - "india-unbound"
-  - "limited-government"
-  - "dharma"
-  - "elephant-paradigm"
-  - "russian-revolution"
+hero_image: /opinions/covers/gurcharan-das-champion-of-liberal-ideas.webp
+source_channel: so-musings
+proposed_themes: 
+- inequality
+key_concepts: 
+- india-unbound
+- limited-government
+- dharma
+- elephant-paradigm
+- russian-revolution
 pull_quote: As a liberal figure, Das advocates for individual freedom, limited government intervention, and free-market economics.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
-thinker_mentions:
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "The piece uses Nehru as the named architect of India's socialist turn — the foil against which Das's market-liberal critique of the license raj is staged."
-    evidence:
-      - quote: "India's quest for economic equality during the Nehru era severely impacted the economy."
-        context: frames the post-independence socialist programme as a Nehru-era project that produced economic damage
-      - quote: "Nehru's socialistic tendencies hurt India economically."
-        context: the bluntest line on Nehru — directly attributing economic stagnation to his ideological inclinations
-    key_passages: []
+thinker_mentions: 
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: The piece uses Nehru as the named architect of India's socialist turn, the foil against which Das's market-liberal critique of the license raj is staged.
+  evidence: 
+  - quote: India's quest for economic equality during the Nehru era severely impacted the economy.
+    context: frames the post-independence socialist programme as a Nehru-era project that produced economic damage
+  - quote: Nehru's socialistic tendencies hurt India economically.
+    context: the bluntest line on Nehru, directly attributing economic stagnation to his ideological inclinations
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
+- jawaharlal-nehru
 ---
 
 _Gurcharan Das is a prominent liberal thinker promoting individual freedom and free market economics. His critical analysis of inequality, socialism and the pursuit of fairness continues to shape India’s liberal discourse. This article narrates different ideas and viewpoints of Gurcharan Das through his works._
@@ -68,25 +68,21 @@ India’s quest for economic equality during the Nehru era severely impacted the
 
 Das is an ardent critic of socialist societies. He wrote, “If greed is the vice of capitalism, envy is the flaw of socialism”.  The Soviet Union was plagued by envy, which arose more commonly between near equals than those widespread in fortune. As an egalitarian liberal, John Rawls said, “A person who envies another is prepared to make both persons worse off to reduce the gap between them.” Socialist societies not only produce envious citizens, but it also kills the hardworking instincts of their subjects. Thus, socialism ruins the fundamental human incentivisation of work, the reward. 
 
-Gurcharan Das presents a different viewpoint on inequalities and how societies accept inequalities. In his article, he writes, "We accept inequalities if we believe them to be fair”. A [study](https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/)conducted by the Pew Research Center in the United States Of  America found that Americans are more likely to accept inequalities if they believe it is due to hard work and talent rather than luck or privilege. If the rich pay their taxes on time, create employment, and generate wealth for the nation, then the inequalities that rose during this process are justified. [Figures](https://www.oxfam.org/en/india-extreme-inequality-numbers)reported by Oxfam International suggest the widening gap between the rich and the poor in India. The gap occurs mainly due to a lack of opportunity for the poor oppressed classes.
+Gurcharan Das presents a different viewpoint on inequalities and how societies accept inequalities. In his article, he writes, "We accept inequalities if we believe them to be fair”. A [study](https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/) conducted by the Pew Research Center in the United States Of  America found that Americans are more likely to accept inequalities if they believe it is due to hard work and talent rather than luck or privilege. If the rich pay their taxes on time, create employment, and generate wealth for the nation, then the inequalities that rose during this process are justified. [Figures](https://www.oxfam.org/en/india-extreme-inequality-numbers) reported by Oxfam International suggest the widening gap between the rich and the poor in India. The gap occurs mainly due to a lack of opportunity for the poor oppressed classes.
 
-Das [analysed](https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/)the power shift in the 2014 general elections from a socio-economic perspective. While the UPA promised jobs for the unemployed, the general public was tilted in favour of the BJP, which promised to create 2 Crore jobs every year if it came to power. The difference here was that the UPA’s approach towards job creation was solely based on employment guarantee schemes, whereas the BJP promised jobs based on “Development”. This development included creating economic systems that allowed Individuals and Firms to pursue their interests in an enabling environment. Apart from employment creation, the BJP pledged to reduce corporate taxes and simplify the tax system. In short, the government was liberal in its approach towards complex issues such as unemployment, corporate taxation, economic growth and infrastructure improvement. While the government’s intent is positive, more must be done to fuel India in the right direction.  
+Das [analysed](https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/) the power shift in the 2014 general elections from a socio-economic perspective. While the UPA promised jobs for the unemployed, the general public was tilted in favour of the BJP, which promised to create 2 Crore jobs every year if it came to power. The difference here was that the UPA’s approach towards job creation was solely based on employment guarantee schemes, whereas the BJP promised jobs based on “Development”. This development included creating economic systems that allowed Individuals and Firms to pursue their interests in an enabling environment. Apart from employment creation, the BJP pledged to reduce corporate taxes and simplify the tax system. In short, the government was liberal in its approach towards complex issues such as unemployment, corporate taxation, economic growth and infrastructure improvement. While the government’s intent is positive, more must be done to fuel India in the right direction.  
 
 Das is also an ardent supporter of a robust education and healthcare system. Indeed, they are essential for individual development and the overall well-being of a nation. A robust education system provides the knowledge and skills to improve employment opportunities. A robust healthcare system ensures universal access to quality healthcare, providing people with proper facilities to stay healthy and lead productive lives. Education and Healthcare are thus powerful tools to reduce inequalities because of their potential to level the playing field for everyone. As both sectors play a decisive role in shaping the life of citizens, the State must play an enabling role to ensure the delivery of Progressive Education and Quality healthcare services. Education and Healthcare essentially provide the environment for equality of opportunity. 
 
 Gurcharan Das’s writings and his liberal ideas have profoundly impacted India’s intellectual landscape. His staunch advocacy for individual freedom and equal opportunities has left a legacy for young thinkers to follow. Through critical analysis of issues and events, he challenges societies to seek pragmatic solutions that prioritise individual growth and fairness. 
 
 References
+- Das, G. (2014, June 1). _Modi’s moment is about middle class dignity_. Times of India Blog. [https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/](https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/)
+- _India: extreme inequality in numbers | Oxfam International_. (2022, September 9). Oxfam International. [https://www.oxfam.org/en/india-extreme-inequality-numbers](https://www.oxfam.org/en/india-extreme-inequality-numbers)
+- Mitchell, T. (2020, January 9). _2. Views of economic inequality_. Pew Research Center’s Social & Demographic Trends Project. [https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/](https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/)
 
- 	- Das, G. (2014, June 1). _Modi’s moment is about middle class dignity_. Times of India Blog. [https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/](https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/)
-
- 	- _India: extreme inequality in numbers | Oxfam International_. (2022, September 9). Oxfam International. [https://www.oxfam.org/en/india-extreme-inequality-numbers](https://www.oxfam.org/en/india-extreme-inequality-numbers)
-
- 	- Mitchell, T. (2020, January 9). _2. Views of economic inequality_. Pew Research Center’s Social & Demographic Trends Project. [https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/](https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/)
-
-_Previous musing: Dr Muthulakshmi Reddi: Beacon of Women's Liberty_
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

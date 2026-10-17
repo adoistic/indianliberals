@@ -80,12 +80,10 @@ She protested the curtailment of freedom of the press during the emergency by st
 
 As Gandhiji remarked, she and her team never knew what fatigue was and never claimed any special privilege. The Government Women’s College in Bhubaneswar was later renamed _**Rama Devi Women’s University**_ after her. She was awarded the Jamnalal Bajaj Award for Development & Welfare of Women and Children in 1981 in recognition of her services. She was also awarded an honorary doctorate by Utkal University in 1964. This great soul, fondly called ‘Maa’ by the people of Odisha took her last breath on 22nd July 1985. But her efforts and institutions continue to support the needy and inspire the people even today.
 
-**References **
+**References**
 
 [_About Rama Devi._](https://www.rdwuniversity.nic.in/history.html) Rama Devi Women's University, Bhubaneshwar, Odisha.
 
 Dr Chinmayee Satpathy, "[_Freedom Struggle and Rama Devi_](https://magazines.odisha.gov.in/Orissareview/April2006/engpdf/freedom_struggle_%20and%20rama%20devi_.pdf)". E-Magazines | Government of Odisha.
 
 [_Ms Ramadevi Choudhary Recipient of Jamnalal Bajaj Award for Development & Welfare of Women and Children-1981_](https://www.jamnalalbajajawards.org/Media/pdf/JBA_1981_Bio_Rama_Choudhury(1).pdf). Jamnalal Bajaj Foundation.
-
-_Previous musing: [Economics of Freedom (1965)](https://indianliberals.in/content/economics-of-freedom/)_
