@@ -17,7 +17,7 @@ tiles:
 - key: oral
   label: Oral history
 - key: thinkers
-  label: Thinkers profiled
+  label: Thinkers 
 - key: pieces
   label: Excerpts & opinions
 browse_heading: Browse the collection
@@ -57,3 +57,5 @@ testimonials_heading: What readers say
 testimonials_blurb: Scholars, journalists and public figures on what the archive has meant to them.
 testimonials_cta: All testimonials →
 ---
+
+
