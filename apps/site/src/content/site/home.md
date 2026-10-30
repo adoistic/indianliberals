@@ -16,8 +16,8 @@ tiles:
   label: Periodical issues
 - key: oral
   label: Oral history
-- key: thinkers
-  label: Thinkers 
+- label: Thinkers profiled 
+  key: thinkers 
 - key: pieces
   label: Excerpts & opinions
 browse_heading: Browse the collection
