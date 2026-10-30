@@ -6,7 +6,7 @@ name:
   full: Deepak Kumar Lal
 tradition: classical_liberal
 birth_year: 1940
-death_year: 2003
+death_year: 2020
 portrait: 
   photo: /thinkers/photos/deepak-lal.jpg
   caricature: /thinkers/caricatures/deepak-lal.png
