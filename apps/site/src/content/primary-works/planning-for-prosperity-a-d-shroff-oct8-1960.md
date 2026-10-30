@@ -21,7 +21,6 @@ publication:
 provenance: 
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/https://archive.indianliberals.in/forum-of-free-enterprise/https://archive.indianliberals.in/forum-of-free-enterprise/planning-for-prosperity-a-d-shroff-oct8-1960.pdf
 cover_image: https://archive.indianliberals.in/covers/planning-for-prosperity-a-d-shroff-oct8-1960.webp
 rights: 
   status: takedown_on_request
@@ -55,6 +54,7 @@ missing_metadata_flags:
 - no_formal_toc
 - no_explicit_publication_year_on_imprint
 - filename_date_disagrees_with_printed_evidence
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/planning-for-prosperity-a-d-shroff-Jan17-1957.pdf
 ---
 
 # Planning in India
