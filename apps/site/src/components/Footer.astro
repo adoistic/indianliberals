@@ -35,6 +35,7 @@ const builderCredit = t(identity, "builder_credit", "Ontology built by and site 
 const orgLogo = t(identity, "org_logo", "/brand/ccs-logo.svg");
 const builderLogo = t(identity, "builder_logo", "/brand/thothica-logo-black.png");
 const copyrightStart = n(identity, "copyright_start", 2009);
+const licenseUrl = "https://creativecommons.org/licenses/by-nc-sa/4.0/";
 
 // The sitemap: the same groups the header menu shows, from the navigation
 // copy when an editor has written it, else the built-in map. Counts are the
@@ -157,9 +158,17 @@ const footerLinks =
 
   {/* Colophon. */}
   <div class="bg-(--color-bg-muted) border-t border-(--color-border)">
-    <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted)">
-      <p>© {copyrightStart}–<span id="copyright-year" data-build-year={year}>{year}</span> {orgName}. All rights reserved.</p>
-      <nav aria-label="Footer">
+    <div class="mx-auto max-w-6xl px-6 py-5 flex flex-col md:flex-row items-center md:items-start justify-between gap-3 md:gap-8 text-xs text-(--color-fg-muted)">
+      {/* The licence sits under the copyright line it qualifies. "All rights
+          reserved" was dropped: it contradicts a CC licence (Adnan, 2026-11-11). */}
+      <div class="text-center md:text-left max-w-2xl leading-relaxed">
+        <p>© {copyrightStart}–<span id="copyright-year" data-build-year={year}>{year}</span> {orgName}.</p>
+        <p class="mt-1">
+          Unless expressly mentioned, the content on this website is licensed under a<br class="hidden md:inline" />
+          <a href={licenseUrl} rel="license noopener" target="_blank" class="text-(--color-forest-700) underline decoration-(--color-border) underline-offset-2 hover:text-(--color-fg) hover:decoration-current">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+        </p>
+      </div>
+      <nav aria-label="Footer" class="md:pt-px">
         <ul class="flex items-center gap-4">
           {footerLinks.map((l) => (
             <li><a href={l.href} class="hover:text-(--color-fg)">{l.label}</a></li>
