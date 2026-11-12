@@ -21,15 +21,18 @@ themes:
 - anti_planning
 - free_trade
 - austrian_economics
-affiliations:
+affiliations: 
 - gujarat-university
 - forum-of-free-enterprise
 - mont-pelerin-society
-portrait: 
-  photo: /thinkers/photos/b-r-shenoy.png
 bio_source: imported
 needs_review: true
 draft: false
+portrait: 
+  photo: /thinkers/photos/b-r-shenoy.jpg
+  caricature: /thinkers/caricatures/b-r-shenoy.jpg
+  ring_portrait: /thinkers/ring-portraits/b-r-shenoy.jpg
+  duotone: /thinkers/duotone/b-r-shenoy.jpg
 ---
 
 Professor Bellikoth Raghunath Shenoy (1905, 1978) was a classical liberal economist. Born on June 3, 1905, near Mangalore, Karnataka, he was educated at the Benares Hindu University (where he secured a first-class first at the MA Economics Exam in 1929) and later at the London School of Economics (LSE). As a student, he actively participated in the freedom struggle and was jailed at Nagpur. At LSE, he was inspired by the ideas of Professor Friedrich Hayek who later won the Nobel Prize in Economics.
