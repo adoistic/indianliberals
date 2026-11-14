@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/nehrus-criticism-that-private-enterprise-leads-to-monopoly-is-outdated-gn-lawande/1051839/) on 2026-11-07. Originally published 2026-10-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/nehrus-criticism-that-private-enterprise-leads-to-monopoly-is-outdated-gn-lawande/1051839/) on 2026-11-14. Originally published 2026-10-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # नेहरू की यह आलोचना कि प्राइवेट बिज़नेस से मोनोपॉली होती है, पुरानी हो चुकी है: जी. एन. लवांडे
 

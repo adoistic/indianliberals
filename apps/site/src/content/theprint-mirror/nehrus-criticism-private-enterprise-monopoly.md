@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/nehrus-criticism-private-enterprise-monopoly/3079978/) on 2026-11-07. Originally published 2026-10-24. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/nehrus-criticism-private-enterprise-monopoly/3079978/) on 2026-11-14. Originally published 2026-10-24. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Nehru’s criticism that private enterprise leads to monopoly is outdated: GN Lawande
 

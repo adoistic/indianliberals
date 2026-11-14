@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/amal-ray-explains-why-indian-federalism-is-weakening/1051852/) on 2026-11-07. Originally published 2026-10-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/amal-ray-explains-why-indian-federalism-is-weakening/1051852/) on 2026-11-14. Originally published 2026-10-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ‘राज्यों के पास जिम्मेदारियां ज्यादा, संसाधन कम’: अमल रे ने बताया क्यों कमजोर पड़ रहा भारतीय संघवाद
 

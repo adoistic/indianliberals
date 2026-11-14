@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/centre-state-financial-relations-federal-india-central-government-tax/3086590/) on 2026-11-07. Originally published 2026-10-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/centre-state-financial-relations-federal-india-central-government-tax/3086590/) on 2026-11-14. Originally published 2026-10-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Why this political scientist argued for restructuring centre-state financial relations in 1980s
 

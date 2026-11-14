@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/why-are-indias-youth-angry-and-disillusioned/1055346/) on 2026-11-07. Originally published 2026-11-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/why-are-indias-youth-angry-and-disillusioned/1055346/) on 2026-11-14. Originally published 2026-11-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # भारत के युवा नाराज और निराश क्यों हैं? बेरोजगारी, खोखली शिक्षा और राजनीति से टूटी उम्मीदें: वीवी जॉन
 
