@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/upas-left-wing-allies-were-obstructing-the-path-to-privatization-in-india/1058627/) on 2026-11-21. Originally published 2026-11-14. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/upas-left-wing-allies-were-obstructing-the-path-to-privatization-in-india/1058627/) on 2026-11-28. Originally published 2026-11-14. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # UPA के वामपंथी सहयोगी भारत में निजीकरण की राह रोक रहे थे: 2007 में इस अर्थशास्त्री ने दी थी चेतावनी
 

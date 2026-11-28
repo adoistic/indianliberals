@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/right-to-property-in-the-name-of-equality-this-1971-essay-had-an-answer/3104908/) on 2026-11-21. Originally published 2026-11-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/right-to-property-in-the-name-of-equality-this-1971-essay-had-an-answer/3104908/) on 2026-11-28. Originally published 2026-11-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Can the state take your property in the name of equality? This 1971 essay had an answer
 
